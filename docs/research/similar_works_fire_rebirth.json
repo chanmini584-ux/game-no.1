@@ -1,0 +1,1014 @@
+{
+ "games-souls": {
+  "verified": [
+   {
+    "title": "다크 소울 (Dark Souls)",
+    "medium": "game",
+    "year": "2011",
+    "creator": "FromSoftware",
+    "premise": "신 곤(Gwyn)이 몸을 바쳐 지핀 '최초의 불'이 꺼져가고 불사의 저주가 퍼진 세계에서 '선택받은 불사자'가 불을 다시 이을지(Link the Fire, Age of Fire) 꺼뜨리고 어둠의 군주가 될지(Dark Lord 엔딩, Age of Dark)를 선택한다.",
+    "fire_rebirth": "화톳불(bonfire)이 체크포인트이자 부활 지점이다. 죽으면 마지막 화톳불에서 되살아나고 공허화(Hollowing)로 쇠약해진다. 인류성(Humanity)으로 화톳불을 키울 수 있고(kindling), 일부 화톳불 곁에는 불의 수호자(Firekeeper)가 있다. 확인된 Firekeeper는 파이어링크 사당의 아나스타샤, 퀠라그 영역의 혼돈의 딸, 아노르 론도의 다크문 기사 여인이다. 다만 주인공 자신이 불씨는 아니고, 불은 곤이 지핀 세계의 불이다.",
+    "similarity": "high",
+    "overlap": [
+     "꺼져가는 세계의 불을 다시 이을지 말지가 핵심 선택이다. 우리 엔딩 A(화로를 다시 지펴 질서 유지)와 같은 구조다.",
+     "불을 이으면 주인공이 그 불의 연료이자 수호자가 된다. 우리 A의 '새 화덕지기'와 같은 구조다.",
+     "불을 잇지 않고 꺼뜨려 어둠의 시대를 여는 Dark Lord 엔딩이 있다. 우리 엔딩 B와 같은 방향이다.",
+     "불 옆 체크포인트에서 부활하고 죽으면 재화(소울)를 떨구며, 한 번 회수할 기회가 있다. 우리의 화로 체크포인트와 재(Ash) 떨구기에 해당한다.",
+     "화톳불 곁에서 불을 지키는 여인(Firekeeper)이 있다. 우리의 화덕지기 이미지와 겹친다.",
+     "신들(군주)의 힘이 불에서 나오고 불이 약해지면 쇠퇴한다."
+    ],
+    "verdict": "confirmed",
+    "correction_note": "작품명, 연도, 제작사, 핵심 줄거리는 맞다. 'Age of Dark'는 엔딩 이름이 아니라 시대 이름이고, 해당 엔딩의 정식 명칭은 Dark Lord 엔딩(카아세 안내)이다. 원 제출본의 gamesradar 링크는 확인하지 못했고, 아래 출처는 검색에서 직접 확인한 페이지다. 우리 초안과 구조가 가장 가깝다.",
+    "source": "https://darksouls.fandom.com/wiki/Age_of_Dark ; https://darksouls.fandom.com/wiki/Darkstalker_Kaathe ; https://darksouls.wiki.fextralife.com/Fire+Keeper+Soul"
+   },
+   {
+    "title": "다크 소울 3 (Dark Souls III)",
+    "medium": "game",
+    "year": "2016",
+    "creator": "FromSoftware",
+    "premise": "불을 잇기로 예정된 로스릭 왕자(Prince Lothric)가 의무를 거부해 불이 꺼져간다. 깨어난 과거의 불의 군주(Lords of Cinder) 대부분이 옥좌 복귀를 거부하자, 실패한 불사자 '불붙지 못한 자(Unkindled)' 중 하나인 재의 자(Ashen One)가 재의 묘지(Cemetery of Ash)에서 되살아나 군주들을 옥좌로 돌려보내고 최초의 불의 가마로 향한다.",
+    "fire_rebirth": "주인공은 불을 잇다 실패해 죽은 Unkindled이며 재의 묘지에서 깨어난다. 화톳불에서 부활하고 잔불(Embers)로 불씨 상태(Ember form)가 되어 강해진다. 허브 파이어링크 사당에는 Fire Keeper가 있다. 기본 엔딩은 불 잇기, 불의 종말(Fire Fades, Firekeeper 변형과 Unkindled 변형), 불 찬탈(Lord of Hollows)이고, DLC 'The Ringed City'에 별도 엔딩(Dark Soul을 회화세계 여인에게 바침)이 있다. 주인공의 사망은 반전이 아니라 처음부터 공개된 설정이다.",
+    "similarity": "high",
+    "overlap": [
+     "주인공이 재(Ash)와 불씨(Ember)의 존재로서 이미 죽었다 되살아난 자다. 우리 2막 반전('오프닝에서 이미 죽었고 불씨가 죽음을 빌려 쓰고 있었다')과 소재가 가장 가깝다. 다만 DS3는 처음부터 공개한다.",
+     "'잔불(Ember)'로 주인공 상태가 바뀐다.",
+     "불 잇기(A), 불 꺼뜨림(B), 불 찬탈이라는 변칙 해법(C 격) 엔딩 구도다.",
+     "화톳불 체크포인트와 허브의 Fire Keeper가 있다.",
+     "군주들이 옥좌와 불에 묶여 있다는 구조가 우리 '화덕지기' 이미지와 겹친다.",
+     "'재의 자(Ashen One)' 호칭이 우리 '재(Ash)' 재화·'불씨지기'와 이름·이미지가 겹친다."
+    ],
+    "verdict": "confirmed",
+    "correction_note": "로스릭 왕자의 거부, Unkindled와 재의 묘지, 엔딩 구성 모두 확인됐다. 엔딩은 기본 4종이고 DLC 엔딩이 별도로 하나 더 있다. 일부 위키 문서는 이 환경에서 직접 열람하지 못했고 검색 요약으로 확인했다.",
+    "source": "https://darksouls.fandom.com/wiki/Unkindled ; https://darksouls.fandom.com/wiki/Prince_Lothric ; https://darksouls3.wiki.fextralife.com/Endings"
+   },
+   {
+    "title": "다크 소울 2 (Dark Souls II)",
+    "medium": "game",
+    "year": "2014",
+    "creator": "FromSoftware",
+    "premise": "불사의 저주를 받은 '저주받은 자(Bearer of the Curse)'가 드랑글레익 왕국에서 저주의 치료법을 찾는다. 벤드릭 왕은 불을 이으면 저주를 잠시 가릴 뿐 다시 돌아온다는 사실을 알고 왕좌(Throne of Want)를 거부했다. 그는 스스로 공허화되어 왕비 나샨드라의 야망을 막으려 했다. 결말은 왕좌에 앉아 불을 잇는 길과, 학자 알디아를 쓰러뜨리고 왕좌를 떠나는 대안 엔딩으로 갈린다.",
+    "fire_rebirth": "죽을 때마다 화톳불에서 되살아나며 죽을수록 HP 최대치가 줄다 결국 공허화된다. 불을 이어도 소용없다는 회의가 주제다. 알디아는 불을 잇는 순환 자체를 끊으려던 인물이다.",
+    "similarity": "medium",
+    "overlap": [
+     "죽은 자가 화톳불에서 부활하고 대가가 누적된다. 우리의 재 떨구기와 같은 계열이다.",
+     "'불을 이어도 임시방편'이라는 회의와 알디아의 순환 끊기는 우리 엔딩 B, C의 문제의식과 닿는다.",
+     "왕좌를 차지해 불을 잇는 엔딩과 떠나는 엔딩의 양자택일 구도다. 우리 A와 B의 대비와 비슷하다."
+    ],
+    "verdict": "corrected",
+    "correction_note": "원 제출본에 사실 오류가 둘 있다. (1) 벤드릭은 불을 이었다가 꺼진 것이 아니라, 불을 이으려 했으나 일시적 해법임을 알고 왕좌를 거부한 뒤 스스로 공허화했다. (2) 나샨드라는 '쫓겨나거나 갇힌 왕가의 여인'이 아니라, 드랑글레익에 와서 왕좌와 불의 힘을 노리고 벤드릭을 유혹해 왕비가 된 인물이다. 그래서 '나샨드라 = 우리 아테' 대응 주장은 근거가 없어 삭제했다. 알디아의 '빛도 어둠도 아닌 제3의 길'은 의역이며, 출처상 정확한 표현은 '불을 잇는 순환을 끊으려는 길'이다.",
+    "source": "https://darksouls.fandom.com/wiki/Throne_of_Want ; https://darksouls2.wiki.fextralife.com/Aldia,+scholar+of+the+First+Sin ; https://en.wikipedia.org/wiki/Dark_Souls_II"
+   },
+   {
+    "title": "엘든 링 (Elden Ring, 확장 Shadow of the Erdtree 포함)",
+    "medium": "game",
+    "year": "2022",
+    "creator": "FromSoftware (퍼블리셔 Bandai Namco)",
+    "premise": "황금 나무 에르드트리와 엘든 링이 부서진 '사이의 땅'에서, 은총을 잃고 쫓겨났던 '더럽혀진 자(Tarnished)'가 은총의 인도로 불려와 엘든 로드를 노린다. 마리카가 엘든 링을 깨뜨린 뒤(Shattering) 후예인 반신들이 전쟁을 벌인다.",
+    "fire_rebirth": "죽으면 은총 지점(Site of Grace)에서 되살아난다. 엔딩은 Age of Fracture, Age of Order, Age of Stars, Age of the Duskborn, Lord of Frenzied Flame, 똥먹는 자(Dung Eater)의 저주 엔딩 등이 있다. 광염(Frenzied Flame) 엔딩은 불로 모든 것을 하나로 태우는 혼돈 노선이다.",
+    "similarity": "medium",
+    "overlap": [
+     "빛(금빛 은총) 계열 체크포인트에서 부활하고, 그 부활 능력이 신적 질서에서 온 '빌린 힘'이라는 설정이다.",
+     "신들의 질서를 복원(Age of Order)할지, 질서를 깨고 새 시대를 열지(Age of Stars), 불로 태워 하나로 만들지(Frenzied Flame)로 갈리는 엔딩 구도다.",
+     "신의 가족과 후예들의 분쟁 구도다(마리카, 후예들, 라니 등).",
+     "오픈월드 3인칭 소울라이크라는 장르와 규모가 우리 목표와 같다."
+    ],
+    "verdict": "corrected",
+    "correction_note": "작품·연도·제작사·엔딩 구성은 맞다. 다만 '은총은 마리카가 빼앗았다 돌려준 것'은 확인하지 못했다. 은총은 황금 나무(위대한 의지)의 인도이고, 더럽혀진 자는 그 인도를 잃은 자들이다. 라니를 '버려지거나 추방된 자식'으로 요약한 것도 부정확하다. 라니는 위대한 의지에 반역한 쪽이다. 유사도는 medium을 유지한다. 장르 규모와 구조는 가깝지만 불 서사의 중심은 아니다.",
+    "source": "https://eldenring.wiki.fextralife.com/Endings ; https://eldenring.wiki.gg/wiki/Endings"
+   },
+   {
+    "title": "로드 오브 더 폴른 (Lords of the Fallen, 2023)",
+    "medium": "game",
+    "year": "2023",
+    "creator": "Hexworks / CI Games",
+    "premise": "2014년 원작으로부터 약 1천 년 뒤의 세계다. 빛의 신 오리우스의 추종자들이 악신 아디르(악마족 로가르의 신)를 죽이지 못하고 봉인했고, 신성한 파수꾼(Hallowed Sentinels)이 다섯 개의 비콘으로 봉인을 감시한다. 파수꾼의 분파인 어둠의 십자군(Dark Crusaders)이 얻은 움브랄 램프를 든 램프지기(Lampbearer)가 죽음에서 끌려와 비콘을 정화하고 아디르의 부활을 막아야 한다.",
+    "fire_rebirth": "움브랄 램프가 사용자를 부활시키고 산 자의 세계(Axiom)와 죽은 자의 세계(Umbral)를 오가게 한다. 베스티지(Vestige)는 이전 램프지기들이 쓰러진 자리를 기리는 체크포인트다. Umbral에서 죽으면 마지막 베스티지에서 되살아난다. 엔딩은 Radiance, Umbral, Inferno(아디르 쪽) 3종이며, 비콘을 정화하느냐 등의 진행 조건으로 갈린다.",
+    "similarity": "medium",
+    "overlap": [
+     "'램프를 든 자'가 죽음을 넘나들며, 주인공이 이미 죽음에서 끌려온 존재다. 우리의 '불씨지기' 및 오프닝 사망 설정과 가깝다. 다만 불이 아니라 빛과 램프다.",
+     "체크포인트가 이전 불 운반자들의 흔적(Vestige)이다. 우리의 '자신이 불을 붙인 화로'와는 방향이 다르다.",
+     "신적 존재(오리우스, 아디르)와 봉인된 신의 부활이 엔딩 분기에 관여한다.",
+     "산 자와 죽은 자의 두 세계를 오가는 구도다. 우리 '닫힌 저승문' 설정과 대조되는 유사점이다."
+    ],
+    "verdict": "corrected",
+    "correction_note": "세 군데를 바로잡았다. (1) 엔딩은 '빛(오리우스)/어둠(아디르) 중 누구와 손잡느냐'가 아니라 Radiance/Umbral/Inferno 3종이며 비콘 정화 여부가 분기를 좌우한다. (2) '주인공은 램프지기로 소모된다'는 근거를 찾지 못해 삭제했다. (3) 부활은 베스티지가 아니라 움브랄 램프의 능력이다. 베스티지는 쓰러진 램프지기를 기리는 체크포인트다. 아디르는 처치된 것이 아니라 봉인된 상태다. 램프는 불이 아니라 빛 모티프라는 점을 감안해 medium을 유지한다.",
+    "source": "https://en.wikipedia.org/wiki/Lords_of_the_Fallen_(2023_video_game) ; https://www.ggrecon.com/guides/lords-of-the-fallen-endings/ ; https://thelordsofthefallen.wiki.fextralife.com/Vestiges"
+   },
+   {
+    "title": "애쉰 (Ashen)",
+    "medium": "game",
+    "year": "2018",
+    "creator": "A44(구 Aurora44, 뉴질랜드) / Annapurna Interactive",
+    "premise": "빛을 잃은 어두운 세계에서, 불사조 같은 신적 존재 '애쉰(Ashen)'의 죽음이 처음 빛을 낳았고 그 소멸과 함께 빛이 꺼졌다. 이제 거대한 애쉰이 다시 깨어나기 시작하며 말 없는 방랑자(Wanderer)가 그 빛을 어둠으로부터 지키고, 정착지 '배그런트 레스트(Vagrant's Rest)'에 생존자를 모은다. 전 애쉰 수호자 바타란(Bataran)이 안내자 겸 대장장이로 합류한다.",
+    "fire_rebirth": "'재의 불사조'의 부활이 서사 중심이다. 플레이어도 죽으면 화톳불 격인 의식 석(Ritual Stone)에서 되살아나며, 재화 '스코리아(Scoria)'를 떨구고 한 번 회수할 수 있다. 캠프파이어에서는 동료 NPC를 정착지로 이끌 수 있다.",
+    "similarity": "medium",
+    "overlap": [
+     "'Ash'를 이름으로 삼은 불사조 계열 빛의 존재가 죽음에서 되살아나 세계에 빛을 돌려준다. 우리의 '불씨', '꺼진 화로'와 모티프가 같다.",
+     "빛과 불이 꺼진 어두운 세계를 되살린다는 큰 틀이다.",
+     "정착지를 키우고 NPC가 모이는 구조는 우리의 '화로를 다시 지피며 진행'과 대응 가능하다."
+    ],
+    "verdict": "corrected",
+    "correction_note": "회사, 연도(2018년 12월 7일 PC/Xbox One), 줄거리 큰 틀은 맞다. 다만 원 제출본의 '플레이어 자신이 되살아나는 구조는 아니다'는 틀렸다. 플레이어는 의식 석에서 부활하고 스코리아를 떨구며 회수할 수 있는 소울라이크식 구조다. '쉬는 곳은 캠프'는 부정확하고 체크포인트는 의식 석이다. 캠프는 NPC를 끌어들이는 거점이다. '나무 가지에 내려앉는' 묘사는 확인하지 못해 삭제했다. 바타란 설정은 일부 팬 사이트 의존이 있으나 복수 출처에서 일치한다.",
+    "source": "https://en.wikipedia.org/wiki/Ashen_(2018_video_game) ; https://annapurnainteractive.com/games/ashen ; https://www.pcgamer.com/ashen-review"
+   },
+   {
+    "title": "데스 갬빗 (Death's Gambit)",
+    "medium": "game",
+    "year": "2018",
+    "creator": "White Rabbit / Adult Swim Games",
+    "premise": "2D 횡스크롤 소울라이크 메트로이드바니아다. 기사 소른(Sorun)은 불멸의 비밀을 얻으러 파견된 원정대와 함께 전멸한 뒤, 죽음(Death)이 제안한 계약으로 되살아난다. 조건은 불멸의 근원을 파괴하는 것이다. 근원은 알드윈(Aldwynn)의 카에르 시오라이(Caer Siorai) 성채에 있고, 시라돈(Siradon)은 그가 싸우며 지나는 왕국이다. 그의 부모도 이전 원정에서 실종됐다.",
+    "fire_rebirth": "죽으면 죽음의 계약으로 되살아난다. 죽을 때 재화(Shards)는 잃지 않고 회복용 깃털(Plume)이 사망 지점에 남는다. 이를 회수하거나 신전에서 Shards를 내고 되찾는다. 깃털류는 회복 아이템이며 일부는 임시 버프를 준다. 불은 부활의 모티프이고(불사조 깃털 시리즈) 서사의 중심 불은 아니다.",
+    "similarity": "medium",
+    "overlap": [
+     "주인공이 '이미 죽었다가 죽음의 계약으로 되살아난 기사'다. 우리 2막 반전의 구조와 가깝다. 다만 이 게임은 처음부터 공개한다.",
+     "사망 시 깃털을 떨구고 회수하는 방식이 우리의 재(Ash) 떨구기와 같은 소울라이크 관행이다.",
+     "불멸을 가능케 하는 '근원'을 파괴해 죽음의 질서를 되돌리는 결말은 우리 엔딩 B와 닿는다.",
+     "죽음이 직접 개입하는 구조는 우리의 '닫힌 저승문' 문제와 대응한다."
+    ],
+    "verdict": "corrected",
+    "correction_note": "작품, 연도(2018년 8월 14일), 제작·배급사, 소른의 '죽음과의 계약' 설정은 맞다. 오류와 보완은 다음과 같다. (1) 불멸의 근원은 '시라돈의 성채'가 아니라 알드윈의 카에르 시오라이이고, 시라돈은 왕국명이다. (2) 3인칭이 아니라 2D 횡스크롤이다. (3) 깃털이 무기에 부여된다는 설명은 확인하지 못했다. 확인된 것은 임시 버프까지다. (4) 원 제출본의 '불사조 깃털' 표기는 'Great Phoenix Plume' 위키 항목이 있어 개연성은 있으나 최초 아이템의 정확한 이름은 확인하지 못했다. 사용자가 말한 '불 속에서 부활하는 기사'와 가장 literal하게 겹치는 후보지만 불 서사 비중이 낮아 medium을 유지한다.",
+    "source": "https://en.wikipedia.org/wiki/Death%27s_Gambit ; https://www.rpgsite.net/news/7148-indie-sidescroller-rpg-death-s-gambit-launches-on-august-14 ; https://twinfinite.net/reviews/deaths-gambit-review/ ; https://deathsgambit.wiki.fextralife.com/Great+Phoenix+Plume"
+   },
+   {
+    "title": "데드 셀 (Dead Cells)",
+    "medium": "game",
+    "year": "2018",
+    "creator": "Motion Twin",
+    "premise": "감옥섬 깊은 곳에서 기억 없이 깨어난 '죄수(Prisoner, 일명 Beheaded)'는 불꽃이나 연기처럼 보이는 머리를 가진 불멸의 존재다. 그는 머리 없는 시체에 깃들어 말라이즈(Malaise)로 무너진 왕국에서 왕을 죽이러 간다.",
+    "fire_rebirth": "몸이 파괴되면 머리가 죄수의 방(Prisoners' Quarters)으로 돌아가 새 시체를 찾는다. 머리(불꽃 같은 본체)는 불멸이고 빌려 쓰는 몸이 죽는다. 왕을 죽여도 순환은 이어진다. 소울라이크가 아니라 로그라이트 메트로이드바니아다.",
+    "similarity": "medium",
+    "overlap": [
+     "불꽃 같은 존재가 죽은 몸을 빌려 쓴다는 설정이 우리 2막 반전('불씨가 죽음을 빌려 쓰고 있었다')과 이미지·구조가 가장 가깝다. 다만 이 게임은 처음부터 공개한다.",
+     "주인공이 말이 없고 정체가 불명이며 왕 처치 후에도 순환이 이어진다.",
+     "다크 판타지와 죽음-부활 루프가 서사의 핵심 장치다."
+    ],
+    "verdict": "confirmed",
+    "correction_note": "주요 사실은 맞다. 머리는 출처마다 불꽃·연기 같은 가스, 녹색 덩어리 등으로 묘사가 달라 '불꽃처럼 보이는'이라는 표현으로 충분하며, 실제 불은 아니다. 신, 화로, 올림포스 같은 구조는 없어서 유사도는 '부활 메커니즘(몸을 빌려 쓰는 불꽃)'에 한정된다. 서사 전체로는 낮다.",
+    "source": "https://en.wikipedia.org/wiki/Dead_Cells ; https://deadcells.wiki.gg/wiki/Beheaded"
+   },
+   {
+    "title": "세키로: 섀도우 다이 트와이스 (Sekiro: Shadows Die Twice)",
+    "medium": "game",
+    "year": "2019",
+    "creator": "FromSoftware",
+    "premise": "용의 유산(Dragon's Heritage)을 가진 신의 자손(Divine Heir) 쿠로를 지키는 늑대(Wolf)가 팔을 잃고도 쿠로의 피로 부활해 쿠로를 되찾는다. 엔딩은 Shura, Purification, Immortal Severance(불사 끊기), Return 4종이다.",
+    "fire_rebirth": "치명상을 입어도 '부활의 힘' 충전분으로 체력 절반으로 즉시 되살아난다. 이 힘은 쿠로의 피(용의 유산)를 나눠 받은 것이다. 조각가의 불상(Sculptor's Idol)이 체크포인트이고 불상에서 쉬면 충전분이 회복된다. 불 모티프는 약하다.",
+    "similarity": "medium",
+    "overlap": [
+     "주인공의 부활 능력이 다른 존재(쿠로)의 불사에서 빌린 것이라 대가가 따른다. 우리 '불씨가 죽음을 빌려 씀'과 유사하다.",
+     "Immortal Severance 엔딩은 불사를 끊는 쪽이라 우리 엔딩 B와 같은 방향이다.",
+     "같은 Immortal Severance 엔딩의 에필로그에서 늑대가 조각가의 뒤를 이어 불상을 깎는 모습이 암시된다."
+    ],
+    "verdict": "corrected",
+    "correction_note": "작품, 연도, 부활 구조는 맞다. 단 원 제출본은 '불사 끊기 엔딩'과 '조각가의 뒤를 잇는 엔딩'을 별개 두 엔딩처럼 겹쳐 적었는데, 출처상 둘은 같은 Immortal Severance 엔딩이다. 게다가 이는 에필로그에서 암시되는 정도이고, 게임이 늑대를 '조각가'라 부르지는 않는다. 우리 A의 '새 화덕지기와 거의 같은 구조'라는 평가는 과장이다. 불상을 깎는 것은 불을 지켜 질서를 유지하는 역할이 아니라 은퇴한 속죄에 가깝다.",
+    "source": "https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice ; https://sevenswords.uk/sekiro-lore-explained-who-is-the-sculptor/ ; https://support.activision.com/ko/sekiro/articles/sekiro-shadows-die-twice-vitality-and-resurrection"
+   },
+   {
+    "title": "엔슈라우디드 (Enshrouded)",
+    "medium": "game",
+    "year": "2024 (얼리 액세스, 2024-01-24 출시)",
+    "creator": "Keen Games",
+    "premise": "치명적인 안개 '슈라우드(Shroud)'가 삼킨 폐허 왕국 엠버베일(Embervale)에서, 플레임본(Flameborn)이 신트 플레임 힘으로 슈라우드를 밀어내며 땅을 되찾는다. 게임은 플레임본이 신더 베슬(Cinder Vessel)에서 깨어나 고대 지하 금고를 빠져나오며 시작한다.",
+    "fire_rebirth": "플레임 제단(Flame Altar)을 직접 세워 거점으로 삼고, 죽으면 마지막으로 쓴 Flame Altar 또는 리턴 비콘에서 되살아난다. 제단 근처에서는 슈라우드 타이머가 회복되고, 슈라우드 안에서 타이머가 다하면 죽는다. 더 깊은 슈라우드는 불꽃 레벨을 올려야 들어갈 수 있다. 서사는 오픈월드 생존 건설에 가깝다.",
+    "similarity": "medium",
+    "overlap": [
+     "'불꽃을 되살려 어둠(안개)을 밀어낸다'는 진행 구조가 우리 '지역마다 화로를 다시 지핀다'와 가장 가까운 게임 루프다.",
+     "플레이어가 직접 세운 불 제단에서 부활한다. 우리의 '자신이 불을 붙인 화로에서 되살아난다'와 구조가 일치한다.",
+     "오픈월드 3인칭 액션 RPG라는 형태와 규모가 같다.",
+     "'플레임본'이라는 불꽃 정체성은 우리 '불씨지기'와 호칭이 닮았고, 봉인된 상태에서 깨어난다는 시작도 비슷하다."
+    ],
+    "verdict": "corrected",
+    "correction_note": "작품, 제작사, 얼리 액세스 출시일은 확인됐다. 보완할 점은 다음과 같다. (1) 플레임본의 기원은 출처마다 달라서 '고대인과 인간의 혼혈 후손'으로 단정할 수 없다. 한 가이드는 혼혈로, 다른 출처는 엠버베일을 재건하려고 만들어져 봉인된 존재로 설명한다. (2) 부활 지점은 Flame Altar만이 아니라 Return Beacon도 포함한다. (3) 아직 얼리 액세스이며 정식 1.0은 2026-10-15 예정이라는 정보가 있으나 공식 확인은 못 했다. 스토리 유사도는 낮지만 게임 루프 유사도는 목록에서 가장 높다.",
+    "source": "https://www.gematsu.com/2023/11/enshrouded-launches-in-early-access-on-january-24-2024 ; https://xgamingserver.com/blog/enshrouded-shroud-flame-progression/ ; https://www.keengamer.com/articles/previews/enshrouded-preview-embervale-unveiled/"
+   },
+   {
+    "title": "코드 베인 (Code Vein)",
+    "medium": "game",
+    "year": "2019",
+    "creator": "Bandai Namco Studios (퍼블리셔 Bandai Namco Entertainment)",
+    "premise": "심장에 기생 생물을 이식해 시체에서 되살아난 불사의 '리버넌트(Revenant)'들이 피구슬(Blood Beads)에 의존해 사는 붕괴한 도시에서, 기억을 잃은 주인공이 '퀸(Queen)'이 일으킨 재앙의 진실을 파헤친다. 피구슬이 부족하면 리버넌트는 이성을 잃고 '로스트(Lost)'가 된다.",
+    "fire_rebirth": "체크포인트는 미스틀(Mistle)이다. 쉬면 적이 부활하고 마지막 미스틀에서 되살아난다. 불이 아니라 피가 자원이며, 소울라이크식 재화는 헤이즈(Haze)다.",
+    "similarity": "low",
+    "overlap": [
+     "주인공이 시체를 되살린 불사의 존재라 '이미 죽은 자'라는 점이 우리 반전과 겹친다.",
+     "기억을 잃은 채 깨어나 정체를 찾는 구조다.",
+     "쉴 때 적이 부활하고 죽으면 재화를 떨구는 소울라이크 표준 루프다."
+    ],
+    "verdict": "corrected",
+    "correction_note": "개발사가 틀렸다. 원 제출본은 Shift라고 했지만 개발은 Bandai Namco Studios이고 출시는 2019-09-27이다. '미스틀 = 식물' 묘사는 확인하지 못했다. 확인된 것은 화톳불 격의 체크포인트·귀환 거점이라는 점이다. 불 모티프가 없어 유사도 low는 적절하다.",
+    "source": "https://en.wikipedia.org/wiki/Code_Vein ; https://codevein.wiki.fextralife.com/MIstle"
+   },
+   {
+    "title": "바운드 바이 플레임 (Bound by Flame)",
+    "medium": "game",
+    "year": "2014",
+    "creator": "Spiders / Focus Home Interactive",
+    "premise": "얼음의 군주들(Lords of Ice)과 그 언데드 군대에 맞서 붉은 학자들(Red Scholars)이 벌인 의식을 호위하던 용병 벌칸(Vulkan, 원 표기 Vulcan)이 의식이 틀어지며 불꽃 악마에게 빙의된다. 악마의 힘을 받아들일지 거부할지에 따라 몸과 관계, 엔딩이 갈린다.",
+    "fire_rebirth": "불이 주인공 몸 안에 깃든 '내부의 악마'다. 악마 노선을 택하면 외형이 변한다. 서사적으로 부활 구조는 없다. 부활·체크포인트 방식은 확인하지 못했다. 스토리 평은 약했다.",
+    "similarity": "low",
+    "overlap": [
+     "불이 주인공 안에 깃들어 힘을 주고 인간성을 갉아먹는다. 우리의 '불씨가 몸을 쓴다'와 방향이 일부 겹친다.",
+     "불을 거부하거나 수용하는 선택이 엔딩을 가른다."
+    ],
+    "verdict": "corrected",
+    "correction_note": "작품, 연도(2014), 제작사는 맞다. 주인공 표기는 Vulkan이 맞고, 용병단 이름은 출처마다 달라(Pure-Blades/Freeborn Blades) 확정하지 못했다. 원 제출본의 '부활이나 화로 체크포인트 구조는 없다'는 확인하지 못했다. 이 부분은 근거가 없는 단정이라 약화했다. 장르는 소울라이크가 아니라 더 위쳐 2류 3인칭 액션 RPG다. 유사도 low는 적절하다.",
+    "source": "https://www.denofgeek.com/games/bound-by-flame-review ; https://giantbomb.com/wiki/Games/Bound_By_Flame"
+   },
+   {
+    "title": "모탈 셸 (Mortal Shell)",
+    "medium": "game",
+    "year": "2020",
+    "creator": "Cold Symmetry (퍼블리셔 Playstack)",
+    "premise": "과거가 없는 '파운들링(Foundling)'이 안개 낀 연옥 같은 폐허 펠그림(Fallgrim)에서 죽은 이들이 남긴 껍데기(셸)에 깃들어 싸운다. 거점 펠그림 탑에는 가면을 쓴 거인 '옛 죄수'가 속박되어 있고, 파운들링은 그를 풀어주려고 성스러운 분비샘(Gland)을 모은다.",
+    "fire_rebirth": "주인공은 약한 영혼이 껍데기를 갈아입으며 싸우는 존재다. 재화는 타르(Tar)이며 죽으면 한 번 회수할 기회가 있다. 체크포인트는 세스터 제네사(Sester Genessa)다. 불은 핵심 소재가 아니다.",
+    "similarity": "low",
+    "overlap": [
+     "주인공이 약한 영혼으로서 이미 죽은 몸을 빌려 쓴다. 우리 반전('죽음을 빌려 쓴다')과 메커니즘적으로 유사하다.",
+     "죽으면 한 번 회수 기회가 있는 재화다. 우리의 '재' 떨구기와 같은 계열이다."
+    ],
+    "verdict": "confirmed",
+    "correction_note": "작품, 연도, 제작사와 타르 1회 회수 규칙, 펠그림 탑 거점은 확인됐다. 소소한 보정은 있다. 퍼블리셔는 Playstack이다. 셸은 '죽은 전사의 시체'라기보다 이전 주인이 남긴 갑옷·껍데기라는 표현이 출처에 가깝다. '사슬에 묶인'은 '속박된'으로 순화했다. 유사도 low는 적절하다.",
+    "source": "https://pcgamer.com/mortal-shell-review ; https://mortalshell.wiki.fextralife.com/Fallgrim+Tower"
+   },
+   {
+    "title": "하데스 (Hades)",
+    "medium": "game",
+    "year": "2020",
+    "creator": "Supergiant Games",
+    "premise": "하데스의 아들 자그레우스가 진짜 어머니 페르세포네를 찾아 저승을 탈출하려 반복해 죽으며 돌파한다. 자그레우스는 밤의 여신 닉스가 키워서 그녀를 어머니로 알고 자랐다. 게임 속 설정에서는 제우스가 코레(페르세포네)를 하데스에게 '선물'하듯 보냈고, 이 억지 결합이 가족 갈등의 배경이다.",
+    "fire_rebirth": "죽을 때마다 저승 '하데스의 집'에서 되살아나며 실패가 곧 성장이다. 제우스를 비롯한 올림포스 신들이 도우미이자 가족으로 등장한다. 불이 핵심 소재는 아니다.",
+    "similarity": "low",
+    "overlap": [
+     "그리스 신화 배경이고 '죽음이 곧 부활과 진행'이라는 서사 핵심 구조다.",
+     "올림포스 신가의 가족 갈등이 이야기 동력이다. 우리의 '제우스에게 쫓겨난 딸 아테'와 같은 계열의 소재다.",
+     "저승을 오가는 구조는 우리의 '닫힌 저승문' 설정과 대비되는 유사점이다."
+    ],
+    "verdict": "confirmed",
+    "correction_note": "작품, 연도, 제작사, 줄거리는 확인됐다. Epic Games의 줄거리 정리가 '제우스가 코레를 하데스에게 선물'했다는 점을 뒷받침한다. 다만 '제우스의 횡포가 이야기 동력'은 과장이다. 중심 갈등은 하데스-페르세포네-자그레우스의 가족사이고 제우스는 배경 원인에 가깝다. 로그라이크 액션이라 소울라이크도 아니다. 유사도 low는 적절하다. 그리스 신화 세계관이 겹친다는 점만 인지하면 된다.",
+    "source": "https://store.epicgames.com/news/killing-time-in-hades-a-comprehensive-summary-of-the-story-so-far ; https://en.wikipedia.org/wiki/Hades_(video_game)"
+   }
+  ],
+  "rejected": []
+ },
+ "games-myth-recent": {
+  "verified": [
+   {
+    "title": "Dark Souls (2011) / Dark Souls III (2016)",
+    "medium": "game",
+    "year": "2011 / 2016",
+    "creator": "FromSoftware (Hidetaka Miyazaki 감독·원안, DS3는 미야자키가 총괄)",
+    "premise": "DS1은 '선택받은 불사자(Chosen Undead)'가 불의 시대를 이을지(Link the Fire) 어둠의 시대로 보낼지 고르는 이야기다. DS3는 종소리와 함께 '재의 군주(Lords of Cinder)'들이 대부분 왕좌를 떠나고, 불을 잇는 데 실패했던 불사자 '불씨 없는 자(Unkindled)', 곧 '재의 자(Ashen One)'가 무덤에서 일어나 군주들을 왕좌로 돌려보내는 이야기다.",
+    "fire_rebirth": "죽으면 화톳불(bonfire)에서 되살아나고, 화톳불에서 쉬면 적이 다시 나온다. 죽은 자리에 영혼(재화)을 떨구고 되찾으러 가는 구조다. DS3의 화덕지기(Firekeeper)는 영혼을 레벨로 바꿔 주는 NPC이며 엔딩 분기에도 관여한다. DS3 엔딩은 보통 4개로 센다. 불을 잇는 Link the Fire, 불을 꺼뜨리는 Fire Fades(End of Fire), 불을 찬탈하는 Usurpation of Fire, Lord of Hollows(어둠 계열)다. DS1은 Link the Fire와 Dark Lord(어둠의 시대) 두 갈래다.",
+    "similarity": "high",
+    "overlap": [
+     "체크포인트=화로/화톳불, 죽으면 재화를 떨구고 되찾으러 가기: 초안의 핵심 루프와 사실상 같은 구조다. 확인됨.",
+     "'불씨(Ember)', '화덕지기(Firekeeper)', '재(Ashen/Cinder)' 어휘가 DS3와 직접 겹친다. 확인됨. 단 DS3 재화는 '재'가 아니라 '영혼(Souls)'이므로, 초안의 '재(Ash)'는 어휘만 겹치고 재화 개념은 다르다.",
+     "엔딩 A(불을 다시 지펴 질서 유지, 주인공이 새 화덕지기)는 Link the Fire와 구조가 거의 같다. 엔딩 B(신들의 시대 종료)는 Fire Fades(End of Fire)/Age of Dark 계열과 겹친다. 엔딩 C(불을 나눔)에 정확히 대응하는 DS 엔딩은 확인되지 않았다.",
+     "주인공이 이미 죽었거나 실패한 불사자라는 설정(Undead, DS3의 Unkindled)이 2막 반전과 방향이 비슷하다. 확인됨.",
+     "원 제출의 '2024~2026년 출시작 중 그리스 신화+올림포스 화로 소등+화로 부활+저승문 폐쇄를 한 세트로 묶은 작품은 없다'는 결론은 '없음'이라는 부정 주장이라 검증할 수 없다. 이번 검증에서는 Dawn of Defiance가 '저승문 봉인+신들 부재'를 부분적으로 공유한다는 점이 새로 확인됐다."
+    ],
+    "verdict": "corrected",
+    "correction_note": "DS3 엔딩을 3개로 쓴 부분을 4개(Link the Fire / Fire Fades=End of Fire / Usurpation of Fire / Lord of Hollows)로 바로잡았다. 'Usurp the Fire'는 DS1이 아니라 DS3 용어다. DS3 오프닝은 '군주들이 대부분 왕좌를 떠났고 Ludleth만 남았다'가 정확하다. Ashen One=Unkindled, Firekeeper, Lords of Cinder 설정은 확인됐다. 유사도 high는 타당하다.",
+    "source": "https://en.wikipedia.org/wiki/Dark_Souls_III ; https://en.wikipedia.org/wiki/Dark_Souls_(video_game) ; https://darksouls.fandom.com/wiki/Unkindled ; https://primagames.com/tips/dark-souls-3-how-get-best-ending"
+   },
+   {
+    "title": "Hades II",
+    "medium": "game",
+    "year": "2024-05-06 (얼리 액세스) / 2025-09-25 (1.0, PC·Switch) / 2026-04-14 (PS5·Xbox Series)",
+    "creator": "Supergiant Games",
+    "premise": "하데스의 딸 멜리노에가 타르타로스에서 탈출한 시간의 티탄 크로노스를 막기 위해 저승에서 지상과 올림포스까지 올라간다. 올림포스 신들이 boon(은총)을 빌려준다.",
+    "fire_rebirth": "죽으면 저승의 허브 '교차로(Crossroads)'로 돌아오는 루프다. 크로노스는 처치해도 재생해서 다른 밤에 다시 도전할 수 있다. 헤스티아는 불과 화로의 올림포스 여신으로, 문의 불꽃 표식으로 boon을 주는 신이다. 그녀의 boon은 대부분 Scorch(화상 지속 피해)를 중심으로 한다.",
+    "similarity": "medium",
+    "overlap": [
+     "헤스티아(화로의 여신)가 직접 등장해 불 컨셉을 맡는다. 확인됨. '헤스티아의 불' 소재를 이미 대중이 접했다는 뜻이다.",
+     "저승에서 올림포스로 올라가는 여정과 신들의 도움이라는 구조가 지역별 화로 점화+올림포스행과 겹친다.",
+     "죽음이 서사 안에 편입된 부활 루프(교차로 복귀)와 '죽음이 끝이 아닌 존재'라는 테마가 겹친다.",
+     "'교차로(Crossroads)' 용어는 Hades II와 Dawn of Defiance 둘 다 쓰므로 피하는 편이 안전하다."
+    ],
+    "verdict": "corrected",
+    "correction_note": "(1) '헤스티아의 boon은 전부 불 속성'은 과장이다. 대부분이 Scorch 중심이지만 Hot Pot(회피 확률)처럼 비공격 효과도 있다. 또 '동료 신'이라기보다 boon을 주는 올림포스 신 중 하나다. (2) '1.0 이후 크로노스가 매일 밤 되살아난다'는 표현이 부정확하다. 확인된 것은 처치해도 재생해 다른 밤에 다시 도전할 수 있다는 점이고, 1.0의 진엔딩은 자그레우스가 크로노스를 죽이지 않고 자비를 베푸는 시간여행 전개다. (3) 연표: 얼리 액세스 2024-05-06, 1.0은 2025-09-25(PC·Switch), PS5/Xbox는 2026-04-14로 확인됐다. (4) 유사도를 high에서 medium으로 낮췄다. 로그라이크 액션이고 헤스티아는 화력 속성 신일 뿐 '화로가 꺼진다'는 전제가 없어 스토리 구조 겹침은 중간이다. 다만 시장 인지(그리스+헤스티아+죽음 루프) 측면의 충돌 위험은 높다.",
+    "source": "https://www.rpgsite.net/news/19972-hades-2-ps5-release-date-xbox-game-pass ; https://www.thesixthaxis.com/2024/05/06/hades-2-early-access/ ; https://www.thesixthaxis.com/2024/10/16/hades-ii-olympic-update-adds-a-new-region-weapons-and-more-allies/ ; https://en.wikipedia.org/wiki/Hades_II"
+   },
+   {
+    "title": "Hades",
+    "medium": "game",
+    "year": "2018 (Epic 얼리 액세스, Steam 얼리 액세스는 2019-12) / 2020-09-17 (1.0)",
+    "creator": "Supergiant Games",
+    "premise": "저승 신 하데스의 아들 자그레우스가 아버지의 집(저승)에서 탈출해 올림포스로 향하려 한다. 올림포스 신들이 도와주고, 죽을 때마다 가족이 있는 하데스의 집으로 돌아온다.",
+    "fire_rebirth": "죽으면 스틱스 강을 거쳐 하데스의 집에서 되살아나는 것이 곧 서사 장치다. 불은 핵심 소재가 아니다.",
+    "similarity": "medium",
+    "overlap": [
+     "그리스 신화+죽음/부활 루프를 서사 정체성으로 쓴 가장 대중적인 선례다.",
+     "저승과 올림포스 신들의 관계를 다룬다.",
+     "장르(로그라이크)와 불 중심 세계관이 달라 직접 충돌 위험은 낮다."
+    ],
+    "verdict": "confirmed",
+    "correction_note": "사실관계는 맞다. 연도만 정밀화했다: Epic Games Store 얼리 액세스 2018-12-06, Steam 얼리 액세스 2019-12, 1.0 2020-09-17, 콘솔 2021-08-13. 이번 검색에서 스틱스 강의 구체 역할은 직접 확인하지 못했지만 널리 알려진 설정이다.",
+    "source": "https://www.giantbomb.com/games/3030-71297/ ; https://nichegamer.com/2020/09/18/hades-leaves-early-access-now-available-for-pc-and-switch/ ; https://store.steampowered.com/app/1145360/Hades/"
+   },
+   {
+    "title": "Immortals Fenyx Rising",
+    "medium": "game",
+    "year": "2020 (2020-12-03)",
+    "creator": "Ubisoft Quebec (Ubisoft)",
+    "premise": "티폰이 풀려나 올림포스 신들이 힘을 잃고 변신·약화된 상태다. 난파해 황금 섬에 닿은 필멸의 전사 페닉스(Fenyx)가 헤르메스와 함께 신들을 해방하고 '신들의 전당'으로 모아 티폰에 맞선다. 제우스와 프로메테우스가 이야기를 주고받는 액자 구조다(호메로스 대신 프로메테우스·제우스를 내레이터로 바꿨다).",
+    "fire_rebirth": "불/부활이 중심은 아니다. 불사조 동료 '포스포르(Phosphor)'가 나오고, 'Fenyx'가 'Phoenix'를 일부러 틀리게 쓴 철자라는 해석이 있다(Inverse). 다만 Ubisoft 공식 설명은 불사조 언급 없이 주인공과 신화의 테마를 내세운다.",
+    "similarity": "high",
+    "overlap": [
+     "그리스 신화 오픈월드 3인칭 액션 RPG라는 장르/배경이 동일하고, '약해진 신들을 필멸자 영웅이 되살린다'는 뼈대가 같다.",
+     "헤르메스가 도착 직후 주인공을 맞아 '오직 페닉스만이 신들을 구할 수 있다'는 예언을 전하는 안내자다. 초안은 추락한 헤르메스가 불씨와 샌들을 준다는 점이 다르다.",
+     "신들을 하나씩 해방해 신들의 전당으로 모으는 구조가 '지역마다 화로를 지피며 올림포스로'와 비슷하다.",
+     "다이달로스의 날개로 활공하며 이동한다. 헤르메스 활공 샌들과 이동 판타지가 겹친다.",
+     "차별화: 초안은 소울라이크 전투와 죽음의 대가, 흑막이 복수가 아니라 귀환을 바란다는 점이 다르다."
+    ],
+    "verdict": "corrected",
+    "correction_note": "'섬 주민 석화'의 책임이 어디에 있는지는 자료마다 서술이 달라(후반 반전에서 제우스 책임으로 요약하는 글도 있음) 단정하지 않는 것이 좋다. 'Fenyx' 작명의 불사조 연관은 철자와 포스포르 동료에서 오는 추정이며 공식 확인은 없다. 그 외 개발사, 헤르메스의 안내자 역, 활공(다이달로스의 날개), 프로메테우스·제우스 프레임은 확인됐다.",
+    "source": "https://quebec.ubisoft.com/en/ubisoft-quebec-reveals-immortals-fenyx-rising/ ; https://www.inverse.com/gaming/immortals-fenyx-rising-gods-and-monsters-name-change-energy-drink ; https://stevivor.com/previews/immortals-fenyx-rising-preview-new-name-familiar-look ; https://en.wikipedia.org/wiki/Immortals_Fenyx_Rising"
+   },
+   {
+    "title": "God of War (그리스 시대: 2005~2013) 및 2026년 리메이크 발표",
+    "medium": "game",
+    "year": "2005-2013 / 리메이크 2026-02-12 발표",
+    "creator": "Santa Monica Studio (Sony)",
+    "premise": "스파르타 전사 크라토스가 올림포스 신들에게 복수한다. 제우스에게 죽임을 당해 저승에 떨어지지만 가이아의 도움으로 기어 나오고, 결국 올림포스 신들을 줄줄이 처치해 신들의 시대를 끝낸다. 2026-02-12 State of Play에서 그리스 3부작 리메이크가 로고만 공개됐고(플랫폼·일정 미정, 초기 개발), 2D 스핀오프 Sons of Sparta가 같은 날 출시됐다.",
+    "fire_rebirth": "크라토스는 가족의 재가 피부에 묻은 '스파르타의 유령'이다. 전투 도구로 카오스의 블레이드(불길 무기)를 쓴다. 저승으로 떨어졌다가 복귀해 올림포스를 오르는 흐름은 GoW II·III의 줄거리다.",
+    "similarity": "medium",
+    "overlap": [
+     "저승에서 돌아와 올림포스로 오르는 흐름과 신들의 시대를 끝내는 결말이 엔딩 B와 겹친다.",
+     "'재를 두른 주인공' 이미지가 재(Ash) 모티프와 겹친다.",
+     "시리즈에 헤르메스의 부츠(Boots of Hermes)가 있다. 헤르메스를 죽여 얻는 GoW III의 속도 장비로, 헤르메스 신발 소재는 새롭지 않다.",
+     "2026년 리메이크 발표(TC Carson 복귀 보도)로 그리스 신화 AAA 액션의 시장 노출이 커질 전망이다."
+    ],
+    "verdict": "confirmed",
+    "correction_note": "리메이크 발표일(2026-02-12), 로고만 공개, 일정·플랫폼 미정, Sons of Sparta 동시 출시(PS5, 2D, Mega Cat Studios와 공동 개발)가 확인됐다. Boots of Hermes와 가족의 재 설정도 확인됐다.",
+    "source": "https://mp1st.com/news/god-of-war-trilogy-remake-announced-shadowdrop-god-of-war-sons-of-sparta ; https://godisageek.com/2026/02/god-of-war-greek-trilogy-remake-sons-of-sparta-ps5-release/ ; https://godofwar.fandom.com/wiki/Boots_of_Hermes"
+   },
+   {
+    "title": "Saint Seiya (성투사 세이야 / 영어판 Knights of the Zodiac)",
+    "medium": "manga",
+    "year": "1986-01 ~ 1990-12 (Weekly Shonen Jump, 단행본 28권), 이후 후속작 다수",
+    "creator": "Masami Kurumada (구루마다 마사미), 슈에이샤",
+    "premise": "아테나를 수호하는 청동 성투사들이 별자리 갑옷(Cloth)을 입고 싸운다. 원작은 성역편(1~13권), 포세이돈편(14~18권), 하데스편(19~28권)으로 이어지며 저승과 엘리시온까지 쳐들어간다. 아테나의 피로 갑옷이 되살아나고 진화한다.",
+    "fire_rebirth": "불사조 성투사 이키의 불사조 갑옷은 파괴돼도 스스로 재생하며, 이키 본인도 불사조 별자리의 힘으로 거듭 되살아난다(팬 위키 근거). 불꽃이 곧 부활의 매개라고 원작이 명시한다는 근거는 이번에 확인하지 못했다. 권수별 부활 장면은 포럼 인용뿐이라 단행본으로 직접 확인해야 한다.",
+    "similarity": "medium",
+    "overlap": [
+     "'불사조 상징+부활하는 기사+그리스 신화+아테나/하데스'라는 이미지 조합이 사용자의 질문 키워드('불 속에서 부활하는 기사')와 가장 직접 겹친다. 영어판 제목이 Knights of the Zodiac이라 '기사' 이미지와도 닿는다.",
+     "저승으로 쳐들어가 저승의 신과 싸운다는 설정이 저승문 주제와 닿는다.",
+     "차별화: 세이야는 신(아테나)을 수호하는 쪽이고 '신의 불이 꺼진 세계'가 없다. 불씨/화로/체크포인트 구조도 없다. 이미지 수준의 유사성은 크지만 스토리 구조 수준의 유사성은 낮다."
+    ],
+    "verdict": "corrected",
+    "correction_note": "연재 기간을 구체화했다: 1986년 1월~1990년 12월, 단행본 28권, 하데스편은 19~28권. 영어판 제목은 Knights of the Zodiac(Viz)이다. 이키의 부활이 '불 속'에서 일어난다는 서술은 근거가 약하다. 확인된 것은 불사조 별자리에 의한 부활과 갑옷 자가 재생이다. 유사도 medium은 이미지·키워드 수준에서만 유효하다.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Saint_Seiya_manga_volumes ; https://manga.fandom.com/wiki/Phoenix_Ikki ; https://en.wikipedia.org/wiki/Saint_Seiya:_The_Hades"
+   },
+   {
+    "title": "Achilles: Legends Untold",
+    "medium": "game",
+    "year": "2022-05-12 (얼리 액세스) / 2023-11-02 (1.0, PC·PS5·Xbox Series X|S 동시)",
+    "creator": "Dark Point Games",
+    "premise": "트로이 전투에서 파리스에게 죽은 아킬레우스가 하데스에 의해 되살아나 그리스로 돌아온다. 괴물과 언데드가 도는 세계에서 하데스의 뜻에 따라 산 자와 죽은 자의 땅을 잇고 괴물을 없애려 한다. 2023년 개편 스토리는 하데스와 아레스의 갈등, 아레스의 아들 포보스 추적이 중심이며 헤파이스토스가 조력한다.",
+    "fire_rebirth": "주인공이 죽었다가 되살아난 존재다. 신전(Shrine)이 체크포인트이고 휴식·레벨업·빠른 이동을 담당한다. 신전에서 쉬거나 부활하면 적이 다시 나온다. 죽으면 경험치를 시체 자리에 떨구고, 회수 전에 다시 죽으면 잃는 '시체 회수' 구조다. 불 소재는 확인하지 못했다.",
+    "similarity": "high",
+    "overlap": [
+     "그리스 신화+소울라이크식 전투 조합이 동일하다. 단 쿼터뷰(아이소메트릭) 시점의 디아블로형 ARPG이며, 소울라이크 요소가 얕다는 평이 있다.",
+     "주인공이 이미 죽었다가 되살아난 존재라는 점이 2막 반전(오프닝에서 이미 사망)과 방향이 같다.",
+     "체크포인트(신전) 부활+죽은 자리에 경험치를 떨구고 되찾기: 초안의 화로+재 회수 루프와 같은 종류의 구조다. 확인됨.",
+     "저승의 신 하데스가 후원자로 나오는 점은 저승문 주제와 닿는다."
+    ],
+    "verdict": "corrected",
+    "correction_note": "(1) '콘솔 이식 2024-2025'는 틀렸다. PS5·Xbox Series 버전은 2023-11-02 정식 출시와 동시에 나왔고, 2024~2025 이식은 확인되지 않았다. (2) 얼리 액세스 날짜 2022-05-12를 확정했다. (3) 원 제출이 '확인 못함'으로 둔 체크포인트 방식을 확인했다(신전, 시체 회수). 이로 인해 유사도를 medium에서 high로 올렸다. 죽은 영웅의 부활, 체크포인트 부활, 떨군 재화 회수, 그리스 신화가 전부 겹치기 때문이다. 단 시점·분위기·불 모티프 부재가 다르다. (4) 불 소재는 여전히 확인되지 않았다.",
+    "source": "https://www.rpgsite.net/news/12671-achilles-legends-untold-launches-for-steam-early-access-on-may-12 ; https://rpgamer.com/2023/08/achilles-legends-untold-gets-story-revamp/ ; https://rpgsite.net/news/14923-achilles-legends-untold-launches-on-november-2-for-playstation-5-xbox-series-xs-and-pc ; https://godisageek.com/?p=286317"
+   },
+   {
+    "title": "Dawn of Defiance",
+    "medium": "game",
+    "year": "2024-08-15 (얼리 액세스, 현재도 얼리 액세스 진행 중)",
+    "creator": "Traega Entertainment (퍼블리셔 Fireshine Games)",
+    "premise": "스파르타 전사가 사후 세계의 갈림길(Crossroads)에서 시작해, 저승의 문을 가로막은 올림포스의 봉인을 깨고 엘리시온으로 가려는 오픈월드 생존/제작 게임이다. 신들의 추종자를 쓰러뜨려 신의 힘을 얻고, 신전(아테나·포세이돈)의 신화급 보스와 레이드를 공략한다. 최대 4인 협동이다.",
+    "fire_rebirth": "죽은 자가 저승 경계에서 시작하는 설정이다. 불 소재는 확인하지 못했다.",
+    "similarity": "medium",
+    "overlap": [
+     "이미 죽은 필멸자가 올림포스 신들과 맞선다는 설정이 2막 반전/주제와 겹친다.",
+     "저승의 문이 봉인되어 있고 후반부에 신들이 교차로에서 사라져 신전이 몬스터에 점령된다. 초안의 '저승문 폐쇄+신들의 침묵'과 부분적으로 겹친다(원 제출이 놓친 부분).",
+     "그리스 오픈월드+신전 공략(아테나 신전 레이드 2025-06, 포세이돈 신전 레이드 2025-12) 구조다.",
+     "차별화: 장르(생존·제작·협동)와 톤이 다르고, '신의 불이 꺼졌다', 화로 체크포인트 구조는 없다."
+    ],
+    "verdict": "corrected",
+    "correction_note": "'1.0은 2027 예정'은 확인되지 않았다. 확인된 현황은 두 번째 대형 업데이트 Desert Reign(2025-12)까지 나왔고 Steam 표기상 1.0 전에 최소 2개 대형 업데이트가 더 남았다는 것뿐이다. 개발·출시일(2024-08-15), 스파르타·교차로 설정, 4인 협동, 생존/제작 장르는 확인됐다. 오버랩은 '저승문 봉인+신들 부재'가 확인되어 원 제출보다 조금 넓다. 유사도 medium은 유지한다.",
+    "source": "https://gamingtrend.com/news/dawn-of-defiance-arrives-in-early-access/ ; https://store.steampowered.com/app/2059530/Dawn_of_Defiance/ ; https://cogconnected.com/2025/12/dawn-of-defiance-just-received-its-desert-reign-major-content-update/ ; https://www.gamedeveloper.com/press-release/rebel-against-the-gods-traega-entertainment-reveals-dawn-of-defiance"
+   },
+   {
+    "title": "FATE: Reawakened - Prometheus DLC",
+    "medium": "game",
+    "year": "2026-05-13 (DLC, PC·콘솔) / 2026-07-15 (모바일)",
+    "creator": "Tableflip (개발) / gamigo (퍼블리셔)",
+    "premise": "어둠의 티탄 에레보스(Erebos)가 신들의 선물로 도시에 지식·보호·번영을 주던 '황금의 불꽃(Golden Flame)'을 훔쳐 프로메테우스 도시가 혼돈과 어둠에 빠진다. 신탁 알레테(Alethe)의 말에 따라 플레이어가 불꽃을 되찾아 도시를 구한다.",
+    "fire_rebirth": "신이 준 불이 사라지자 도시가 어둠에 잠기고, 불을 되찾는 것이 목표다. 부활 시스템은 확인하지 못했다.",
+    "similarity": "low",
+    "overlap": [
+     "'신들의 성스러운 불이 사라져 도시가 어둠에 잠긴다'는 도입 전제가 초안 오프닝과 한 줄 요약 수준에서 비슷하다.",
+     "불을 되찾는 것이 플레이어 목표다.",
+     "신화적 '도둑맞은 신의 불' 모티프는 프로메테우스 신화 자체의 보편 소재다.",
+     "던전 중심 ARPG의 DLC라 시장 충돌은 작다."
+    ],
+    "verdict": "corrected",
+    "correction_note": "창작자 표기를 바로잡았다: 개발사는 Tableflip, gamigo는 퍼블리셔다. 인물명 철자는 Erebos/Alethe가 공식이다. PC(Steam, Epic)·PlayStation·Xbox·Switch 동시 출시 2026-05-13, 모바일 2026-07-15가 확인됐다(발표 2026-04-01). 유사도를 medium에서 low로 낮췄다. 한 줄 전제는 비슷하지만 DLC 규모의 서브 스토리이고 화로·부활·소울라이크 구조가 없다.",
+    "source": "https://press.gamigo.com/fate-reawakened-launches-anticipated-prometheus-dlc-delivering-new-dungeons-monsters-and-more ; https://corporate.gamigo.com/en/presse/fate-reawakeneds-prometheus-dlc-launches-on-mobile-with-controller-support/ ; https://www.rpgsite.net/news/20027-fate-reawakened-prometheus-dlc-revealed-featuring-new-pets-two-new-dungeons-new-monsters-and-a-new-town"
+   },
+   {
+    "title": "Flintlock: The Siege of Dawn",
+    "medium": "game",
+    "year": "2024-07-18",
+    "creator": "A44 Games (퍼블리셔 Kepler Interactive)",
+    "premise": "신들과 그 불사(언데드) 군대가 '저승으로 통하는 문(Door to the Great Below/Afterlife)'을 통해 쏟아져 나와 던(Dawn) 도시가 파멸 직전이다. 연합군 정예 노르 바넥이 여우 같은 신비한 동료 엔키와 함께 신들에게 복수하며 던 도시를 되찾으려 한다. 화약 무기, 도끼, 엔키의 마법을 섞은 액션 RPG다.",
+    "fire_rebirth": "불/부활 중심 설정은 아니다. 사후 세계의 문이 열려 언데드가 돌아다닌다. 모닥불(Campfire)과 Lodestone(저장 지점)이 있고, 매체들은 'Soulslite(가벼운 소울라이크)'로 부른다.",
+    "similarity": "medium",
+    "overlap": [
+     "'신들+저승/사후 세계의 문+죽은 자의 군대'라는 소재가 초안의 저승문/그림자 없는 영혼과 같은 카테고리다(초안은 문이 닫힘, 이쪽은 열림).",
+     "3인칭 액션+소울라이크 요소+신 대 인간이라는 장르 조합이 겹친다. 모닥불을 지피는 연출과 저장 지점이 화로 체크포인트와 약하게 닿는다.",
+     "그리스 신화는 아니다. 마법 동료 엔키가 능력을 보태는 점이 헤르메스의 불씨/샌들과 약하게 닮는다."
+    ],
+    "verdict": "corrected",
+    "correction_note": "'수천 년간 인간을 떠났던 신들이 돌아왔다'는 부분은 확인되지 않았다(공식 사이트는 '최근' 신들이 나타났다고 서술). 공식 설명은 '문이 열려 신들과 언데드 군대가 풀려났고 던 도시가 파멸 직전이다'이다. 개발·퍼블리셔·출시일은 확인됐다. 캠프파이어/로드스톤 저장 지점과 Soulslite 평가가 확인되어 유사도를 low에서 medium으로 올렸다. 다만 오픈월드 정도와 사망 시 손실 규칙은 확인하지 못했다.",
+    "source": "https://www.rpgsite.net/news/16066-a44-games-shares-story-trailer-for-flintlock-the-siege-dawn ; https://www.inverse.com/gaming/flintlock-the-siege-of-dawn-release-date-trailer-gameplay-platforms-soulslike ; https://shacknews.com/article/140189/flintlock-the-siege-of-dawn-preview-hands-on ; https://gematsu.com/2022/03/ashen-developer-announces-open-world-action-rpg-flintlock-the-siege-of-dawn-for-ps5-xbox-series-ps4-xbox-one-and-pc"
+   },
+   {
+    "title": "Apotheon",
+    "medium": "game",
+    "year": "2015 (PC·PS4 2015-02-03, OS X·Linux 2015-02-10)",
+    "creator": "Alientrap (PS4 이식은 Sickhead Games)",
+    "premise": "제우스가 자식들에게 인간에게 베푸는 선물(동물, 곡식, 빛)을 끊으라고 명하자 인간이 고통받는다. 헤라의 부추김으로 니칸드레오스가 올림포스에 올라 신들을 죽이고 신의 힘을 빼앗는다. 결말에서는 신들의 시대가 무너지고 그가 흙으로 새 인간을 빚는 것으로 끝난다. 헤라를 살려 둘지 죽일지 고르는 분기가 있다.",
+    "fire_rebirth": "불/부활 모티프는 확인하지 못했다. 결말의 새 인간 창조가 인류의 재탄생을 상징한다.",
+    "similarity": "low",
+    "overlap": [
+     "신들이 인간에게 선물을 끊어 세계가 쇠락하고 필멸자가 올림포스에 올라간다는 구조가 엔딩 B(신들의 시대 종료)와 방향이 비슷하다.",
+     "그리스 도기화 스타일의 2D 액션이라 비주얼과 장르는 크게 다르다."
+    ],
+    "verdict": "confirmed",
+    "correction_note": "줄거리, 출시일, 개발사는 확인됐다. 결말 서술은 위키 계열 요약이 일부 갈리므로(인류 전멸 후 점토 창조라는 더 어두운 버전도 있음) 인용 시 주의하라.",
+    "source": "https://en.wikipedia.org/wiki/Apotheon ; https://siliconera.com/?p=460708 ; https://www.giantbomb.com/wd/3030-37707"
+   },
+   {
+    "title": "Titan Quest II",
+    "medium": "game",
+    "year": "2025-08-01 (얼리 액세스) / 정식 2027-01-19 예정 (PC·PS5·Xbox Series)",
+    "creator": "Grimlore Games (퍼블리셔 THQ Nordic)",
+    "premise": "그리스 신화 배경 액션 RPG. 복수와 응보의 여신 네메시스가 운명의 실(Threads of Fate)을 비틀어 사람들을 벌하고, 플레이어가 신들과 함께 그녀를 막는다. 운명을 관장하는 모이라이가 중요하게 나오며, 3장(Arkadian Plains)에서는 켄타우로스와 인간의 전쟁, 올림포스 방문이 포함된다.",
+    "fire_rebirth": "불/부활 소재는 확인하지 못했다.",
+    "similarity": "low",
+    "overlap": [
+     "'신화 속 여신이 악역이 된다'는 구도가 흑막 아테(파멸의 여신)와 같은 계열이다. 이쪽은 응보의 여신 네메시스다.",
+     "그리스 오픈 지역+올림포스 방문 구조다.",
+     "2027-01-19 정식 출시가 확정되어 마케팅 시기가 겹칠 수 있다."
+    ],
+    "verdict": "confirmed",
+    "correction_note": "얼리 액세스 날짜, 정식 출시일(2027-01-19), 네메시스·모이라이, 3장 올림포스 방문, 켄타우로스 전쟁이 확인됐다. '디아블로형 쿼터뷰 핵앤슬래시'라는 시점 표현은 이번에 확인하지 못했다(ARPG인 것은 확인됨). 3장 이전의 '모이라이를 찾는 여정'이라는 구체 표현도 확인하지 못했다.",
+    "source": "https://www.rpgsite.net/news/21506-titan-quest-ii-exits-early-access-launches-on-january-19-2027-for-playstation-5-xbox-series-xs-pc ; https://thqnordic.com/news/face-your-nemesis-titan-quest-ii-early-access-starts-now ; https://rpgamer.com/2026/02/titan-quest-ii-early-access-update-adds-third-story-chapter/ ; https://www.icy-veins.com/titan-quest-2/news/titan-quest-2-chapter-3-adds-centaurs-and-mount-olympos/"
+   },
+   {
+    "title": "Rise of the Argonauts",
+    "medium": "game",
+    "year": "2008 (Giant Bomb 표기 2008-12-16; 출처 간 날짜 상이)",
+    "creator": "Liquid Entertainment (퍼블리셔 Codemasters)",
+    "premise": "이아손이 결혼식 날 암살자의 화살에 신부 알세메를 잃고, 죽은 자를 되돌릴 수 있다는 황금 양털을 찾아 나선다. 헤라클레스, 아킬레우스, 아탈란타, 판 등 아르고 호의 동료들이 합류한다.",
+    "fire_rebirth": "죽은 이를 되살리는 것이 전체 동기다. 불 소재는 확인하지 못했다.",
+    "similarity": "low",
+    "overlap": [
+     "그리스 신화+죽음을 되돌리려는 여정이라는 모티프가 겹친다.",
+     "3인칭 액션 RPG지만 연식이 오래되어 시장 충돌은 사실상 없다."
+    ],
+    "verdict": "corrected",
+    "correction_note": "'독화살'은 근거가 없다. 자료는 '암살자의 화살'로만 서술한다(독 여부 미확인). 알세메는 게임 오리지널 인물이고 고전 신화의 메데이아와 다르다. 황금 양털의 위치는 요약마다 콜키스 섬/타르타로스로 갈린다. 출시 연도 2008, 개발사, 퍼블리셔, 동료 구성은 확인됐다.",
+    "source": "https://en.wikipedia.org/wiki/Rise_of_the_Argonauts ; https://www.giantbomb.com/games/3030-21365/ ; https://gamebanshee.com/8xp"
+   },
+   {
+    "title": "Kid Icarus: Uprising",
+    "medium": "game",
+    "year": "2012",
+    "creator": "Project Sora(Sora Ltd.) / Nintendo (3DS)",
+    "premise": "부활한 메두사가 인류 말살에 나서자 빛의 여신 팔루테나가 천사 피트를 보낸다. 피트는 타나토스를 쓰러뜨려 몸속의 저승 열쇠(Underworld Key)를 얻고(7장), 저승으로 내려가 메두사를 처치한다(9장). 10장부터 시작되는 후반은 하데스가 '소원의 씨앗(Wish Seed)' 소동으로 인간을 속여 전쟁을 일으키고, 자연의 여신 비리디와 자연군이 팔루테나·피트와 충돌하는 이야기이며, 진짜 흑막은 저승의 왕 하데스다.",
+    "fire_rebirth": "메두사가 부활하는 것이 발단이고 메두사 자신이 하데스에게 되살려진 존재로 드러난다. 불 소재는 확인하지 못했다. 피트의 비행은 팔루테나에게서 빌린 힘이다(시간 제한 등 세부는 이번 검색에서 확인 못함).",
+    "similarity": "low",
+    "overlap": [
+     "그리스 신화+저승 열쇠(타나토스)와 저승 진입이 중요한 소재다. 확인됨.",
+     "신에게서 힘(비행)을 빌려 싸우는 천사라는 구도가 '헤르메스에게 받은 불씨와 샌들'과 닮았다.",
+     "닌텐도 3DS 코믹 톤이라 분위기와 장르가 크게 다르다."
+    ],
+    "verdict": "corrected",
+    "correction_note": "원 제출의 '하데스와 비리디가 대립하는 후반'은 틀렸다. 후반의 갈등 축은 '하데스(진짜 흑막)가 비리디와 자연군을 전쟁에 끌어들이고, 비리디가 팔루테나·피트와 충돌하는 것'이다. 타나토스가 열쇠를 가진 점(7장), 9장 메두사 최종전, 10장부터 2부는 확인됐다. 개발사 표기(Project Sora)와 발매 연월은 이번 검색에서는 직접 확인하지 못했고 일반 상식에 의존한다.",
+    "source": "https://www.kidicaruswiki.org/wiki/Kid_Icarus:_Uprising ; https://www.kidicaruswiki.org/wiki/Underworld_Key ; https://www.kidicaruswiki.org/wiki/The_Wish_Seed"
+   },
+   {
+    "title": "Percy Jackson and the Olympians / The Heroes of Olympus",
+    "medium": "novel",
+    "year": "2005~2014 (Percy Jackson 5부작 2005~2009, Heroes of Olympus 2010~2014)",
+    "creator": "Rick Riordan",
+    "premise": "현대에 살아 있는 올림포스 신들과 반신 영웅들의 이야기. 『The Last Olympian』에서 헤스티아가 화로의 신으로서 '다른 강력한 신들이 모두 전쟁에 나가도 마지막에 남는 것은 집과 화로이며, 나는 마지막 올림포스 신이다. 최후의 결정을 할 때 나를 기억하라'는 취지로 퍼시에게 말한다. 『The Son of Neptune』에서 죽음의 신 타나토스가 거인 알키오네우스에게 알래스카에서 얼음 사슬로 묶이고, 그 부재 중 가이아가 '죽음의 문(Doors of Death)'을 장악해 열어 둔다. 『The House of Hades』에서는 문이 열린 상태라 죽은 괴물이 타르타로스에서 즉시 재생한다.",
+    "fire_rebirth": "헤스티아의 화로가 상징적이다. 죽음의 문이 비정상 상태라 죽음의 순환이 고장 난다. 주인공의 부활 구조는 아니다.",
+    "similarity": "low",
+    "overlap": [
+     "'저승문/죽음의 순환이 고장 난 세계'라는 전제가 초안의 저승문 폐쇄 설정과 같은 카테고리다(이쪽은 열려서 문제, 초안은 닫혀서 문제).",
+     "헤스티아의 화로가 신화적 상징이 되는 대중적 선례다. 헤스티아가 프로메테우스에게 화로의 성스러운 불을 몰래 내어 주었다는 설정도 있다.",
+     "신들이 약해지는 시대에 영웅이 일하는 세계관이다.",
+     "소설이라 게임 시장 충돌은 없다. 독자 연상 정도의 겹침이다."
+    ],
+    "verdict": "corrected",
+    "correction_note": "원 제출은 타나토스의 얼음 사슬 구속을 『The House of Hades』 시점으로 썼으나, 그 구속과 구출은 『The Son of Neptune』(알래스카)의 사건이다. 『The House of Hades』는 문이 열린 상태에서 시작해 퍼시와 안나베스가 타르타로스 쪽 문에 도달하고 나머지 일행이 지상 쪽에서 문을 닫는 이야기다. 헤스티아의 대사 취지는 확인됐다.",
+    "source": "https://en.wikipedia.org/wiki/The_House_of_Hades ; https://riordan.fandom.com/wiki/Thanatos ; https://www.readriordan.com/2026/03/03/hestia-spotlight/"
+   }
+  ],
+  "rejected": []
+ },
+ "myth-legend": {
+  "verified": [
+   {
+    "title": "불사조 포이닉스 (Φοῖνιξ / Phoenix)",
+    "medium": "myth",
+    "year": "기원전 5세기(헤로도토스) ~ 기원후 3~5세기(락탄티우스 전승·클라우디아누스)",
+    "creator": "헤로도토스 2.73; 오비디우스 『변신 이야기』 15.391–407; 타키투스 『연대기』 6.28; 플리니우스 『박물지』 10권; 클레멘스 1서 25; 『De ave phoenice』(락탄티우스 작으로 전승, 저자 논쟁); 클라우디아누스 『Phoenix』",
+    "premise": "수백 년(타키투스는 500년설과 1461년설을 함께 전함)마다 아라비아에서 이집트 헬리오폴리스 태양 신전으로 오는 신성한 새. 헤로도토스판은 '아버지의 시신을 몰약 알에 담아 태양 신전으로 옮기는' 이야기이고, 자기 몸을 불태워 재에서 되살아나는 형태는 후대 로마·후기고대 판본이다.",
+    "fire_rebirth": "[웹확인] 헤로도토스 2.73에는 불이 없고, 몰약 알에 시신을 넣어 운반하는 이야기다. 오비디우스 15권은 향료 둥지에서 죽고 그 몸에서 어린 새가 난다고 쓰며 불은 말하지 않는다. 클라우디아누스(4세기 말)와 락탄티우스 작으로 전해지는 『De ave phoenice』에서는 태양의 불로 향료 장작더미를 태우고 재에서 되살아나는 장면이 핵심이다. [정정] 타키투스 6.28에는 불이 있다. 새로 자란 불사조가 아버지의 시신을 태양 제단으로 옮겨 불에 맡기는 장면이다. 다만 이는 '아버지 시신의 화장'이지 '자기 분신 부활'이 아니다. 제출 목록의 '타키투스도 불은 언급하지 않는다'는 틀렸다. 플리니우스와 클레멘스 1서는 시신이 썩어 벌레가 되고 이것이 새가 되는 판본이다(웹 미확인, 원전 기억 기준). 따라서 '고전기 그리스 원전에는 자기 분신 불이 없다'는 요지는 맞다. '락탄티우스 시를 확인 못 했다'던 부분은 웹으로 확인돼 불-부활 시퀀스가 핵심으로 확인된다. 이 시를 락탄티우스 작으로 보는 쪽이 다수이나 저자는 논쟁 중이다. 대중적으로 '불 속 부활'의 가장 강한 원형이다.",
+    "similarity": "medium",
+    "overlap": [
+     "불을 통한 죽음에서 재생으로 이어지는 모티프 자체가 우리 초안의 핵심(죽으면 화로에서 되살아남)과 같은 계열",
+     "재(Ash)에서 새 생명이 난다는 이미지가 재화 '재(Ash)'와 정서적으로 겹침",
+     "다른 점: 포이닉스는 단일 존재의 주기적 자기 갱신이며 체크포인트(화로)·반복 사망·'이미 죽어 있었다'는 반전이 없음",
+     "주인공을 '불사조 기사'로 직접 비유하면 식상하게 읽힐 위험이 큼"
+    ],
+    "source": "헤로도토스 2.73 (https://cts.perseids.org/read/greekLit/tlg0016/tlg001/perseus-eng2/2.73.1-2.73.3); 타키투스 6.28 (Loeb/Thayer 번역); https://en.wikipedia.org/wiki/De_ave_phoenice; Claudian Carmina Minora 27 (Thayer 번역)",
+    "verdict": "corrected",
+    "correction_note": "타키투스에 불이 없다는 서술을 정정함(아버지 시신을 태양 제단에서 태움). 헤로도토스·오비디우스의 불 없음, 클라우디아누스·락탄티우스 시의 불-부활은 웹 검색으로 확인. 플리니우스·클레멘스 1서의 벌레 판본은 검색 한도 소진으로 웹 미확인. 유사도 medium은 유지."
+   },
+   {
+    "title": "오이테 산 장작더미 위의 헤라클레스 신격화 (Ἡρακλῆς ἐπὶ τῆς Οἴτης)",
+    "medium": "myth",
+    "year": "기원전 5세기(소포클레스) ~ 기원후 1~2세기",
+    "creator": "소포클레스 『트라키스의 여인들』(결말은 장작더미 준비까지)·『필록테테스』; 디오도로스 4.38; 아폴로도로스 2.7.7; 오비디우스 『변신 이야기』 9권; 히기누스 36; 루키아노스 『헤르모티모스』 7",
+    "premise": "네소스의 독 묻은 옷으로 고통받는 헤라클레스가 오이테 산에 장작더미를 쌓게 하고 스스로 올라가 불타며, 불을 붙여 준 자(필록테테스 또는 그의 아버지 포이아스)에게 활과 화살을 준다.",
+    "fire_rebirth": "[웹확인] 활을 받는 보상 모티프와 '누가 불을 붙였는가'의 전승 분기(필록테테스·포이아스·모르시모스·힐로스·제우스 등)는 스미스 사전 항목 기준으로 확인된다. 불이 필멸의 부분을 태우고 신적 부분이 올림포스로 올라가 헤베와 혼인한다. 이 '필멸의 부분이 불타 없어졌다'는 명시는 오비디우스 9.262–265와 루키아노스(웹 미확인, 기억 기준)에 있다. 히기누스 36에도 있다는 제출 목록의 주장은 미확인이다. [정정] 소포클레스 『트라키스의 여인들』은 장작더미 준비에서 끝나고 신격화 장면은 무대에 나오지 않는다. 이 작품만으로 '불로 신이 되는 최후'의 원전으로 삼기는 약하다. 한 번의 변모이며 반복 부활이 아니다.",
+    "similarity": "medium",
+    "overlap": [
+     "불에 들어가 필멸을 벗고 신적 존재가 된다는 구조는 엔딩 A(화덕지기가 되는 결말)와 대응",
+     "불씨(활)를 넘겨받는 대리인 구도는 헤르메스에서 불씨지기로 이어지는 인계와 구조적으로 유사",
+     "다른 점: 한 번 불타 영구히 올림포스로 오를 뿐 반복 사망·부활이 없고, 2막의 '이미 죽어 있었다' 반전과도 겹치지 않음"
+    ],
+    "source": "https://cts.perseids.org/read/pdlrefwk/viaf88890045/003/perseus-eng1/P.philoctetes_1 (스미스 사전: Diod. 4.38; Hyg. Fab. 36; Ov. Met. 9.230); 위키 Pyre of Heracles / Poeas",
+    "verdict": "corrected",
+    "correction_note": "소포클레스 『트라키스의 여인들』에는 신격화 장면이 없다는 점과, 히기누스 36에 '필멸 부분 소멸' 명시가 있다는 주장은 미확인이라는 점을 정정. 디오도로스 4.38 원문은 직접 열람하지 못했고 스미스 사전 인용 기준으로만 확인했다. 핵심 신화 내용은 확인됨."
+   },
+   {
+    "title": "데메테르와 데모폰 — 불로 불멸을 주려는 시도 (호메로스 찬가 2번)",
+    "medium": "myth",
+    "year": "기원전 7~6세기경",
+    "creator": "『호메로스 찬가 2번: 데메테르에게』 (작자 미상)",
+    "premise": "딸 페르세포네를 잃은 데메테르가 노파로 변장해 엘레우시스 왕 켈레오스의 집에서 아기 데모폰(찬가 표기 Demophoon)을 키운다. 낮에는 암브로시아를 바르고 밤에는 부모 몰래 불 속에 숨겨 필멸성을 태워 없애려 한다.",
+    "fire_rebirth": "[웹확인] 찬가 본문은 데메테르가 밤에 아이를 '횃불 토막처럼 불의 힘 속에 숨긴다'고 쓴다. 어머니 메타네이라가 엿보고 비명을 질러 의식이 중단되고, 데메테르는 아이를 불에서 낚아채 땅에 내던진다(번역본 기준 약 231~255행대). 아이는 불멸이 되지 못한다. 가뭄과 기근으로 올림포스 신들이 제물과 명예를 잃을 처지가 된다는 대목(약 305~313행대)은 기억 기준으로 확인했다. [정정] 본문 표현은 '불의 힘 속(ἐν πυρὸς μένει)'이고 '화로'라는 단어가 명시적이지는 않아, '화로 불에 넣었다'는 해석은 가정(家庭)의 불이라는 맥락 해석에 가깝다. 이것을 초안의 화로 설정과 곧바로 일치시키면 과장이다. 불멸화 시도는 실패로 끝나며 부활이 아니다.",
+    "similarity": "medium",
+    "overlap": [
+     "가정의 불이 필멸을 태워 불멸로 바꾸는 장소라는 점은 화로가 부활 지점이라는 설정과 대응",
+     "신들이 제물을 받지 못해 곤경에 빠지는 구도(올림포스의 굶주림과 침묵)",
+     "다른 점: 불에 든 존재는 아기이고 결과는 실패이며, 부활이 아닌 불멸화 시도이고 전투·기사 서사는 없음"
+    ],
+    "source": "https://cts.perseids.org/read/greekLit/tlg0013/tlg002/perseus-eng2/185-275 ; https://cts.perseids.org/read/greekLit/tlg0013/tlg002/perseus-eng2/305-325",
+    "verdict": "corrected",
+    "correction_note": "'화로'는 본문 어휘가 아니라 해석임을 정정(본문은 '불의 힘 속'). 줄거리·실패 결말은 웹 검색으로 확인. 기근 대목은 웹 미확인(기억 기준)."
+   },
+   {
+    "title": "테티스가 아킬레우스를 불에 넣어 단련함 (불 판본)",
+    "medium": "myth",
+    "year": "기원전 3세기(아폴로니오스) · 기원후 1~2세기(아폴로도로스) · 기원후 1세기 말(스타티우스, 스틱스 판본)",
+    "creator": "아폴로니오스 로디오스 『아르고나우티카』 4.869–879; 아폴로도로스 3.13.6; (후대) 스타티우스 『아킬레이스』",
+    "premise": "테티스는 아들 아킬레우스를 불멸로 만들려 밤마다 불 속에 두어 아버지 펠레우스에게서 받은 필멸의 부분을 태우고 낮에는 암브로시아를 바른다. 펠레우스가 엿보다 비명을 질러 중단되고, 테티스는 아이를 내던져 두고 바다로 떠난다.",
+    "fire_rebirth": "[기억 기준, 웹 미확인] 아폴로니오스와 아폴로도로스 모두 불은 필멸을 제거하는 수단이며 의식은 실패로 끝난다. 아폴로도로스 3.13.6은 이때 발(복사뼈)이 타 버려 케이론이 거인 다미소스의 복사뼈로 교체했다고 전한다. 이것이 '불 판본의 약점은 발'이라는 전승이다. 흔한 '스틱스 담금질'은 스타티우스(기원후 1세기 말)에서 확인되는 후대 판본이다. [정정] 제출 목록의 '프톨레마이오스 케노스 요약에서 테티스가 앞선 아이 여섯을 불태웠다'는 세부는 확인하지 못했으므로 삭제 권고한다. 데모폰 일화와 같은 유형(부모 개입으로 불멸화 실패)이므로 중복 인용을 피해야 한다.",
+    "similarity": "medium",
+    "overlap": [
+     "불로 필멸의 일부를 태워 반불멸의 전사를 만든다는 전사 원형",
+     "불과 암브로시아(신들의 음식)를 함께 쓰는 점은 신들의 식량 고갈과 이을 수 있음",
+     "다른 점: 영구 부활이 아니라 부분적 불멸과 약점이 남는 구조이며, 부모의 개입이 핵심"
+    ],
+    "source": "https://www.theoi.com/Pontios/NereisThetis3.html ; 아폴로도로스 3.13.6; 아폴로니오스 4.869–879",
+    "verdict": "corrected",
+    "correction_note": "프톨레마이오스 케노스·'여섯 명' 세부는 미확인이라 삭제. 발 약점의 전거를 아폴로도로스(케이론의 복사뼈 교체)로 구체화. 검색 한도 소진으로 웹 재확인은 못 했고 원전 기억 기준이다."
+   },
+   {
+    "title": "헤스티아와 프리타네이온 화로 — 모도시의 불을 식민 도시로 옮겼다는 전승",
+    "medium": "other",
+    "year": "호메로스 찬가 24·29번(기원전 7~6세기경); 식민 불 이전 증언은 후대·간접 사료",
+    "creator": "『호메로스 찬가』 24·29번; 플라톤 『파이드로스』 247a; 핀다로스 『네메아 송가』 11 첫머리와 고주(scholia); (식민 불 이전은 후대 주석·사전류 중심)",
+    "premise": "각 폴리스의 공공 화로(프리타네이온)는 헤스티아의 성소이자 도시의 중심이다. 식민 개척단이 모도시 화로에서 불을 가져가 새 도시 화로를 지폈다는 전승이 있으나 증거는 후대·간접이다.",
+    "fire_rebirth": "[기억 기준, 웹 미확인] 찬가 29번이 헤스티아와 헤르메스를 한 집에 사는 한 쌍으로 노래하는 점, 플라톤이 '신들이 행렬에 나가도 헤스티아만 신들의 집에 남는다'고 쓴 점(247a), 핀다로스가 헤스티아를 프리타네이온 수호자로 부르는 점은 신뢰할 만하다. [정정] 식민 불 이전은 제출 목록 스스로도 인정하듯 후대·간접 증언이며 고고학이 확증하지 못한다. 또한 '불이 꺼지면 태양광으로 새 불을 얻는다'는 서술은 로마 베스타 화로 이야기(플루타르코스 『누마』 9)에 속하고, 할리카르나소스의 디오니시오스 2.65도 로마 베스타 관련이라 그리스 프리타네이온 관습의 직접 근거가 아니다. 이 항목은 '불씨를 옮겨 새 거점을 연다'는 세계관·시스템의 문화적 정당화 자료이지, 부활 기사와 닮은 서사 선례가 아니다. 개인의 죽음과 부활 요소는 없다.",
+    "similarity": "low",
+    "overlap": [
+     "헤스티아의 불이 도시와 가정의 중심이라는 설정은 초안의 올림포스 중앙 화로와 일치(세계관 근거)",
+     "헤스티아와 헤르메스 한 쌍(찬가 29)은 헤르메스가 불씨를 건네는 설정과 맞음",
+     "다른 점: 서사가 아닌 제도·관습이며 개인 부활 요소가 없음. 식민 불 이전의 실재성도 불확실"
+    ],
+    "source": "https://cts.perseids.org/read/greekLit/tlg0013/tlg024/perseus-eng2/1-5 ; https://cts.perseids.org/read/pdlrefwk/viaf88890045/003/perseus-eng1/H.hestia_1 ; https://britannica.com/technology/prytaneum",
+    "verdict": "corrected",
+    "correction_note": "유사도 high를 low로 하향(서사가 아닌 세계관 근거). 태양광 재점화·디오니시오스 2.65는 그리스 식민 관습이 아니라 로마 베스타 맥락이라 정정. 식민 불 이전의 일차 증거는 약하므로 '확정'이 아닌 '전승'으로만 표기할 것. 웹 재확인은 못 했다."
+   },
+   {
+    "title": "플라타이아이 승리 후 델포이에서 새 불을 가져온 의식 (에우키다스 일화)",
+    "medium": "other",
+    "year": "기원전 479년 사건 / 플루타르코스 기원후 1~2세기",
+    "creator": "플루타르코스 『아리스티데스』 20; 『누마』 9(베스타 화로)",
+    "premise": "플라타이아이 전투 뒤 델포이 신탁은 페르시아에게 더럽혀진 불 때문에 땅 전체의 불을 끄고 델포이의 공동 화로에서 정화된 불을 가져오라고 명한다. 플라타이아이의 에우키다스가 델포이로 달려가 몸을 씻고 월계관을 쓰고 제단의 불을 받아 해지기 전에 돌아와 건넨 뒤 쓰러져 곧 숨졌고, 시민들은 그를 아르테미스 에우클레이아 성소에 묻었다.",
+    "fire_rebirth": "[기억 기준, 웹 미확인] 오염된 불을 전면 소등하고 신성한 원천에서 새 불을 가져와 공동체를 재시작한다는 역사적 일화이며, 불 운반자가 전달 직후 죽는다. 플루타르코스 『누마』 9는 베스타 화로가 꺼지면 다른 불이 아닌 태양광으로 새 불을 얻는다고 전한다. 장례용 장작더미까지 껐다는 세부는 본문 확인 못 했다(제출 목록도 '판본에 따라'로 단서를 둠). 부활은 없다. 이 일화는 서사 골격(꺼진 불, 재점화, 오염 대 정화, 운반자의 희생)을 설정 근거로 줄 뿐, 부활 기사와 닮은 선례는 아니다.",
+    "similarity": "medium",
+    "overlap": [
+     "오염된 불을 모두 끄고 신성한 원천에서 새 불을 가져와 재점화한다는 점은 꺼진 화로를 다시 지피는 전체 골격과 대응",
+     "불을 옮기는 달리기가 전달 후 죽는 점은 불씨 운반자의 죽음과 2막 반전의 정서와 공명",
+     "정화된 불과 오염된 불의 대비는 흑막(아테)과 연결 가능",
+     "다른 점: 부활이 없고 공동체 정화·재시작 서사"
+    ],
+    "source": "https://cts.perseids.org/read/greekLit/tlg0007/tlg024/perseus-eng2/20.1-20.6 (플루타르코스 『아리스티데스』 20, 페린 번역)",
+    "verdict": "corrected",
+    "correction_note": "유사도 high를 medium으로 하향(부활·주인공 구조가 없는 제의 일화). 장례 장작더미 소등 세부는 미확인. 핵심 줄거리는 기억 기준으로 확인했고 웹 재확인은 못 했다."
+   },
+   {
+    "title": "렘노스의 새 불 의식 — 9일간 불을 끄고 델로스에서 불을 가져옴",
+    "medium": "other",
+    "year": "신화적 기원(아르고 호 일행) / 필로스트라토스 『영웅론』 기원후 3세기 초 / 부르케르트 논문 1970",
+    "creator": "필로스트라토스 『영웅론(Heroikos)』 53장; W. Burkert, 'Jason, Hypsipyle, and New Fire at Lemnos', Classical Quarterly 20 (1970); 호메로스 『일리아스』 1.590–594(헤파이스토스의 추락)",
+    "premise": "렘노스 여인들의 남편 학살 신화와 연결된 연례 정화 의식. 9일 동안 섬의 불을 끄고 지하신에게 제사한 뒤, 델로스에서 신성한 배가 새 불을 싣고 와 각 가정에 나눠준다. 렘노스는 올림포스에서 추락한 헤파이스토스가 떨어진 섬이기도 하다.",
+    "fire_rebirth": "[기억 기준, 웹 미확인] 의식 구조(9일 소등, 지하신 제사, 델로스에서 온 새 불, 가정 분배)와 부르케르트 1970 논문은 신뢰할 만하다. 배는 델포이가 아니라 델로스에서 온다. [정정] 제출 목록이 새 불 의식의 근거로 든 아폴로도로스 1.9.17은 렘노스 여인 설화 구절이어서 의식 자체의 직접 전거로는 약하다(프레이저 주석 경유일 수 있음). 위키 'Hephaesteia (festival)' 인용과 필로스트라토스 53장의 정확한 절 번호도 확인하지 못했다. 인용은 필로스트라토스와 부르케르트를 우선 삼을 것. 개인 부활 요소는 없다.",
+    "similarity": "medium",
+    "overlap": [
+     "전면 소등 후 외부 신성한 원천에서 새 불을 가져와 각 가정에 나눈다는 점은 엔딩 C(모든 화로로 나눔)와 대응",
+     "지하신 제사 기간이 포함된 점은 저승문이 닫힌 설정의 의례적 근거로 활용 가능",
+     "헤파이스토스의 추락(올림포스에서 렘노스로)은 헤르메스의 추락과 대응",
+     "다른 점: 개인의 부활 요소 없음"
+    ],
+    "source": "Burkert, CQ 20 (1970) 1–16; 필로스트라토스 『영웅론』 53; 일리아스 1.590–594; https://sites.uark.edu/dlevine/oxford10/",
+    "verdict": "corrected",
+    "correction_note": "아폴로도로스 1.9.17과 위키 인용은 의식의 직접 근거로 약하다고 정정하고, 필로스트라토스 절 번호는 미확인으로 표기. 의식 내용 자체(델로스·9일·소등)는 기억 기준 확인이며 웹 재확인은 못 했다."
+   },
+   {
+    "title": "프로메테우스 — 불을 훔친 자, 회향대 속의 불씨, 프로메테이아 횃불 경주",
+    "medium": "myth",
+    "year": "기원전 8~5세기(헤시오도스·아이스킬로스) / 파우사니아스 기원후 2세기",
+    "creator": "헤시오도스 『신통기』 507–616·『일과 날』 42–105; 아이스킬로스 『결박된 프로메테우스』(귀속 논쟁 있음), 소실작 『불 운반자 프로메테우스(Pyrphoros)』·『불 지피는 프로메테우스(Pyrkaeus)』; 파우사니아스 1.30.2",
+    "premise": "제우스가 인간에게서 불을 숨기자 프로메테우스가 회향대(narthex) 속에 불씨를 담아 훔쳐 인간에게 주고, 그 벌로 바위에 묶여 독수리에게 간을 쪼인다(간은 다시 자란다). 아테네 아카데미아의 프로메테우스 제단에서 도시까지 횃불을 들고 달려 불을 꺼뜨리지 않고 먼저 도착한 자가 이기는 경주가 있었다.",
+    "fire_rebirth": "[기억 기준, 웹 미확인] 회향대 속 불씨는 『신통기』 565–567행과 『일과 날』, 횃불 경주 규칙은 파우사니아스 1.30.2로 확인되는 표준 전승이다. 'Pyrphoros'는 불 운반자를 뜻하는 일반 그리스어이자 아이스킬로스 소실작의 제목이므로 우리 주인공 이름과 직접 겹친다(상표적 독점성은 없음). 간이 매일 재생하는 것은 부활 보상이 아니라 형벌이다. 프로메테우스는 불을 인간에게 주는 쪽이고 죽음·부활 서사는 없다.",
+    "similarity": "medium",
+    "overlap": [
+     "'Pyrphoros' 이름이 아이스킬로스 소실작의 제목과 일치하므로 의도라면 출처를 밝히고 아니라면 선례로 인지",
+     "불씨를 다른 용기에 숨겨 나르는 모티프(회향대)는 마지막 불씨를 지닌 주인공과 대응",
+     "신에게서 불을 훔쳐 인간에게 전달하는 구도는 신들의 화로가 꺼진 세계에서 불을 되찾는 이야기와 대칭",
+     "다른 점: 죽음·부활 서사가 없고 간 재생은 처벌"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Prometheus_Bound ; https://cts.perseids.org/read/greekLit/tlg0525/tlg001/perseus-eng2/1.30.1-1.30.4",
+    "verdict": "confirmed",
+    "correction_note": "내용 변경 없음. 검색 한도 소진으로 웹 재확인은 못 했고 원전 기억 기준 확인이다."
+   },
+   {
+    "title": "파트로클로스의 혼령과 저승문 — 화장의 불이 있어야 하데스에 들어간다 (일리아스 23권)",
+    "medium": "myth",
+    "year": "기원전 8세기경",
+    "creator": "호메로스 『일리아스』 23.65–107(특히 71–76행), 7.409–410; 『오디세이아』 11.51–80(엘페노르)",
+    "premise": "파트로클로스의 혼이 아킬레우스의 꿈에 나타나 '나를 빨리 묻어 달라, 그래야 하데스의 문을 지나갈 수 있다. 다른 혼들이 나를 강 너머로 들이지 않아 문 앞에서 떠돌고 있다. 화장의 불을 받으면 나는 다시 하데스에서 돌아오지 못한다'고 말한다.",
+    "fire_rebirth": "[기억 기준, 웹 미확인] 호메로스적 세계관에서 화장의 불은 혼을 하데스 안에 확정하는 의례이고, 불이 없으면 혼은 문 앞을 떠돈다. 일리아스 7.409–410도 죽은 자에게 불로 달래 주는 의무를 언급한다. 엘페노르는 오디세이아 11권에서 매장·화장을 요청한다. 이 불은 되돌아오지 못하게 하는 장치이므로 초안의 '불로 되살아남'과는 정반대 방향이다. 겹치는 것은 '저승문 앞에서 떠도는 죽은 자'라는 주변 설정뿐이다.",
+    "similarity": "low",
+    "overlap": [
+     "저승문 앞에서 떠도는 죽은 자들은 초안의 저승문 닫힘 설정과 대응",
+     "불(화장)이 죽음의 질서를 완성한다는 관념은 불이 꺼진 세상에서 죽음의 질서가 무너지는 설정과 연결 가능",
+     "다른 점: 일리아스에서 불은 부활이 아니라 귀환 불가를 보증함. 대비 소재로만 유효"
+    ],
+    "source": "https://oneeyedman.net/teaching/fulltext/www.mala.bc.ca/~johnstoi/homer/iliad23.htm ; https://home.ubalt.edu/NTYGFIT/ai_00_home/ai_00_tell/iliad_23_fagles561.htm",
+    "verdict": "corrected",
+    "correction_note": "유사도 medium을 low로 하향(주변 설정 하나만 겹치고 불의 기능이 반대). 줄거리·행 번호는 기억 기준 확인이며 웹 재확인은 못 했다."
+   },
+   {
+    "title": "멜레아그로스의 장작 — 생명이 타고 있는 불쏘시개에 묶인 영웅",
+    "medium": "myth",
+    "year": "기원전 5세기(아이스킬로스·바킬리데스) ~ 기원후 8년(오비디우스)",
+    "creator": "아이스킬로스 『코이포로이』 602행 이하; 바킬리데스 송가 5; 오비디우스 『변신 이야기』 8.445–525; 아폴로도로스 1.8.2; (장작 없음) 호메로스 『일리아스』 9.529–599",
+    "premise": "멜레아그로스가 갓 태어났을 때 운명의 여신들이 '화로에서 타는 장작이 다 타면 죽는다'고 예언하고, 어머니 알타이아가 장작을 꺼내 상자에 숨긴다. 훗날 칼리돈 멧돼지 사냥 뒤 그가 외삼촌들을 죽이자 분노한 알타이아가 장작을 다시 불에 던져 아들이 죽는다.",
+    "fire_rebirth": "[기억 기준, 웹 미확인] 불이 영웅의 생명을 보관하는 외부 영혼처럼 쓰이며, 장작을 불에서 꺼내 두는 동안 산다. 호메로스(일리아스 9권)는 장작 없이 알타이아의 저주로 죽음을 전하므로 장작 모티프는 후대 요소다. 바킬리데스 5에서 하데스의 헤라클레스가 멜레아그로스를 만나는 장면이 있다. 장작 모티프의 최초 전거는 학설이 갈리므로 '적어도 5세기 BCE에는 알려져 있었다' 정도로만 쓸 것(아이스킬로스 『코이포로이』도 알타이아와 불타는 장작을 언급). 부활은 없다.",
+    "similarity": "medium",
+    "overlap": [
+     "생명이 한 조각의 불에 묶여 있고 그 불이 꺼지면 죽는다는 점은 불씨와 주인공 생명의 결합과 대응",
+     "불씨를 쥔 자(알타이아)가 목숨을 쥔다는 구도는 불씨지기·헤르메스·아테 관계에 응용 가능",
+     "다른 점: 이미 죽은 몸을 불씨가 대신 살린다는 구조(2막 반전)는 아니고 의존 관계만 겹침"
+    ],
+    "source": "https://cts.perseids.org/read/greekLit/tlg0548/tlg001/perseus-eng2/1.8.2-1.9.2",
+    "verdict": "corrected",
+    "correction_note": "원문 서지에 아이스킬로스를 추가하고 최초 전거는 확정하지 않도록 완화. 바킬리데스 5에 장작 서술이 있다는 세부는 웹 미확인이며 불확실하다. 장작을 숨긴 시점은 전승마다 다르다(오비디우스는 출생 시, 아폴로도로스는 이레째라는 서술로 기억)."
+   },
+   {
+    "title": "아리스토파네스 『새』 — 제물 연기가 끊겨 굶주리는 신들",
+    "medium": "other",
+    "year": "기원전 414년",
+    "creator": "아리스토파네스 『새(Ornithes)』(약 187–193행의 연기 봉쇄 구상, 1494–1552행의 프로메테우스 장면); 비교: 호메로스 『일리아스』 5.339–342(이코르)",
+    "premise": "새들이 하늘에 도시(클라우드쿠쿠랜드)를 쌓아 인간의 제물 연기가 올림포스에 닿지 못하게 한다. 프로메테우스가 몰래 와서 신들이 제물 연기를 못 받아 굶주리고 야만신들이 일리리아인처럼 울부짖으며 제우스를 침공하겠다고 위협한다고 전한다.",
+    "fire_rebirth": "[기억 기준, 웹 미확인] 제사의 불·연기가 인간에서 신으로 영양을 전하는 통로이고 막히면 신들이 굶는다는 고전 그리스 문헌상의 명시적 논리다. 『일리아스』 5.339–342는 이코르가 곡식·포도주를 먹지 않기 때문에 인간의 피와 다르다고 설명해, 우리 설정의 '신들의 피 이코르'와 식량 문제를 한 쌍으로 엮을 수 있다. [정정] 장르는 신화가 아니라 희극이다. 풍자 작품이므로 실제 신앙의 증언이 아니라 당대 관객이 이해한 '제사 경제'의 반영으로만 쓸 것. 부활·화로 체크포인트 요소는 없다.",
+    "similarity": "medium",
+    "overlap": [
+     "불/연기가 끊기면 신들이 굶고 힘을 잃는다는 점은 도입부 '화로가 꺼지자 신들이 굶주려 침묵'과 대응",
+     "프로메테우스가 신들의 위기를 알려 주는 전달자로 등장하는 점은 불씨지기와 대응 가능",
+     "이코르(5권)와 신들의 식량 설정 연결 가능",
+     "다른 점: 희극이며 부활·화로 체크포인트 요소 없음"
+    ],
+    "source": "https://www.ellopos.net/elpenor/greek-texts/ancient-Greece/aristophanes/birds.asp?pg=84 ; https://www.mythweb.com/Iliad/05.html ; https://en.wikipedia.org/wiki/Ichor",
+    "verdict": "corrected",
+    "correction_note": "medium 분류를 myth에서 other(희극)로 정정. 행 번호와 줄거리는 기억 기준 확인이며 웹 재확인은 못 했다."
+   },
+   {
+    "title": "세멜레와 디오니소스 — 번개불 속의 탄생과 오르페우스교의 '티탄의 그을음' 인류기원담",
+    "medium": "myth",
+    "year": "기원전 5세기(에우리피데스) / 아폴로도로스 기원후 1~2세기 / 올림피오도로스 기원후 6세기",
+    "creator": "에우리피데스 『바카이』 도입부; 아폴로도로스 3.4.3, 3.5.3; 올림피오도로스 『파이돈 주석』; 비판적 논의: R. Edmonds",
+    "premise": "세멜레가 제우스의 본모습(번개불)을 보고 타 죽자 제우스가 태아 디오니소스를 꺼내 허벅지에 넣어 다시 낳는다('두 번 태어난 자'). 디오니소스는 후에 저승에서 어머니를 데려 올라온다(아폴로도로스 3.5.3). 후기 오르페우스교 서술에서는 티탄에게 찢긴 자그레우스의 심장을 아테나가 구해 제우스가 되살리고, 제우스가 번개로 태운 티탄에게서 인류가 났다고 한다.",
+    "fire_rebirth": "[기억 기준, 웹 미확인] 번개불이 죽음과 새 탄생을 동시에 일으킨다. [정정] 올림피오도로스는 인류가 티탄의 '재'가 아니라 티탄에게서 피어오른 증기의 '그을음(αἰθάλη)'에서 났다고 쓴다(대중 요약은 '재'로 옮기는 경우가 많다). 이 인류기원담은 올림피오도로스(6세기)에 크게 의존하고, 에드먼즈 등은 이것이 고대 오르페우스교의 고정 교리가 아니라는 견해를 낸다(전체 논증은 미확인). 학술적 확정성이 낮아 창작 변용이 자유로운 영역으로 취급해야 한다.",
+    "similarity": "low",
+    "overlap": [
+     "재/그을음이 신적 존재의 잔재이고 죽음과 재탄생이 맞물린다는 점은 재화 '재(Ash)'의 신화적 의미 부여에 활용 가능",
+     "신의 불(번개)이 죽음과 새 생명을 동시에 주는 양면성",
+     "다른 점: 화로·체크포인트·기사 서사 없음. 모티프 수준의 느슨한 유사성"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Zagreus ; https://repository.brynmawr.edu/classics_pubs/79",
+    "verdict": "corrected",
+    "correction_note": "'티탄의 재'를 올림피오도로스 원문 취지('그을음/증기')로 정정하고 제목도 이에 맞춤. 웹 재확인은 못 했고 기억 기준이다."
+   },
+   {
+    "title": "스토아학파의 에크피로시스(ἐκπύρωσις)와 팔링게네시아 — 우주의 대화재와 재탄생",
+    "medium": "other",
+    "year": "기원전 4~3세기(제논·클레안테스·크리시포스) / 헤라클레이토스 기원전 6~5세기",
+    "creator": "스토아학파(디오게네스 라에르티오스 7권 등 후대 요약 경유); 헤라클레이토스 DK22 B30, B90; 마르쿠스 아우렐리우스 『명상록』 11.1(팔링게네시아 언급)",
+    "premise": "스토아 우주론에서는 우주가 주기적으로 불(에크피로시스)로 소멸하고 이어 거의 동일한 우주가 다시 시작된다(팔링게네시아). 헤라클레이토스는 우주가 '일정 척도로 타오르고 일정 척도로 꺼지는 영원히 살아 있는 불'이라고 했다.",
+    "fire_rebirth": "[기억 기준, 웹 미확인] 불이 소멸의 힘이자 재생의 원천이라는 철학적 틀이다. [정정] 스토아 내부의 이견은 '클레안테스·디오게네스'가 아니라, 에크피로시스를 의심·부정한 쪽이 파나이티오스·시돈의 보이토스이고 바빌론의 디오게네스는 만년에 유보했다는 필론의 전언이 표준 서술이다(클레안테스는 에크피로시스를 지지). 헤라클레이토스가 에크피로시스를 말했는지는 학계 이견이 있다. 서사 장치로서는 추상적이다.",
+    "similarity": "low",
+    "overlap": [
+     "한 시대의 끝이 불로 사라지고 새 시대가 시작된다는 점은 엔딩 B(신들의 시대 종결)·세계 재시작 주제",
+     "다른 점: 개인·기사·화로 요소 없음, 우주적 순환론"
+    ],
+    "source": "https://iris.unito.it/handle/2318/1945172 ; https://www.rep.routledge.com/articles/thematic/stoicism/v-1/sections/cosmology-and-theology",
+    "verdict": "corrected",
+    "correction_note": "스토아 내부 이견 당사자를 정정(보이토스·파나이티오스, 디오게네스 유보). 웹 재확인은 못 했고 기억 기준이다."
+   },
+   {
+    "title": "아즈텍 '새 불 의식'(Xiuhmolpilli) — 52년마다 불을 끄고 희생자의 가슴에서 새 불을 일으킴",
+    "medium": "other",
+    "year": "마지막 시행 1507년 / 16세기 기록(사아군 『피렌체 사본』 7권)",
+    "creator": "베르나르디노 데 사아군 『피렌체 사본』 7권; 아즈텍 의례 (타 문화 비교 사례)",
+    "premise": "52년 주기로 두 역법이 맞물리는 시점에 사제들이 별의 언덕(우이시츠틀란)에 올라 한밤에 희생자의 가슴에 불 막대를 비벼 새 불을 일으키고, 이 불을 신전과 가정으로 옮겨 분배한다. 불이 붙지 않으면 세계가 끝난다고 믿었다.",
+    "fire_rebirth": "[기억 기준, 웹 미확인] 의식 전 기존 불을 끄고, 새 불을 희생자의 가슴에서 일으킨 뒤 도시 전역에 분배하는 구조는 사아군 7권(9~12장 부근)에 서술된 것으로 알고 있다. 의례 순서와 세부는 자료별로 다르고 제출 목록도 본문 직접 확인을 못 했다고 밝혔다. 그리스 신화 기반 작품이므로 직접 차용은 부적합하고 비교신화학적 참고용이며, 문화 전용 논란 위험이 있다. 부활 서사는 없다.",
+    "similarity": "medium",
+    "overlap": [
+     "불을 모두 끄고 단 한 번의 점화에 세계의 존속이 걸린다는 점은 화로가 꺼진 올림포스와 재점화",
+     "가슴(몸)에서 불이 나는 희생은 불씨를 몸에 지닌 주인공과 상징적으로 대응 가능",
+     "새 불을 모든 가정·신전에 나눈다는 점은 엔딩 C",
+     "다른 점: 그리스 신화가 아니며 부활 서사 없음"
+    ],
+    "source": "https://www.worldhistory.org/article/866/the-aztec-new-fire-ceremony/ ; https://www.mesoweb.com/pari/publications/journal/2304/Xiuhmolpilli.pdf",
+    "verdict": "confirmed",
+    "correction_note": "내용 변경 없음. 검색 한도 소진으로 웹 재확인은 못 했고, 사아군 본문 직접 확인도 못 해 세부(소등 서술)는 단서를 유지한다."
+   },
+   {
+    "title": "조로아스터교 아타시 바흐람(Atash Behram) — 열여섯 불을 모아 정화한 최고 등급 성화와 이란샤 불",
+    "medium": "other",
+    "year": "이란샤 불: 전승상 기원후 721년경 산잔에서 봉헌, 1742년 우드와다에 안치 / 『키사이 산잔』 1599",
+    "creator": "조로아스터교(파르시) 전통; 『Qissa-i Sanjan』(1599, 바흐만 카이코바드)",
+    "premise": "가장 높은 등급의 성화 아타시 바흐람은 번개, 화장 장작, 여러 직업과 왕·가정의 불 등 서로 다른 열여섯 불을 모아 각각 정화한 뒤 합쳐 만들며 영구히 꺼뜨리지 않는다. 인도의 이란샤 불은 이란에서 건너온 파르시들이 가져온 전통의 불로 전해지며 여러 곳을 옮겨 다닌 끝에 우드와다에 안치되었다.",
+    "fire_rebirth": "[기억 기준, 웹 미확인] 여러 곳의 불을 합쳐 정화된 단일한 불로 만드는 의례다. 이란샤 불을 이란에서 직접 가져왔다는 통속 전승은 의심하는 연구자가 있고, '1250년 이상 연속 점화'는 관광 정보 수준의 주장이며, 16개 불의 목록과 완성 기간도 자료마다 다르다. 그리스 중심 작품에서 직접 차용 대상이 아니라 '불씨를 지키는 사제 조직·불의 등급' 같은 세계관 참고용이다. 개인의 죽음·부활 서사는 없다.",
+    "similarity": "low",
+    "overlap": [
+     "불씨를 꺼뜨리지 않고 대대로 지키며 옮기는 사제/화덕지기 직능은 엔딩 A의 '새 화덕지기'와 유비",
+     "여러 종류의 불(화장 불 포함)을 모아 하나로 정화하는 점은 지역별 화로를 모아 올림포스로 가는 구조의 유비",
+     "다른 점: 그리스 신화가 아니며 개인의 죽음·부활 서사 없음"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Iranshah_Atash_Behram ; https://en.wikipedia.org/wiki/Atash_Behram ; https://encyclopedia.pub/entry/27788",
+    "verdict": "confirmed",
+    "correction_note": "내용 변경 없음. 검색 한도 소진으로 웹 재확인은 못 했고 연대·연속 점화 주장은 불확실하므로 인용 시 '전승상'으로 단서를 붙일 것."
+   }
+  ],
+  "rejected": []
+ },
+ "media": {
+  "verified": [
+   {
+    "title": "세인트 세이야 / 聖闘士星矢 (Saint Seiya, 서구 제목 Knights of the Zodiac) 속 불사조 성투사 피닉스 이키",
+    "medium": "manga",
+    "year": "1986 (연재 시작. 1986년 1월 1일자가 통설, 영문 위키 도입부만 1985로 표기) ~ 1990",
+    "creator": "쿠루마다 마사미 (슈에이샤 주간 소년 점프) / 애니메이션 도에이",
+    "premise": "여신 아테나를 섬기는 '성투사'들이 별자리 성의(클로스)를 입고 다른 신들과 싸우는 이야기다. 주인공은 페가수스 세이야이고, 불사조 성의를 입은 이키는 인기 조연이다.",
+    "fire_rebirth": "불사조 성의는 산산조각 나도 스스로 재생한다는 설정이다. 하데스 편에서 이키는 동생 슌의 몸을 차지한 하데스를 떼어내려다 죽고, 시신이 코퀴토스로 보내진다. 이후 아테나의 힘과 불사조 성의로 돌아온다(검색 요약 기준). 샤카와의 싸움에서 '몸과 영혼을 모두 없애지 않으면 이키는 돌아온다'는 취지의 대사가 나온다. 이 대사와 '죽을 때마다 강해진다'는 설명은 팬위키 요약으로만 확인했고 원문 대사는 확인하지 못했다.",
+    "similarity": "high",
+    "overlap": [
+     "그리스 신화 세계관, 기사 격 전사, 불사조식 부활이 한 작품에 모여 있다. '불 속에서 부활하는 기사'라는 한 줄 요약에는 가장 직접 맞는 기존 사례다.",
+     "하데스와 저승을 다루고 이키가 죽었다가 돌아오므로, 우리 초안의 저승문과 죽음 설정도 소재 차원에서 겹친다.",
+     "차이: 불사조 부활은 주인공이 아닌 조연 한 명의 특성이다. 화로를 부활 지점으로 쓰는 체크포인트, 재(Ash) 경제, '이미 죽었다'는 반전 같은 구조는 없다.",
+     "유사도 'high'는 한 줄 요약과 모티프 수준에 한한다. 게임 구조 수준에서는 낮다."
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_Saint_Seiya_chapters_(series) ; https://manga.fandom.com/wiki/Phoenix_Ikki ; https://vsbattles.com/threads/ikki-regeneration-and-resurrection.181177/ (팬 자료)",
+    "verdict": "confirmed",
+    "correction_note": "웹 검색으로 확인한 사항: 연재 시작은 1986년 1월(챕터 목록 기준)이고 영문 위키 도입부만 1985로 표기하므로 제출 내용이 맞다. 하데스 편의 이키 사망과 귀환, 샤카의 '몸과 영혼' 대사(팬위키 요약)도 확인했다. 서구 제목 'Knights of the Zodiac'은 이번 세션에서 웹 재확인을 못 한 배경지식이다."
+   },
+   {
+    "title": "얼음과 불의 노래 / 왕좌의 게임 (A Song of Ice and Fire / Game of Thrones) 속 베릭 돈다리온",
+    "medium": "novel",
+    "year": "소설 2000 (A Storm of Swords에서 직접 등장) / HBO 드라마 2013(시즌 3 등장)~2019",
+    "creator": "조지 R. R. 마틴 / HBO",
+    "premise": "웨스테로스를 배경으로 한 대서사 판타지다. 베릭 돈다리온 경은 영주이자 전사로, 전투와 처형에서 여러 번 죽지만 붉은 사제 토로스에게 되살아나 '깃발 없는 형제단'을 이끈다.",
+    "fire_rebirth": "토로스가 R'hllor(빛의 군주)에게 기도하며 죽은 베릭에게 '불의 입맞춤(마지막 입맞춤)'을 하고, 불이 폐에 불어넣어지며 되살아난다. 원작에서 베릭은 아리아에게 '지금까지 여섯 번 죽었다 살아났다'고 밝힌다. 첫 죽음은 머머스 포드에서 그레고르의 창에 찔린 것이다. 매번 기억이 조금씩 닳고, 몸에 치명상의 흉터가 남는다. 피를 묻힌 검에 불이 붙는 장면도 있다.",
+    "similarity": "high",
+    "overlap": [
+     "'불의 신 덕에 죽음에서 돌아오는 전사'라는 이미지가 문자 그대로 일치한다. 불의 신앙과 그 사제가 부활을 집전하는 구조도 우리의 화로와 화덕지기 구도와 닮았다.",
+     "부활의 대가로 기억과 자아가 닳는 설정은 우리의 재 떨구기 및 '이미 죽은 존재' 반전과 주제가 통한다.",
+     "차이: 베릭은 조연이고 부활은 사제의 의식이 필요하다. 체크포인트 반복 구조는 없고 세계관도 그리스 신화가 아니다.",
+     "서양 판타지 독자에게 '불로 부활하는 기사'는 이미 익숙한 이미지다. 다만 이를 주인공의 게임 루프로 삼은 작품은 아니다."
+    ],
+    "source": "https://awoiaf.westeros.org/index.php/Beric_Dondarrion ; https://awoiaf.westeros.org/index.php/A_Storm_of_Swords-Chapter_39 ; https://awoiaf.westeros.org/index.php/Kissed_by_Fire",
+    "verdict": "confirmed",
+    "correction_note": "여섯 번 부활, 토로스의 입맞춤과 불의 숨, 매번 기억이 닳는 대가는 awoiaf 검색 결과로 확인했다. 작중 호칭은 '기사(Ser)'가 아니라 'Lord Beric'(영주)이다. 기사 서임 여부는 확인하지 못했으므로 '기사'라는 표현은 느슨한 서술로 보아야 한다."
+   },
+   {
+    "title": "불새 / 火の鳥 (Phoenix, Hi no Tori)",
+    "medium": "manga",
+    "year": "1954 첫 연재(만화소년), 이후 1956~57 및 1967~1988 등 여러 시리즈",
+    "creator": "데즈카 오사무",
+    "premise": "불사의 새 '불사조'가 선사시대부터 먼 미래까지 인류의 생사와 문명의 흥망을 지켜보는 연작 대하 서사다. 불사조의 피를 얻으면 영생을 얻지만, 영생을 탐한 인간들은 각 시대에서 재앙을 겪는다.",
+    "fire_rebirth": "불사조는 생명·죽음·환생의 순환을 상징하는 불의 새다. 피가 영생을 준다는 설정이 핵심이고, 인물들은 여러 생에 걸쳐 윤회하며 한 생의 행동이 다른 생의 업으로 이어진다. '불 속에서 되살아나는 전사'를 직접 다루지는 않는다.",
+    "similarity": "low",
+    "overlap": [
+     "불과 불사조를 생명·부활·순환의 상징으로 보는 철학적 모티프는 우리의 헤스티아의 불 개념과 결이 닿는다.",
+     "영생에 따르는 대가라는 주제는 '죽음을 빌려 쓰는 불씨'와 통하나, 구조 수준의 접점은 없다.",
+     "차이: 기사나 전투 중심이 아니고 에피소드마다 독립된 대하 서사다. 게임 루프와 닿는 지점이 없다.",
+     "동아시아에서 불사조·부활은 이미 고전 모티프이므로 모티프 자체의 독창성을 내세우기는 어렵다."
+    ],
+    "source": "https://myanimelist.net/manga/89809/Hi_no_Tori ; https://www.animenewsnetwork.com/encyclopedia/manga.php?id=417",
+    "verdict": "corrected",
+    "correction_note": "작품·작가·연재 시기는 맞다(웹 재확인은 검색 한도 소진과 사이트 접근 차단으로 못 하고 배경지식으로 확인). 다만 '불 속에서 부활하는 기사'라는 사용자 질문과 우리 초안의 구조에 비하면 접점이 얕아 similarity를 medium에서 low로 낮춘다."
+   },
+   {
+    "title": "마블 피닉스 / 다크 피닉스 (진 그레이, Phoenix Force)",
+    "medium": "comic",
+    "year": "1976 (X-Men #101 피닉스 등장) / 1980 (다크 피닉스 사가, Uncanny X-Men #129~138) / 1986 (Fantastic Four #286 및 Avengers #263 복제 반전)",
+    "creator": "크리스 클레어몬트, 데이브 코크럼, 존 번 외 (마블 코믹스). 1986년 반전은 로저 스턴, 바비 레이턴, 존 번 등이 참여",
+    "premise": "초능력자 진 그레이는 우주선 사고로 죽은 것처럼 보였다가 우주적 힘 '피닉스 포스'와 함께 되살아난다. 그 힘이 커지며 폭주해 '다크 피닉스'가 되고 결국 스스로 목숨을 끊는다.",
+    "fire_rebirth": "피닉스 포스는 불꽃의 새 모양으로 표현되는 우주적 존재다. 죽음에서 되살아나게 하지만 숙주를 키우다 폭주시킨다. 1986년 설정 변경에서는 피닉스가 죽어가던 진의 몸과 기억을 본뜬 복제 몸으로 '자신이 진 그레이'라고 믿으며 살았고, 진 본인은 자메이카 만 바닥의 고치에서 잠들어 있었다고 바뀐다.",
+    "similarity": "medium",
+    "overlap": [
+     "2막 반전 구조가 가장 비슷하다. 불의 존재가 인간의 자리를 대신 살고 있었고 본인은 자신의 정체를 몰랐다. 이는 '주인공은 이미 죽었고 불씨가 죽음을 빌려 살고 있었다'와 비슷한 틀이다.",
+     "'불새 = 죽음에서의 재탄생 + 과도한 힘의 대가' 도식은 북미 독자에게 익숙하다.",
+     "차이: 기사나 신화가 아닌 SF 슈퍼히어로물이고 체크포인트 반복도 없다. 또한 구조가 거울상이다. 마블에서는 진 본인이 실제로 죽지 않았고 불의 존재가 진을 흉내 냈다. 우리 초안은 주인공이 실제로 죽었고 불씨가 그 죽음을 지탱한다.",
+     "우리 쪽 반전은 '불씨 = 헤스티아의 마지막 불'이라는 신화적 근거와 화로 부활 시스템이 비밀로 이어져야 차별화된다."
+    ],
+    "source": "https://en.wikipedia.org/wiki/The_Dark_Phoenix_Saga ; https://en.wikipedia.org/wiki/Phoenix_Force ; https://comicbook.com/comics/feature/why-marvel-totally-retconned-jean-grey-as-the-phoenix-went-back-on-it-28-years-later/",
+    "verdict": "corrected",
+    "correction_note": "연도와 큰 줄거리는 맞다(웹 재확인은 못 하고 배경지식 기준). 고칠 점은 두 가지다. 첫째, 크리에이터에 피닉스 최초 등장 작화가 데이브 코크럼과 1986년 반전 참여자(스턴·레이턴·번)를 추가해야 한다. 둘째, 제출문의 '죽은 사람의 자리를 불이 대신 살았다'는 정확하지 않다. 진은 죽은 것이 아니라 고치 속에 있었고 피닉스가 그 모습을 흉내 냈다. 구조는 우리 초안의 거울상이다."
+   },
+   {
+    "title": "하울의 움직이는 성 (Howl's Moving Castle)",
+    "medium": "anime",
+    "year": "소설 1986 / 지브리 영화 2004",
+    "creator": "다이애나 윈 존스(원작) / 미야자키 하야오(영화)",
+    "premise": "황야의 마녀의 저주로 노파가 된 소녀 소피가 마법사 하울과 불의 악마 칼시퍼가 사는 움직이는 성에서 저주를 풀려 한다.",
+    "fire_rebirth": "칼시퍼는 떨어지던 별이고, 하울이 자기 심장을 내어주어 살려 낸 대신 계약으로 묶였다. 불씨가 사람의 심장을 쥐고, 사람은 그 덕에 마법과 생을 잇는 상호 의존 관계다. 칼시퍼는 성의 화덕에 머문다. 소설에서 소피가 계약을 푸는 구체적 방식은 이번에 확인하지 못했다.",
+    "similarity": "low",
+    "overlap": [
+     "'하늘에서 떨어진 불씨 + 화덕에 머무는 불 + 불과 인간의 생명 계약'이라는 조합이 우리 초안의 헤르메스의 마지막 불씨, 화로, '불씨가 죽음을 빌려 쓰는 반전'과 이미지상 닮았다.",
+     "차이: 전투, 부활, 죽음 반복이 없고 로맨스와 저주 풀기가 중심이다.",
+     "한국에서 지브리 팬층이 두터워 '불의 정령과의 계약' 이미지는 널리 알려져 있다. 불씨가 사람과 계약해 살린다는 연출이 겹쳐 보이지 않게 주의할 필요가 있다."
+    ],
+    "source": "https://litcharts.com/lit/howl-s-moving-castle/characters/calcifer ; https://d23.com/a-to-z/howls-moving-castle",
+    "verdict": "corrected",
+    "correction_note": "연도·제작자와 칼시퍼가 떨어지던 별이라는 설정, 하울의 심장 계약은 맞다(웹 재확인은 못 하고 배경지식 기준). 제출문의 '소설에서 소피가 칼시퍼에게 생명을 불어넣어 계약을 푼다'는 확인하지 못해 삭제했다. 전투와 부활이 없어 우리 초안과의 구조 유사도는 medium이 아니라 low로 본다."
+   },
+   {
+    "title": "Re:제로부터 시작하는 이세계 생활 (Re:Zero)",
+    "medium": "novel",
+    "year": "웹소설 2012 (소설가가 되자) / 애니메이션 2016",
+    "creator": "나가쓰키 탓페이 / 애니메이션 화이트폭스",
+    "premise": "이세계에 소환된 스바루는 죽을 때마다 특정 시점으로 되돌아가는 '죽음 회귀'로 사람들을 지키려 한다. 죽음의 고통과 기억은 그에게만 쌓이고, 이 능력을 남에게 말하려 하면 마녀의 힘에 심장이 짓눌리는 제약이 따른다.",
+    "fire_rebirth": "불은 직접 관련이 없다. 죽음이 곧 직전 복귀 지점으로의 이동이며, 복귀 지점은 사건에 따라 갱신된다. 세이브 포인트처럼 작동한다.",
+    "similarity": "medium",
+    "overlap": [
+     "'죽음 = 세이브 포인트 복귀 + 반복 학습'이라는 게임적 구조를 서사로 만든 대표작이다. 우리 체크포인트 부활의 가장 큰 서사적 선례다.",
+     "능력의 비밀을 말하면 벌을 받는 제약은 '이미 죽었다'는 비밀과 비교될 수 있다.",
+     "차이: 시간 되감기이고 월드가 리셋된다. 우리는 세계가 유지되고 화로에서 부활하며 재를 떨군다. 불·신화·기사 요소도 없다.",
+     "사망 회귀형 주인공은 일본·한국 웹소설 독자에게 이미 굉장히 익숙하다. 회귀 자체로는 새롭지 않다."
+    ],
+    "source": "https://en.wikipedia.org/wiki/Re:Zero ; https://en.wikipedia.org/wiki/Subaru_Natsuki",
+    "verdict": "corrected",
+    "correction_note": "연도·작가·애니 제작사는 맞다(웹 재확인은 못 하고 배경지식 기준). 제출문의 '말하려 하면 죽는다'는 과장된 표현이어서, 마녀의 힘이 심장을 짓누르는 제약으로 고쳤다. 정확한 장면별 결과는 확인하지 못했다."
+   },
+   {
+    "title": "All You Need Is Kill / 엣지 오브 투모로우 (Edge of Tomorrow)",
+    "medium": "novel",
+    "year": "소설 2004 / 영화 2014",
+    "creator": "사쿠라자카 히로시 / 영화: 더그 라이먼 감독, 톰 크루즈·에밀리 블런트 출연",
+    "premise": "외계 생물 '기타이(ギタイ, Mimic)'와의 전쟁에서 신병 키리야 케이지가 전투 중 죽으면 이전 시점으로 깨어나기를 반복하며, 죽음을 거듭하면서 싸우는 법을 익힌다. 소설에서는 158번째 반복에서 리타 브라타스키와 함께 루프를 끝낸다.",
+    "fire_rebirth": "불은 관련이 없다. 죽을 때마다 전투 직전 시점으로 되돌아가는 시간 루프다.",
+    "similarity": "low",
+    "overlap": [
+     "'전사가 죽음을 반복하며 숙련하는' 구조가 소울라이크 플레이 감각과 닮았다.",
+     "전쟁 속 한 병사가 반복 죽음으로 영웅이 되는 성장 곡선은 불씨지기의 성장과 비교될 수 있다.",
+     "차이: SF 전쟁물이고 판타지·신화·불 요소가 없다. 루프의 원인은 외계 생물의 능력이다.",
+     "죽음 루프는 이미 대중 영화 장르로 자리 잡았다."
+    ],
+    "source": "https://en.wikipedia.org/wiki/All_You_Need_Is_Kill",
+    "verdict": "corrected",
+    "correction_note": "연도·작가·영화 정보는 맞다(웹 재확인은 못 하고 배경지식 기준). 고칠 점은 세 가지다. 첫째, 제출문의 외계 생물 이름 '기탄'은 틀렸고 원작 표기는 ギタイ(擬態, Mimic)다. 둘째, '전투 전날(소설은 같은 날 아침)'은 서술이 모호하다. 정확한 복귀 시점은 확인하지 못해 '전투 직전 시점'으로 일반화했다. 셋째, 158번째 반복의 조력자는 '동료 병사'가 아니라 리타 브라타스키다."
+   },
+   {
+    "title": "전지적 독자 시점 (Omniscient Reader's Viewpoint)",
+    "medium": "novel",
+    "year": "웹소설 2018 (문피아) / 웹툰 2020 / 영화 2025-07-23 개봉",
+    "creator": "싱숑(singNsong), 웹툰 작화 Sleepy-C, 영화 감독 김병우",
+    "premise": "소설 속 세계가 현실이 된 뒤, 그 소설의 유일한 완독자였던 김독자가 소설 속 주인공 유중혁과 함께 멸망한 세계에서 살아남는다.",
+    "fire_rebirth": "불 설정은 없다. 유중혁은 죽으면 처음부터 다시 시작하는 '회귀'를 거듭해 시나리오를 돌파한다.",
+    "similarity": "low",
+    "overlap": [
+     "한국 대중에게 가장 널리 알려진 '죽음 회귀 주인공' 사례다. 영화·웹툰으로 노출도가 높아 '죽어도 돌아오는 주인공'은 한국에서 이미 익숙한 설정이다.",
+     "차이: 현대 아포칼립스와 메타 서사가 중심이고 불·신화·기사 요소가 없다. 회귀의 주체도 주인공이 아니라 조연 유중혁이다.",
+     "한국 시장 판단: 회귀·부활을 앞세운 마케팅은 신선함을 주기 어렵다."
+    ],
+    "source": "https://www.mt.co.kr/entertainment/2025/07/18/2025071811137271527 ; https://animecorner.me/omniscient-readers-viewpoint-live-action-trailer-july/",
+    "verdict": "confirmed",
+    "correction_note": "웹 재확인은 못 하고 배경지식 기준으로 확인했다. 유사도 'low' 판단은 타당하다. 제출문 중 '세계의 규칙이 운명처럼 작동한다'는 엔딩 A/B/C 비교는 근거가 약한 해석이라 무시해도 된다."
+   },
+   {
+    "title": "고스트 라이더 (Ghost Rider)",
+    "medium": "comic",
+    "year": "1972 (Marvel Spotlight #5)",
+    "creator": "게리 프리드리히, 마이크 플루그, 로이 토머스 (마블 코믹스)",
+    "premise": "스턴트 오토바이 선수 조니 블레이즈가 양아버지를 살리려고 악마와 거래하고, 이후 지옥불에 휩싸이는 해골 머리의 복수자가 된다.",
+    "fire_rebirth": "악령과 결합한 인간이 악을 만나거나 밤이 되면 불타는 해골로 변한다. 죽음과 계약이 불로 표현되지만, 되살아나는 구조라기보다 불의 영이 몸을 점유하는 구조다.",
+    "similarity": "low",
+    "overlap": [
+     "불의 존재가 인간의 몸과 운명을 빌려 쓴다는 설정이 우리의 '불씨가 죽음을 빌린다'와 모티프상 겹친다.",
+     "불타는 해골 이미지는 '불 + 죽음' 시각 코드의 대표 선례이므로, 비주얼 설계 때 구분이 필요하다.",
+     "차이: 기사·신화 요소와 체크포인트 구조가 없고 복수·악마 계약이 중심이다."
+    ],
+    "source": "https://britannica.com/print/article/1949125 ; https://marvel.fandom.com/wiki/Johnathon_Blaze_(Earth-616)",
+    "verdict": "confirmed",
+    "correction_note": "웹 재확인은 못 하고 배경지식 기준으로 확인했다. 계약 상대와 악령의 이름(메피스토, 자라토스)은 이후 설정 정리로 확정된 부분이 있을 수 있어 초기 1972년 설정과 현행 설정을 구분해 쓰는 편이 안전하다."
+   },
+   {
+    "title": "불꽃 소방대 (炎炎ノ消防隊 / Fire Force)",
+    "medium": "manga",
+    "year": "2015~2022 연재 / 애니메이션 2019~",
+    "creator": "오쿠보 아쓰시 (코단샤 주간 소년 매거진)",
+    "premise": "사람이 불꽃 괴물 '불의 인간(Infernal)'으로 변하는 도쿄에서 특수소방대 제8 소속 신라가 불의 인간을 진압하고, 250년 전 대재앙을 재현하려는 세력과 싸운다.",
+    "fire_rebirth": "불은 재앙이자 능력이다. 불의 인간은 소방대원의 기도로 진화(鎮火)되어 영혼이 안식에 든다. 인물이 죽었다가 되살아나는 구조는 아니다.",
+    "similarity": "low",
+    "overlap": [
+     "불을 세계의 근원적 힘으로 두고 재앙의 원인과 구원의 열쇠를 모두 불에서 찾는 '불의 이중성'이 우리 초안과 겹친다.",
+     "불의 인간을 진혼하는 의식적 정서는 화로를 다시 지피는 의식과 정서적으로 닮았다.",
+     "차이: 신화·기사·부활 요소는 없다."
+    ],
+    "source": "https://en.wikipedia.org/wiki/Fire_Force",
+    "verdict": "confirmed",
+    "correction_note": "웹 재확인은 못 하고 배경지식 기준으로 확인했다. 연재 종료 시점(2022년)과 제8 특수소방대 표기는 맞다."
+   },
+   {
+    "title": "도깨비 (Guardian: The Lonely and Great God / Goblin)",
+    "medium": "other",
+    "year": "2016 (tvN 드라마)",
+    "creator": "김은숙 극본 / 이응복 연출",
+    "premise": "고려의 무장 김신은 왕의 오해와 모함으로 억울하게 죽은 뒤 신에게 불멸을 받아 약 900년(작중 939년)을 살며, 가슴에 박힌 검을 뽑아줄 '도깨비 신부'를 찾는다. 저승사자와 같은 집에 살게 된다.",
+    "fire_rebirth": "억울하게 죽은 전사가 초월적 존재의 개입으로 불멸이 되고, 가슴에 꽂힌 검이 죽음과 해방의 열쇠가 된다. 도깨비불(푸른 불꽃)이 연출 소품으로 쓰이지만 부활의 원리는 아니다.",
+    "similarity": "low",
+    "overlap": [
+     "'이미 죽은 전사가 초자연적 힘으로 계속 존재한다'는 점과 저승사자 모티프가 한국 대중에게 매우 친숙하다. 2막 반전이 그리 낯설지 않을 수 있다.",
+     "불멸의 대가와 해방(죽음)을 원하는 구조는 엔딩 B(신들의 시대 종료)와 정서가 통한다.",
+     "차이: 화로·반복 사망·체크포인트가 없다."
+    ],
+    "source": "https://en.wikipedia.org/wiki/Guardian:_The_Lonely_and_Great_God",
+    "verdict": "corrected",
+    "correction_note": "제작 정보는 맞다(웹 재확인은 못 하고 배경지식 기준). 제출문의 '불은 중요하지 않다'는 도깨비불(푸른 불꽃) 연출을 빠뜨려 일부 보정했다. 부활 원리가 아니므로 similarity 'low'는 유지한다."
+   },
+   {
+    "title": "던전에서 만남을 추구하면 안 되는 걸까 (DanMachi / Is It Wrong to Try to Pick Up Girls in a Dungeon?)",
+    "medium": "novel",
+    "year": "라이트노벨 2013-01 / 애니메이션 2015",
+    "creator": "오모리 후지노 (일러스트 야스다 스즈히토)",
+    "premise": "신들이 지상에서 인간과 함께 사는 도시 오라리오에서, 모험가 벨 크라넬이 화로의 여신 헤스티아의 '팔나'(은혜)를 받아 던전에서 성장한다.",
+    "fire_rebirth": "불이나 부활은 핵심이 아니다. 헤스티아의 이름과 '화로의 여신' 설정만 차용했고, 던전에서의 죽음은 되돌릴 수 없는 것으로 다뤄진다.",
+    "similarity": "low",
+    "overlap": [
+     "'그리스 신화의 신들 + 화로의 여신 헤스티아 + 인간 모험가 + 은혜(계약)' 조합이 이미 대중 라이트노벨·애니에서 쓰였다. 헤스티아라는 이름 자체는 신화의 것이라 독점할 수 없지만, 일본·한국 독자는 헤스티아에서 이 작품을 떠올릴 수 있다.",
+     "작중에 헤르메스도 신으로 등장한다. 따라서 '헤스티아와 헤르메스를 함께 쓰는' 우리 초안과 이름 조합이 겹치는 점은 인지해 둘 필요가 있다.",
+     "차이: 코미디·성장·하렘 성격이 강하고 부활·죽음 반복이 없다. 분위기가 매우 다르다."
+    ],
+    "source": "https://en.wikipedia.org/wiki/List_of_Is_It_Wrong_to_Try_to_Pick_Up_Girls_in_a_Dungeon%3F_light_novels",
+    "verdict": "corrected",
+    "correction_note": "연도·작가·일러스트레이터는 맞다(웹 재확인은 못 하고 배경지식 기준). 제출문에서 빠진 점을 추가했다. 작중에 헤르메스도 등장하므로 헤스티아와 헤르메스 조합 자체가 이미 알려진 이름 조합이다. 내용 유사도는 low를 유지한다."
+   }
+  ],
+  "rejected": [
+   {
+    "title": "오늘만 사는 기사 (The Knight Only Lives Today / Eternally Regressing Knight)",
+    "reason": "검증하지 못했다. 웹 검색 한도가 소진됐고 MyAnimeList 접근이 차단돼 작품 존재·연도·작가를 확인할 수 없었다. 제출문 스스로 그림 작가 표기가 자료마다 다르고 웹소설 원작 연재 시기도 미확인이라고 밝혔다. 불/신화 요소가 없는 회귀물이어서 유사도 근거도 약하다. 확신이 없어 제외한다."
+   },
+   {
+    "title": "SSS급 죽어야 사는 헌터 (SSS-Class Revival Hunter)",
+    "reason": "검증하지 못했고 제출 내용에 모순이 있다. 애니메이션 '2027년 1월 방영 예정'이라면서 근거로 든 ANN 주소는 'seasonal/2024/fall'(2024년 가을) 경로다. 웹 검색 한도 소진과 ANN 접근 차단으로 확인할 수 없었다. 부활 방식(복사 + 하루 전 회귀)도 리뷰 요약 수준이고 불·신화 요소가 없어 유사도 가치도 낮다. 제외한다."
+   },
+   {
+    "title": "이혼 후 불사 능력으로 S급 헌터",
+    "reason": "검증하지 못했다. 작품·작가(S.Billy)·출판사·연도(2025년 8월 출간, 176화 완결)가 모두 리디북스와 미스터블루 소개글 검색 요약에만 의존한다. 웹 검색 한도 소진과 리디북스 접근 차단으로 재확인이 불가능했고, 불·신화·기사 요소도 없어 사용자 질문과의 관련성도 낮다. 제외한다."
+   }
+  ]
+ }
+}
