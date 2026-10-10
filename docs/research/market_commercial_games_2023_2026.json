@@ -1,0 +1,512 @@
+{
+ "big-hits": {
+  "verified": [
+   {
+    "title": "클레르 옵스퀴르: 33 원정대 (Clair Obscur: Expedition 33)",
+    "year": "2025 (4월 24일 출시)",
+    "developer": "Sandfall Interactive (프랑스) / 퍼블리셔 Kepler Interactive",
+    "sales": "800만 장 이상 (Sandfall·Kepler 공식, 2026-04-24 출시 1주년, Game Pass 이용자 미포함, 플랫폼별 내역 미공개). 이전 공식 마일스톤: 50만(2025-04-25), 100만(04-27), 200만(05-06), 330만(05-27, 출시 33일), 500만(2025-10-08)",
+    "genre": "턴제 + 실시간 액션 요소 RPG (3D, 다크 판타지)",
+    "art_dependence": "high",
+    "why_it_sold": "아트 디렉션·음악·스토리 완성도와 입소문. 내부 팀 약 30명(COO 발언 보도)에 소수의 외부 협력자, 예산 1천만 달러 미만(CEO 인터뷰 보도). 비용 절감 설계로 진정한 오픈월드를 피하고 전투를 특정 아레나에서 치르며 맵을 작게 만들었다(Insider Gaming). 3D 고품질 비주얼이라 아티스트 의존도는 높다.",
+    "team_size": "내부 팀 약 30명 + 외부 협력자 소수 (COO 발언 보도). 제출본의 '크레딧상 약 400명'은 이번 검색에서 확인하지 못함",
+    "dev_time": "미확인",
+    "price": "미확인 (이번 검색에서 확인하지 못함)",
+    "source": "https://www.rpgsite.net/news/20224-clair-obscur-expedition-33-sales-numbers-april-2026-8-million-copies-sold ; https://en.softonic.com/articles/clair-obscur-expedition-33-cost-a-complete-fortune-but-its-wildly-successful ; https://www.gameswelt.de/clair-obscur-expedition-33/news/trotz-riesigem-erfolg-keine-vergroesserung-des-studios-330689 ; https://insider-gaming.com/sandfall-reveals-budget-clair-obscur-expedition-33/",
+    "verdict": "confirmed",
+    "correction_note": "800만 장(2026-04-24)과 마일스톤 날짜는 확인됨. 단 (1) '5백만 수치는 Switch 제외'라는 설명, (2) 크레딧 약 400명, (3) 가격·개발기간은 이번 검색에서 확인하지 못해 미확인으로 남김. 예산 1천만 달러 미만과 코어 30명은 Softonic(NYT 인터뷰 인용)·Gameswelt(COO 인터뷰) 보도 기준이며 2차 출처다."
+   },
+   {
+    "title": "검은 신화: 오공 (Black Myth: Wukong)",
+    "year": "2024 (8월 20일 출시)",
+    "developer": "Game Science (중국)",
+    "sales": "공식: 출시 3일 만에 1,000만 장이 개발사가 낸 마지막 공식 수치. 3,000만 장 초과는 중국 공산주의청년단 중앙위 문서에서 나온 수치(2026-06경 보도)이며 Game Science는 이 숫자를 확인하지 않고 '중국과 해외 모두 기대를 넘었다'고만 밝힘. 서드파티 추정: Alinea 2,700만(2025-09)",
+    "genre": "중국 신화 기반 액션 RPG (소울라이크 성향)",
+    "art_dependence": "high",
+    "why_it_sold": "중국 신화 IP와 압도적 비주얼, 대형 아트 팀이 만든 AAA 품질. 중국 내수 비중은 출처마다 엇갈린다(청년단 문서 보도는 거의 절반이 중국, 다른 매체는 절반 이상이 해외). 신화 소재 액션의 시장성을 보여주는 강한 증거이나 무아트 팀이 따라갈 수 있는 규모는 아니다.",
+    "team_size": "출시 시점 약 140명 (팬 위키 기준, 비공식·미검증. 같은 위키는 2020년 공개 당시 약 30명이라고 기재)",
+    "dev_time": "약 5~6년 (2차 보도 기준, 정확한 연수는 출처별로 다름)",
+    "price": "미확인",
+    "source": "https://games.gg/es/news/black-myth-wukong-alcanza-30-millones-de-ventas-superando-las-expectativas/ ; https://tweaktown.com/news/112271/black-myth-wukong-mirrors-gta-v-success-with-30-million-copies-sold-in-less-than-2-years/index.html ; https://animost.com/industry-updates/developing-black-myth-wukong/ ; https://thegameswiki.com/black-myth-zhong-kui/wiki/game-science",
+    "verdict": "corrected",
+    "correction_note": "수정점: (1) 개발비 '3억 위안 이상(개발사 대표 발언)'은 검증 불가. 이번 검색에서는 3억~4억 위안(약 4,200만~5,600만 달러)이라는 블로그 추정과, 총 약 7,000만 달러(개발 약 4,250만 + 마케팅 약 2,750만)라는 팬 위키 기재만 확인되어 개발사 공식 수치가 아니라 추정치로 표기해야 한다. (2) 3,000만 장은 청년단 문서발이며 개발사가 확인을 거부했다. (3) 중국 내수 폭발 수요라는 설명은 출처 간 판매 비중이 상충해 단정할 수 없다. (4) Niko Partners 2,500만 이상과 이 문서의 140명은 이번 검색에서 확인하지 못했다."
+   },
+   {
+    "title": "몬스터 헌터 와일즈 (Monster Hunter Wilds)",
+    "year": "2025 (2월 28일 출시)",
+    "developer": "Capcom (일본)",
+    "sales": "1,180만 장 (Capcom Platinum Titles, 2026-06-30 기준). 2026-03-31 기준 1,140만, 2025-12-31 기준 약 1,100만. 출시 3일 만에 800만, 약 한 달 만에 1,000만 돌파(Capcom 첫 달 판매 신기록). Push Square에 따르면 2026 회계연도(2025.4~2026.3) 1년간 판매는 132만 장",
+    "genre": "협동 사냥 액션 RPG (오픈 필드)",
+    "art_dependence": "high",
+    "why_it_sold": "세계적 프랜차이즈의 힘으로 초반에 폭발적으로 팔렸으나 이후 급감했다. 같은 Platinum 목록에서 몬스터 헌터: 월드는 2,240만, 라이즈는 1,930만이다. IP 없이 이 초기 판매를 기대할 수 없고, 출시 후 품질 문제는 장기 판매를 깎는다는 교훈. 대형 아트 팀 필수.",
+    "team_size": "미확인",
+    "dev_time": "미확인",
+    "price": "미확인",
+    "source": "https://www.gematsu.com/2026/08/capcom-platinum-titles-sales-update-as-of-june-30-2026 ; https://finalweapon.net/2026/08/07/capcom-updates-platinum-titles-sales-as-of-june-30-2026/ ; https://www.pushsquare.com/news/2026/05/monster-hunter-wilds-sales-really-have-fallen-off-a-cliff ; https://www.gematsu.com/2025/03/monster-hunter-wilds-sales-top-10-million",
+    "verdict": "corrected",
+    "correction_note": "판매 수치(1,180만 / 1,140만 / 10M 최단)는 확인됨. 수정점: 제출본의 'MH 월드 3,000만 장 이상'은 Capcom Platinum 목록의 월드 2,240만과 어긋나므로 2,240만으로 고친다. 132만 장(회계연도)은 Push Square 단독 보도이고 Capcom 원문으로 확인하지 못했다."
+   },
+   {
+    "title": "엘든 링 나이트레인 (Elden Ring Nightreign)",
+    "year": "2025 (5월 30일 출시)",
+    "developer": "FromSoftware (일본) / Bandai Namco",
+    "sales": "500만 장 이상 (Bandai Namco 발표, 출시 2개월 이내). 24시간 만에 200만 돌파 보도. 출시 4일 만에 출하 350만 초과(FromSoftware 발표, 출하 기준). 서드파티 VG Insights 추정은 첫 주 400만. 이후 공식 누적 수치는 이번 검색에서 확인하지 못함",
+    "genre": "3인 협동 소울라이크 액션 로그라이트",
+    "art_dependence": "medium",
+    "why_it_sold": "엘든 링 브랜드와 소울라이크 팬층 + 협동 멀티플레이 신선함. 엘든 링의 기존 세계관·에셋을 재활용한 파생작이라 완전 신규 제작보다 아트 부담이 낮았을 것이라는 해석은 연구자 판단이며 확인된 사실이 아니다. 소울라이크를 협동/로그라이트로 변주한 점이 참고할 만하다.",
+    "team_size": "미확인",
+    "dev_time": "미확인",
+    "price": "미확인 (이번 검색에서 확인하지 못함)",
+    "source": "https://www.gamesmarket.global/sales-milestones-elden-ring-nightreign-sold-five-million-copies-in-less-than-two-months-9f8290cab0c4b21c9ede12b089c5fa70/ ; https://www.rpgsite.net/news/17605-elden-ring-nightreign-3-5-million-copies-sales-numbers-launch ; https://gamedevreports.substack.com/p/vg-insights-elden-ring-nightreign",
+    "verdict": "corrected",
+    "correction_note": "수정점: '첫 주 약 350만'은 정확히는 출시 4일 만에 출하 350만이다. 공식 수치는 출하 기준이고 판매 기준과 다르다. 400만은 VG Insights의 서드파티 추정이다. 500만 이상(2개월 이내)과 24시간 200만은 확인됨."
+   },
+   {
+    "title": "할로우 나이트: 실크송 (Hollow Knight: Silksong)",
+    "year": "2025 (9월 4일 출시)",
+    "developer": "Team Cherry (호주)",
+    "sales": "700만 장 이상 (Team Cherry 2025-12 중순 발표, Game Pass 이용자 제외). Alinea 추정 Steam 매출 약 7,500만 달러(2025년 신규 인디 매출 4위, 1위 Schedule I 1.51억). 전작 할로우 나이트는 1,500만 장 이상(2025-08 기준). Team Cherry는 자체 매출 수치를 공개하지 않았다",
+    "genre": "2D 메트로베니아 액션",
+    "art_dependence": "high",
+    "why_it_sold": "전작의 거대한 팬덤과 장기간의 기대감. 손으로 그린 독자적 2D 아트가 핵심 자산이다. 소규모 팀이 낸 대형 성공이지만 기존 팬덤과 오랜 개발 기간이 전제다.",
+    "team_size": "미확인 (핵심 3인이라는 보도는 이번 검색에서 확인하지 못함)",
+    "dev_time": "미확인 (제출본의 '약 7년'은 이번 검색에서 확인하지 못함. 출시일 2025-09-04만 확인)",
+    "price": "미확인",
+    "source": "https://respawn.outlookindia.com/gaming/gaming-news/silksong-sales-hit-7-million-as-team-cherry-announces-free-dlc ; https://www.notebookcheck.net/Indie-games-accounted-for-25-of-Steam-s-revenue-in-2025.1189429.0.html ; https://www.kitguru.net/tech-news/mustafa-mahmoud/hollow-knight-silksong-has-already-sold-over-7-million-copies/",
+    "verdict": "confirmed",
+    "correction_note": "판매 700만+(Game Pass 제외), Alinea 7,500만 달러와 인디 4위, 전작 1,500만+는 확인됨. 팀 규모 3인과 개발기간 7년은 미확인으로 바꿨다."
+   },
+   {
+    "title": "팰월드 (Palworld)",
+    "year": "2024 (1월 얼리 액세스) / 2026-07-10 1.0 정식 출시",
+    "developer": "Pocketpair (일본)",
+    "sales": "플레이어 4,000만 명 이상 (Pocketpair 발표, 1.0 직전. 판매량이 아닌 플레이어 수, 구독 서비스 포함). 2025-02 기준 3,200만 플레이어. 판매량은 공식 수치가 없고, Outlook India 단독 보도의 추정은 약 3,050만 장(PlayStation·Steam·Xbox 합산, 미검증). 1.0 출시 후 Steam 동시접속은 100만 명에 근접했다는 보도",
+    "genre": "오픈월드 생존·크래프팅·몬스터 수집",
+    "art_dependence": "medium",
+    "why_it_sold": "'총 든 포켓몬'이라는 즉각 이해되는 콘셉트와 스트리머·밈 바이럴, Game Pass 동시 출시. 개발비 10억 엔 미만(약 670만 달러), 제작 인원 55명, 수백억 엔(tens of billions of yen) 규모 이익은 CEO의 2024년 3월 Bloomberg 인터뷰 기준. 아트 퀄리티가 최고 수준이 아니어도 콘셉트가 강하면 팔린다는 증거.",
+    "team_size": "55명 (2024-03 Bloomberg 인터뷰 보도. 그 시점 제작 참여 총인원인지 스튜디오 현재 인원인지 매체별로 표현이 다름)",
+    "dev_time": "얼리 액세스 약 2.5년 (2024-01 ~ 2026-07 정식 출시). 얼리 액세스 이전 개발 기간은 이번 검색에서 확인하지 못함",
+    "price": "미확인",
+    "source": "https://www.gematsu.com/2026/07/palworld-early-access-tops-40-million-players ; https://respawn.outlookindia.com/gaming/gaming-news/palworld-crosses-305m-sales-with-strong-10-comeback ; https://drupal-cloudfront.benzinga.com/general/gaming/24/03/37755269/palworld-success-overwhelms-too-big-for-our-studio-but-pocketpair-open-to-acquisitions ; https://hothardware.com/news/palworld-makes-too-much-money",
+    "verdict": "confirmed",
+    "correction_note": "4,000만 플레이어, 1.0의 7월 10일 출시, 55명, 10억 엔 미만, 수십 billion 엔 이익은 확인됨. 제출본의 '2024년 초 Steam 1,200만 판매 + Xbox 700만 플레이어'와 3,200만(2025-02)의 개별 날짜는 이번 검색 한도 소진으로 재검증하지 못했다. 960,000 동시접속은 '거의 100만'으로만 확인되어 정확한 수치는 미확인이다."
+   },
+   {
+    "title": "헬다이버즈 2 (Helldivers 2)",
+    "year": "2024 (2월 출시)",
+    "developer": "Arrowhead Game Studios (스웨덴) / Sony Interactive Entertainment",
+    "sales": "출시 12주 만에 1,200만 장 이상 (Sony 2024-05 실적 발표, PS5+PC, PlayStation Studios 최단 판매 기록). 2026-01 말 Alinea 추정 2,000만 장 이상(공식 수치 아님): Steam 1,310만 장, PS5 560만, Xbox 160만, 총매출 7억 달러 이상(마이크로트랜잭션 제외)",
+    "genre": "협동 슈팅 라이브 서비스",
+    "art_dependence": "medium",
+    "why_it_sold": "풍자적인 세계관, 친구와 함께하는 협동 플레이, 라이브 서비스 이벤트로 인한 입소문. 개발사 예상을 넘었고 Sony도 PC에서의 최대 히트라고 언급했다. 시스템과 플레이 재미 중심이라 에셋 규모 대비 성과가 컸다는 해석은 연구자 판단이다.",
+    "team_size": "미확인",
+    "dev_time": "미확인",
+    "price": "미확인",
+    "source": "https://www.windowscentral.com/gaming/pc-gaming/helldivers-2-is-now-the-fastest-selling-playstation-studios-game-ever-with-over-12-million-copies-sold-across-playstation-5-and-windows-pc ; https://alineaanalytics.substack.com/p/helldivers-2-sells-20m-copies ; https://wccftech.com/helldivers-2-has-reportedly-sold-over-20m-copies-most-of-them-on-steam/amp/",
+    "verdict": "corrected",
+    "correction_note": "수정점: 제출본의 'PC 플레이어 1,300만 이상'은 Alinea 원문 기준 Steam 판매 1,310만 장(copies)이다. 일부 매체(FRVR)가 players로 표기해 혼선이 생긴 것이다. 12주 1,200만은 확인됨(5월 5일 기준 Sony 실적 발표). 2,000만은 서드파티 추정."
+   },
+   {
+    "title": "무창: 폴른 페더스 (Wuchang: Fallen Feathers)",
+    "year": "2025 (7월 24일 출시)",
+    "developer": "Leenzee (중국) / 퍼블리셔 505 Games (Digital Bros)",
+    "sales": "100만 장 이상, 매출 3,000만 유로 이상 (Digital Bros 공식, 2026-03-31 기준, 세금·수수료 제외 순매출). 출시 1주년(2026-07-24)에 플레이어 500만 명 이상(505 Games 발표, 판매량 아님, 2026년 5월 PlayStation Plus에 추가됨)",
+    "genre": "중국 배경 소울라이크 액션 RPG",
+    "art_dependence": "high",
+    "why_it_sold": "소울라이크 + 동양 판타지 조합으로 100만 장대를 기록한 AA급 사례. Leenzee 핵심 팀이 사실상 해산했다고 보도되며(원인은 매체별로 감독 해임 또는 2월 퇴사로 엇갈림), Digital Bros가 2026-04-27 약 400만 유로(중국 위안 3,200만)에 IP를 인수했고, 속편은 원 창작 디렉터 Xia Siyuan이 세운 Indolphinity가 총 투자 2,150만 유로로 맡는다(2026-07-29 발표, 제목·출시창 미정).",
+    "team_size": "미확인",
+    "dev_time": "미확인",
+    "price": "미확인",
+    "source": "https://www.digitalcitizen.life/digital-bros-buys-wuchang-fallen-feathers-ip-keeping-sequel-hopes-alive/ ; https://respawn.outlookindia.com/gaming/gaming-news/digital-bros-acquires-wuchang-fallen-feathers-ip-from-leenzee ; https://www.gamedeveloper.com/press-release/one-year-of-wuchang-fallen-feathers-celebrating-a-landmark-journey-for-505-games-and-action-rpg-fans-worldwide ; https://gameinformer.com/2026/07/29/wuchang-fallen-feathers-sequel-announced-with-a-new-team-led-by-original-director",
+    "verdict": "corrected",
+    "correction_note": "수정점: (1) 500만 플레이어에 'Game Pass 포함'이라고 한 부분은 확인되지 않았고, 검색에서 확인된 구독 서비스는 2026-05 PS Plus 추가뿐이다. (2) 3,000만 유로는 세금·수수료 제외 순매출임을 명시해야 한다. (3) 36Kr의 약 200만 추정은 이번 검색에서 확인하지 못했다. 100만 장/3,000만 유로, IP 인수액, 속편 팀과 투자액은 확인됨."
+   },
+   {
+    "title": "킹덤 컴: 딜리버런스 II (Kingdom Come: Deliverance II)",
+    "year": "2025 (2월 출시)",
+    "developer": "Warhorse Studios (체코) / Embracer Group",
+    "sales": "500만 장 이상 (Embracer Q3 중간보고서·Warhorse 발표, 2026년 2월경, 출시 첫 해 이내). 출시 24시간 100만, 2주 200만, 약 3개월(2025-05) 300만, 약 9개월(2025-11) 400만. 전작 킹덤 컴: 딜리버런스는 2025-05 기준 1,000만 장 이상(직전 2024-11 공식 800만)",
+    "genre": "중세 사실주의 오픈월드 RPG",
+    "art_dependence": "high",
+    "why_it_sold": "전작 팬덤, 역사 고증 기반의 몰입형 오픈월드, 꾸준한 DLC·세일로 장기 판매. 세 번째 확장팩(Mysteria Ecclesiae) 출시 후 판매가 다시 올랐다는 해석은 단일 매체 보도다. 오픈월드 RPG를 노린다면 장기 콘텐츠 업데이트가 판매 곡선에 중요하다는 참고.",
+    "team_size": "미확인",
+    "dev_time": "미확인",
+    "price": "미확인",
+    "source": "https://www.rpgsite.net/news/19598-kingdom-come-deliverance-ii-5-million-copies-2026-sales-numbers-embracer-group ; https://www.rpgsite.net/news/17366-kingdom-come-deliverance-ii-sales-numbers-3-million-copies-may-2025-original-game-10-million ; https://www.shacknews.com/article/147855/kcd2-5-million-copies-sold",
+    "verdict": "confirmed",
+    "correction_note": "500만, 마일스톤 곡선, 전작 1,000만+가 모두 확인됨. 확장팩 효과는 단일 매체 보도라 확정으로 쓰지 말 것."
+   },
+   {
+    "title": "인왕 3 (Nioh 3)",
+    "year": "2026 (2월 6일 PS5·PC 출시)",
+    "developer": "Team Ninja / Koei Tecmo (일본)",
+    "sales": "100만 장 이상 (Koei Tecmo Steam 블로그 2026-02-20 발표, 시리즈 최단 기록). 시리즈 누계 1,000만 장 이상. 이후 공식 누적 수치는 확인하지 못함",
+    "genre": "사무라이 액션 RPG (소울라이크 계열)",
+    "art_dependence": "high",
+    "why_it_sold": "확립된 시리즈 팬층과 소울라이크 수요. 전작 인왕 2는 2020-03-13 출시 후 2개월 만에 출하 100만(5월)에 도달했고 200만까지 1년 넘게 걸렸다. 인왕 3의 2주 100만은 그보다 더 빠르다. 장르 시장이 건재함을 보여주지만 IP·AAA 스튜디오 기반의 성과다. PC 최적화 우려 보도가 있었다.",
+    "team_size": "미확인",
+    "dev_time": "미확인",
+    "price": "미확인",
+    "source": "https://www.gosugamers.net/entertainment/news/78025-nioh-3-hits-1-million-sales-in-two-weeks-franchise-tops-10-million-global-sales ; https://www.pushsquare.com/news/2026/02/nioh-3-is-the-fastest-selling-game-in-the-series-1-million-copies-sold-in-two-weeks ; https://www.koeitecmo.co.jp/e/ir/docs/ir2_20200727_rev1_e.pdf ; https://twinfinite.net/news/koei-tecmo-q3-fy-2020/",
+    "verdict": "corrected",
+    "correction_note": "수정점: 제출본의 '인왕 2는 100만 도달에 1년 이상 걸렸다'는 틀렸다. Koei Tecmo 2020-07-27 분기 보고서에 인왕 2는 2020년 5월에 100만(출하)을 넘겼고, 2020-12 기준 140만, 200만에 1년 넘게 걸렸다. 출시일은 Push Square 기준 2월 6일이며 일부 매체는 2월 14일로 상충한다. 100만+(2주)와 시리즈 1,000만+는 확인됨."
+   },
+   {
+    "title": "스텔라 블레이드 (Stellar Blade)",
+    "year": "2024 (4월 PS5) / 2025-06 PC",
+    "developer": "Shift Up (한국) / Sony",
+    "sales": "전 플랫폼 300만 장 이상 (Shift Up 발표, 2025년 6월, PS5+PC). PC판은 출시 3일 만에 100만 장 이상(루리웹 보도 인용, Steam·Epic). 2026년 최신 누적 수치는 이번 검색에서 확인하지 못함",
+    "genre": "SF 액션 어드벤처 (소울라이크 성향의 전투)",
+    "art_dependence": "high",
+    "why_it_sold": "한국 개발사 사례. 캐릭터 비주얼과 액션 전투, PS5 독점 이후 PC 포팅으로 두 번째 판매 파도를 만들었다. Niko Partners의 Daniel Ahmad는 PC 판매 상당수가 중국 플레이어 주도였다고 평가했다. 포팅으로 판매를 확장하는 전략이 유효하다는 해석은 연구자 판단이다.",
+    "team_size": "미확인",
+    "dev_time": "미확인",
+    "price": "미확인",
+    "source": "https://www.gematsu.com/2025/06/stellar-blade-sales-top-three-million ; https://wnhub.io/news/investment/item-48030 ; https://www.rpgsite.net/news/17740-stellar-blade-has-sold-over-3-million-copies-worldwide-on-ps5-and-pc",
+    "verdict": "confirmed",
+    "correction_note": "300만+, PC 3일 100만+, Niko Partners의 중국 주도 발언은 확인됨. PC 출시일은 매체별로 6월 11일/12일로 다름. 제출본의 '중국어 더빙·지역가격'이 원인이라는 설명은 확인하지 못했다. 이 수치는 2025-06 시점이라 현재(2026-10)는 낡았다."
+   },
+   {
+    "title": "하데스 II (Hades II)",
+    "year": "2024 (5월 얼리 액세스) / 2025-09-25 1.0",
+    "developer": "Supergiant Games (미국)",
+    "sales": "공식 판매 발표 없음(확인된 범위). 추정: Alinea는 얼리 액세스 약 16개월간 Steam 200만 장 이상, 매출 5,000만~5,500만 달러(Epic 제외). Raijin 추정은 2026-06-14 스냅샷에서 Steam 약 510만 장, 총매출 약 1억 40만 달러, 2026-07-18 스냅샷에서는 약 520만 장, 총매출 약 9,390만 달러. Steam Page Analyzer 추정은 약 478만 장, 총매출 약 1억 4,320만 달러. 서드파티 추정치가 방법에 따라 약 9,000만~1억 4,300만 달러로 벌어진다. 1.0 출시 후 Steam 동시접속 최고 112,947명(얼리 액세스 최고 103,567명)",
+    "genre": "신화 기반 액션 로그라이트 (그리스 신화)",
+    "art_dependence": "high",
+    "why_it_sold": "그리스 신화 소재로 WHEELFIRE와 직접 비교되는 작품. 전작 팬덤과 손그림 아트 + 음악·내러티브가 핵심 자산. Wccftech 보도로 2025년 신작 중 Metacritic 최고 평점(94). 얼리 액세스 전략으로 장기간 판매·피드백을 확보했다. 그리스 신화 장르에는 강력한 선점 경쟁자가 있다는 의미도 있다.",
+    "team_size": "미확인 (제출본의 '스튜디오 약 25명, Wikipedia'는 이번 검색에서 확인하지 못함)",
+    "dev_time": "얼리 액세스 약 16개월 (2024-05 ~ 2025-09)",
+    "price": "$29.99 (Alinea 기반 매출 추정 보도에서 확인)",
+    "source": "https://wnhub.io/news/analytics/item-48907 ; https://raijin.gg/app/1145350/Hades_II/sales-revenue ; https://www.steampageanalyzer.com/tools/revenue-calculator/1145350 ; https://wccftech.com/hades-2-more-than-two-times-concurrent-players-on-steam-than-hades/amp/",
+    "verdict": "corrected",
+    "correction_note": "수정점: Raijin 1억 40만 달러는 6월 14일 스냅샷 하나이며 7월 18일 스냅샷은 9,390만 달러로 낮아졌고, 다른 추정기는 1억 4,320만 달러까지 달라 '약 1억 달러'로 단정하면 안 된다. 모두 공식 수치가 아니다. 112,947명 최고 동접은 1.0 출시 직후로 보도되나 한 매체는 얼리 액세스 출시 주말이라고 써서 시점이 엇갈린다. 팀 규모 25명은 미확인."
+   },
+   {
+    "title": "워해머 40,000: 스페이스 마린 2 (Space Marine 2)",
+    "year": "2024 (9월 9일 출시)",
+    "developer": "Saber Interactive / 퍼블리셔 Focus Entertainment",
+    "sales": "2025년 6월 Focus가 700만 도달을 발표했으나 공식 표현은 'players(플레이어)'로 보도되었고(KitGuru), 일부 매체는 copies sold로 옮겼다. 판매량으로 단정할 수 없음. 2026년 보도의 1,200만 명은 고유 플레이어 수이며 2026-03 PlayStation Plus 무료 제공 이후 늘었다",
+    "genre": "3인칭 액션 슈팅 + 협동",
+    "art_dependence": "high",
+    "why_it_sold": "워해머 40K라는 강력한 라이선스 IP와 협동 PvE, 몬스터 군중 전투. 그리스 신화 같은 퍼블릭 도메인 소재와 달리 유료 IP 라이선스의 힘이 크다. 제출본의 'Saber가 프로젝트 의뢰를 거절해야 할 정도'라는 보도는 이번 검색에서 확인하지 못했다.",
+    "team_size": "미확인",
+    "dev_time": "미확인",
+    "price": "미확인",
+    "source": "https://www.kitguru.net/gaming/mustafa-mahmoud/warhammer-40000-space-marine-2-surpasses-7-million-players/ ; https://gameluster.com/space-marine-2-12-million-players-year-3/ ; https://www.gamereactor.eu/warhammer-40000-space-marine-ii-reaches-7-million-copies-sold-1559273/",
+    "verdict": "corrected",
+    "correction_note": "수정점: '700만 장 판매 확정'은 취소하고 '700만 플레이어(매체에 따라 판매로도 보도됨)'로 표기. 1,200만도 플레이어 수이며 구독 서비스 포함 가능성이 높다. 검색 한도가 소진되어 Focus 원문(Bluesky) 표현은 직접 확인하지 못했다."
+   },
+   {
+    "title": "디스패치 (Dispatch)",
+    "year": "2025 (10월 출시, 에피소드 연재)",
+    "developer": "AdHoc Studio (미국) / 자체 퍼블리싱",
+    "sales": "400만 장 (The Game Business의 AdHoc Studio 공동 창업자 Michael Choung·Nick Herman 인터뷰, 2026년 3월 말 보도). 출시 10일 100만, 2026-01 초 300만. 출시 약 5개월 만에 400만. PS5·PC 기준이며 Xbox판은 2026년 여름 예정이었다는 보도",
+    "genre": "에피소드형 내러티브 어드벤처 (슈퍼히어로 코미디)",
+    "art_dependence": "medium",
+    "why_it_sold": "텔테일 출신 창업진이 만든 작가 주도 서사와 성우 연기, 에피소드 배포 방식. 투자 유치가 쉽지 않았다는 보도가 있다(인터뷰). 액션 RPG가 아니라 장르 차이가 크다. 제출본의 art_dependence 'low'는 3D 카툰 애니메이션 비주얼 비중을 고려하면 과소평가라 판단해 medium으로 조정(팩트체커 판단, 출처 있는 사실 아님).",
+    "team_size": "미확인",
+    "dev_time": "미확인",
+    "price": "미확인",
+    "source": "https://thegamebusiness.com/p/dispatch-developer-we-were-told-comedy ; https://stopgame.ru/newsdata/71005/tirazh_dispatch_dostig_4_millionov_kopiy",
+    "verdict": "corrected",
+    "correction_note": "수정점: 400만은 The Game Business 인터뷰 보도로 확인되어 '원문 미확인' 딱지는 해제. 단 art_dependence는 low에서 medium으로 조정(주관 평가). '텔테일 4인 창업'과 '언리얼 엔진 사용'은 이번 검색에서 확인하지 못해 미확인으로 남김."
+   }
+  ],
+  "rejected": [
+   {
+    "title": "팬텀 블레이드 제로 (Phantom Blade Zero) — 미출시, 사전판매 지표",
+    "reason": "'big-hits' 목록은 실제로 돈을 번 게임이어야 하는데 이 작품은 아직 출시 전이다(오늘 2026-10-10, 출시 예정 2026-10-29). 출시일 연기(9월 9일 -> 10월 29일, PS5·PC)와 Alinea 추정(Steam 사전판매 약 30만 장, 약 1,450만 달러, Black Myth: Wukong의 같은 시점 대비 73% 속도)은 확인됐지만 모두 서드파티 추정이고 일부 매체는 루머로 분류한다. 위시리스트 약 162만(2026년 출시작 1위)은 Alinea가 아니라 GameDiscoverCo 추정(The Game Business 인용)이며, 개발사는 플랫폼 합산 300만 이상이라고 주장한다. 판매 실적이 아니라 수요 지표이므로 목록에서는 제외하고 market_notes에 참고 정보로 둔다. 출처: https://www.notebookcheck.net/Phantom-Blade-Zero-is-already-chasing-Black-Myth-Wukong-s-numbers.1375813.0.html ; https://www.gematsu.com/2026/06/phantom-blade-zero-delayed-to-october-29 ; https://gamingbolt.com/phantom-blade-zero-has-sold-300000-units-on-steam-ahead-of-launch-rumor ; https://khelnow.com/gaming/phantom-blade-zero-reportedly-sells-300k-units-has-1-6-million-wishlists-on-steam-202608"
+   }
+  ],
+  "market_notes": [
+   "[검증의 한계] 이번 검증도 WebSearch 요약 결과에 의존했다. WebFetch는 DNS 오류(ENOTFOUND)로 원문 페이지를 열지 못했고, 검색 한도(턴당 200회, 에이전트 공유)가 소진되어 후반부 항목(스페이스 마린 2의 Focus 원문 표현, 디스패치 팀 규모·엔진, 실크송 팀 규모·개발기간, 팰월드 2024년 초 판매 수치, 스텔라 블레이드 2026년 수치, 하데스 II 팀 규모)은 재검증하지 못해 '미확인'으로 처리했다. 중요한 결정 전에는 원문 확인이 필요하다.",
+   "[판매량 vs 플레이어 수] 공식 수치라도 의미가 다르다. 판매량(copies): 클레르 옵스퀴르 800만(Game Pass 제외), 실크송 700만+(Game Pass 제외), KCD2 500만+, 인왕 3 100만+, 무창 100만+, 헬다이버즈 2의 12주 1,200만. 플레이어 수(판매 아님): 팰월드 4,000만, 스페이스 마린 2의 700만·1,200만(표기 혼재), 무창 500만(PS Plus 포함). 서드파티 추정: 헬다이버즈 2의 2,000만(Alinea), 하데스 II(Raijin·Steam Page Analyzer), 검은 신화 오공 2,700만(Alinea). 개발사가 확인하지 않은 수치: 오공 3,000만(청년단 문서, Game Science는 확인 거부). 나이트레인 350만은 출하 기준이다.",
+   "[소규모 고효율 사례] 클레르 옵스퀴르(내부 약 30명 + 외부 협력자 소수, 예산 1천만 달러 미만, 800만 장), 팰월드(55명, 10억 엔 미만, 수십 billion 엔 이익). 하데스 II와 실크송은 소규모 팀이라는 점은 널리 알려져 있으나 이번 검증에서 인원 수치는 확인하지 못했다. 클레르 옵스퀴르는 비용 절감을 위해 진정한 오픈월드를 피하고 전투를 아레나에서 치르며 맵을 작게 만들었다(Insider Gaming). WHEELFIRE의 오픈월드 구상과 반대되는 설계라는 점이 시사적이다. 모두 아트 디렉션이 뚜렷한 팀이 만든 결과라 '아티스트 없이'의 근거는 되지 않는다(연구자 해석).",
+   "[소울라이크/신화 액션 시장] 수요는 확인된다: 오공(공식 3일 1,000만), 인왕 3(2주 100만, 인왕 2는 약 2개월에 출하 100만), 나이트레인(2개월 500만+), 무창(100만+, 순매출 3,000만 유로+). 오공의 개발비는 3억~4억 위안(약 4,200만~5,600만 달러) 추정 또는 총 약 7,000만 달러(팬 위키)로 모두 비공식이며 인원 약 140명도 팬 위키 기재다. 무창은 100만 장을 팔고도 원 개발팀이 해산했다는 보도가 있어 AA 소울라이크의 수익 구조가 불안정할 수 있다. 다만 제출본의 'AA 소울라이크 상단은 100만 장대'라는 문장은 검증하지 못해 삭제한다.",
+   "[팬텀 블레이드 제로 — 참고용] 미출시(출시 예정 2026-10-29, 9월 9일에서 연기). Alinea 추정 Steam 사전판매 약 30만 장, 약 1,450만 달러, Wukong 대비 73% 속도. 위시리스트 약 162만은 GameDiscoverCo 추정으로 2026년 출시작 1위(2위 The Blood of Dawnwalker 약 147만). 동양 신화·무협 액션에 대한 글로벌 수요 신호로 읽을 수 있으나 실제 판매는 출시 후 확인해야 한다.",
+   "[그리스 신화 경쟁] 하데스 II는 Steam 추정 약 480만~520만 장, 총매출 약 9,000만~1억 4,300만 달러(추정기별 편차), 2025년 신작 중 Metacritic 최고 평점(94)으로 그리스 신화 게임의 대형 선점작이다. 장르(로그라이트 vs 오픈월드 소울라이크)는 다르지만 같은 신화 소재라 비교당할 가능성이 크다(연구자 해석).",
+   "[Steam 2025 인디 시장] Alinea 추정(Game World Observer·Notebookcheck 보도)으로 2025년 인디 게임이 Steam 매출의 약 25%를 차지했다. 신작 인디 매출 상위: Schedule I 1.51억, R.E.P.O. 1.47억, PEAK 8,700만, 실크송 7,500만, Escape from Duckov 5,300만 달러. 출처: https://www.notebookcheck.net/Indie-games-accounted-for-25-of-Steam-s-revenue-in-2025.1189429.0.html",
+   "[한국 사례] 스텔라 블레이드(Shift Up)는 PC 포팅으로 두 번째 판매 파도를 만들었다(전 플랫폼 300만+, PC 3일 100만+, Niko Partners는 PC 판매가 중국 주도라고 평가). 제출본의 Shift Up 2025년 매출 2,942억 원·로열티 1,158억 원과 스위치 2 포팅 일정은 이번 검증에서 확인하지 못해 삭제한다.",
+   "[삭제한 미검증 항목] 라이즈 오브 P(400만+)와 로드 오브 더 폴른(250만, 손익분기) 수치, Steam 2025 플래티넘 티어 목록과 Steam 연간 총매출 177억 달러·배틀필드 6 플레이어 2,380만, 팰월드의 언리얼 엔진 5.1과 디스패치의 언리얼 엔진 사용은 이번 검증에서 확인하지 못해 제외했다. Godot 기반 히트작과 AI 생성 에셋 기반 대형 히트작 사례도 이번 검증에서 발견하지 못했다. art_dependence 등급은 사실이 아니라 주관 평가다.",
+   "[WHEELFIRE 시사점(연구자 해석, 검증된 사실에서 도출)] (1) 오픈월드 소울라이크 AAA 규모의 성공작인 오공은 비공식 추정으로도 개발비 수천만 달러이며 아트 인력 없는 팀이 직접 겨루기는 비현실적이다. (2) 소규모 팀의 대성공은 범위가 좁고 한 줄 콘셉트가 강하거나(팰월드) 소수 아트 디렉터가 일관된 스타일을 책임진 경우(클레르 옵스퀴르, 하데스 II, 실크송)였다. (3) 소울라이크 수요는 크지만 경쟁작도 많다(오공, 나이트레인, 인왕 3, 무창, 스텔라 블레이드, 출시 예정인 팬텀 블레이드 제로). 범위를 좁히고 한 줄 훅을 세우는 설계를 다른 조사팀 결과와 함께 검토할 것을 권한다."
+  ]
+ },
+ "indie-hits": {
+  "verified": [
+   {
+    "title": "Balatro",
+    "year": "2024 (2024-02-20 출시)",
+    "developer": "LocalThunk (1인, 미국) / 퍼블리셔 Playstack",
+    "team_size": "1명 (Playstack CEO가 '솔로 개발자의 작품'이라고 언급한 것으로 검색 결과에 나옴)",
+    "dev_time": "미확인 (제출본의 '퇴사 후 약 18개월'은 이번에 재확인 못함)",
+    "price": "미확인 (PC 정가도, 모바일 $9.99도 이번에 확인 못함)",
+    "sales": "2025-01-21 기준 500만 장 이상 (전 플랫폼. Playstack CEO Harvey Elliott가 Pocket Gamer Connects London에서 언급했고 개발사·퍼블리셔가 X에서 확인). 2024-12 The Game Awards 직전 공식 수치는 350만 장. 공식 발표 수치이며 추정치가 아님.",
+    "genre": "포커 기반 덱빌딩 로그라이크",
+    "art_dependence": "low",
+    "why_it_sold": "포커라는 익숙한 규칙에 로그라이크 반복 루프를 얹은 설계. 2D 카드 UI 중심이라 아트 의존이 낮고 1인 개발이 가능했다. (판매 이유는 리서처 해석이며 검증 대상이 아님)",
+    "source": "https://www.pocketgamer.biz/balatro-exceeds-5-million-in-sales-on-all-platforms ; https://www.gamesmarket.global/publishing/poker-roguelike-balatro-sells-more-than-five-million-copies-311dcc58f214ad4dd53243ae1161ba71 ; https://wnhub.io/news/investment/item-46849 ; https://en.wikipedia.org/wiki/Balatro (WebSearch 요약만 확인, 원문은 열지 못함)",
+    "verdict": "corrected",
+    "correction_note": "핵심 수치(2024-02-20 출시, 2025-01 500만 장 이상, 2024-12 350만 장, 1인 개발)는 확인했다. 제출본의 '출시 72시간 25만 장', '8시간 만에 매출 $1M', '1시간 만에 손익분기', 'Apple Arcade 제외', '퇴사 후 18개월', '모바일 $9.99'는 이번 검증에서 확인하지 못해 삭제했다. 틀렸다는 뜻이 아니라 미검증이다. 원문 열람이 막혔고 검색 한도도 소진됐다."
+   },
+   {
+    "title": "Lethal Company",
+    "year": "2023 (얼리액세스, 2023-10 하순 추정. 정확한 일자는 이번에 확인 못함)",
+    "developer": "Zeekerss (개발·퍼블리싱 겸임)",
+    "team_size": "1명 (미검증. 검색 결과에 개발자로 Zeekerss만 등장)",
+    "dev_time": "미확인",
+    "price": "미확인 ($9.99는 직접 확인 못함. GameDiscoverCo 초기 추정에서 장당 평균 약 $8.9가 나와 정합적이긴 함)",
+    "sales": "공식 수치 없음 (개발자가 판매량을 공개하지 않음). 제3자 추정: GameDiscoverCo(Simon Carless) 2023-11 출시 3주간 약 64만 2천 장 / 매출 약 $570만. Push to Talk(Boxleiter법) 2024-01 약 1,000만 장 / 총매출 약 $1억 1,390만. Wikipedia와 Fast Company 2024-03 약 940만 장 추정. 모두 Steam 리뷰 기반 추정이며 시점과 방법이 다르다.",
+    "genre": "협동 공포 / 스캐빈저 (최대 4인)",
+    "art_dependence": "low",
+    "why_it_sold": "의도적인 저화질 레트로 미학과 친구끼리 즐기는 협동 공포 코미디가 스트리머와 클립으로 퍼졌다. 저가 협동 게임이라 파티 단위로 구매됐다. (해석은 리서처 판단이며 검증 대상이 아님)",
+    "source": "https://gamedeveloper.com/business/lethal-company-sold-an-estimated-10-million-copies ; https://fastcompany.com/91039890/zeekerss-most-innovative-companies-2024 ; https://en.wikipedia.org/wiki/Lethal_Company ; https://gameindustrylibrary.com/documents/pushtotalk-how-lethal-company-sold-10-million-copies (WebSearch 요약만 확인)",
+    "verdict": "corrected",
+    "correction_note": "'공식 수치 없음', Push to Talk 약 1,000만, Wikipedia 2024-03 약 940만은 확인했다. 제출본의 VG Insights 1,020만~1,830만, Gamalytic 1,250만, VideoGamer 550만~830만은 확인하지 못해 삭제했다. 대신 GameDiscoverCo의 초기 3주 추정(약 64만 장, $570만)을 추가했다. 가격 $9.99, 얼리액세스 일자 2023-10-23, 1인 개발은 이번 검색으로 직접 확인하지 못했다."
+   },
+   {
+    "title": "Palworld (참고용: 팀 규모 미확인, 소규모 사례로 쓰려면 재검증 필요)",
+    "year": "2024 (얼리액세스, 2024-01 하순 출시). 1.0 정식 출시는 2026-07-10 (확인)",
+    "developer": "Pocketpair (일본)",
+    "team_size": "미확인 (제출본의 '약 55명'은 이번에 확인 못함)",
+    "dev_time": "미확인 (개발비 ¥10억 미만도 확인 못함)",
+    "price": "미확인",
+    "sales": "Pocketpair 공식: 얼리액세스 첫 며칠(2024-01)에 500만 장 이상. Alinea Analytics 추정(Pocketpair 미확인): 2026-07 1.0 출시 후 누적 약 3,050만 장, 총매출 약 $7억. 같은 추정에서 1.0 출시 직후 추가 약 180만 장(Steam 약 150만, PS5 약 30만, Xbox 약 7만). 누적 판매 중 Steam 비중은 출처마다 약 65%와 약 86%로 갈린다. 한 매체는 $7억 수치를 '루머'로 표기했다.",
+    "genre": "오픈월드 생존 / 크리처 수집 / 크래프팅",
+    "art_dependence": "medium",
+    "why_it_sold": "'총 든 포켓몬'이라는 한 줄 콘셉트가 바이럴을 만들었다. 3D 크리처와 모델이 핵심이라 아트 요구량은 크다. (해석은 리서처 판단이며 검증 대상이 아님)",
+    "source": "https://www.kitguru.net/gaming/matthew-wilson/palworld-has-reportedly-sold-over-30m-copies/ ; https://gamingbolt.com/palworld-has-accrued-700-million-in-revenue-in-its-lifetime-rumor ; https://www.g2a.com/news/latest/palworld-1-0-reportedly-sells-more-than-1-8-million-copies-after-full-release/ ; https://www.gfinityesports.com/article/palworld-sells-5-million-copies-despite-game-pass-launch ; https://www.infobae.com/malditos-nerds/2024/01/22/palworld-lidero-el-fin-de-semana-con-5-millones-de-ventas/",
+    "verdict": "corrected",
+    "correction_note": "3,050만 장과 $7억은 Alinea 추정이고 Pocketpair가 확인하지 않았다는 점, 1.0 출시일 2026-07-10, 얼리액세스 첫 며칠 500만 장은 확인했다. 제출본의 '2024-02 Steam 1,500만 장 / 플레이어 2,500만', '2025-02 플레이어 3,200만', '팀 약 55명', '개발비 ¥10억 미만(약 $6.7M)'은 확인하지 못해 삭제하거나 미확인으로 바꿨다. 이 항목을 '소규모 팀의 3D 오픈월드 성공 사례'로 쓰려면 팀 규모부터 다시 검증해야 한다."
+   },
+   {
+    "title": "Schedule I",
+    "year": "2025 (얼리액세스. 제출본의 출시일 2025-03-24는 이번에 직접 확인 못함)",
+    "developer": "TVGS (Tyler, 1인 개발자로 보도)",
+    "team_size": "1명 (TweakTown이 '솔로 개발자로서 Steam 사상 최고 동시접속'이라고 보도. 크레딧의 음악·그래피티 아트 각 1명 추가는 미검증)",
+    "dev_time": "미확인 (제출본의 '약 3년'은 이번에 확인 못함)",
+    "price": "미확인 (제출본의 $19.99는 이번에 확인 못함)",
+    "sales": "공식 수치 없음. 제3자 추정: Gamalytic 약 520만 장 / 총매출 약 $8,920만 (Sportskeeda 인용). Raijin 스냅샷 2개(시점 불명): 약 630만 장 / $8,170만, 약 650만 장 / $7,820만. 초기 Creative Bloq 기사는 약 200만 장으로 추정했다. 확인된 사실: 최고 동시접속 459,075명으로 솔로 개발자 게임 중 Steam 사상 최고(TweakTown). 매출 추정은 동시접속 기록과 달리 모두 비공식이며 시점이 불명확하다.",
+    "genre": "마약 제조/유통 경영 시뮬레이션 (협동 가능)",
+    "art_dependence": "low",
+    "why_it_sold": "'브레이킹 배드 시뮬레이터'로 요약되는 콘셉트와 제조-판매-확장 루프, 협동 요소, 스트리머 확산. 아트는 단순한 3D라 1인이 가능한 수준. (해석은 리서처 판단이며 검증 대상이 아님)",
+    "source": "https://www.sportskeeda.com/esports/news-schedule-1-reportedly-sold-5-million-copies-on-steam ; https://raijin.gg/app/3164500/Schedule_I ; https://www.tweaktown.com/news/104474/schedule-i-hits-459k-peak-players-the-most-by-a-solo-developer-in-steam-history/index.html",
+    "verdict": "corrected",
+    "correction_note": "Gamalytic 기준을 '400만 장 이상'에서 Sportskeeda가 인용한 약 520만 장 / $8,920만으로 고쳤다. Raijin 630만~650만 장, $78M~$82M은 확인했다. 가격 $19.99, 약 3년 개발, 출시일 2025-03-24, 크레딧 구성, GamesGeeker 제외 판단은 이번에 재확인하지 못했다."
+   },
+   {
+    "title": "R.E.P.O.",
+    "year": "2025 (얼리액세스, 2025-02 하순 출시로 보임. 검색 결과의 '출시 약 3주 시점 추정 기사'(2025-03)와 정합적)",
+    "developer": "Semiwork (스웨덴)",
+    "team_size": "미확인 (검색 결과 어디에도 인원 수치 없음. 제출본의 '6~10명'은 가이드 글 1건 근거라 신뢰 낮음)",
+    "dev_time": "미확인",
+    "price": "미확인 ($9.99는 직접 확인 못함. 아래 추정 매출/판매량 비율이 장당 약 $7~$8이라 정합적)",
+    "sales": "공식 수치 없음 (Semiwork 비공개). 출시 약 3주 시점: Gamalytic 약 310만 장 / 매출 약 $2,500만, VG Insights 약 150만 장 / 약 $1,070만 (서로 2배 차이). 이후 누적: games.gg 약 1,440만 장 / 총매출 약 $1억 1,360만 (시점 불명, 제3자 추정). Outlook의 PEAK 기사는 R.E.P.O.가 1,680만 장 팔렸다고 서술 (원출처·시점 불명). 모두 비공식 추정.",
+    "genre": "협동 공포 / 물리 기반 약탈 (최대 6인)",
+    "art_dependence": "low",
+    "why_it_sold": "물리 기반의 웃긴 사고가 스트리머 콘텐츠로 이어지는 저가 협동 게임. 아트는 단순한 로우폴리 계열. (해석은 리서처 판단이며 검증 대상이 아님)",
+    "source": "https://wnhub.io/news/indie/item-47358 ; https://games.gg/ko/news/2025년-5월-steam-판매량-최고-게임/ ; https://respawn.outlookindia.com/gaming/gaming-news/from-game-jam-to-10-million-units-indie-hit-peak-success",
+    "verdict": "corrected",
+    "correction_note": "제출본의 '리뷰 수 기반 계산기 약 1,350만 장 / 총매출 $1.35억'은 확인하지 못했다. 대신 games.gg의 약 1,440만 장 / $1억 1,360만과 Outlook의 약 1,680만 장을 검색에서 확인해 교체했다. Gamalytic 3주 시점 매출은 wnhub 제목 기준 약 $2,500만이다(제출본의 $2,550만은 재확인 못함). 인원수와 가격은 미확인이므로 '소형 스튜디오 6~10명'은 사용하지 않는 편이 안전하다."
+   },
+   {
+    "title": "PEAK",
+    "year": "2025 (2025-06 출시. 일자 16일은 이번에 확인 못함)",
+    "developer": "Aggro Crab (미국) + Landfall (스웨덴), 공동 개발/퍼블리싱",
+    "team_size": "미확인 (제출본의 Landfall 크레딧 7명, CGMagazine 약 12명은 이번에 확인 못함)",
+    "dev_time": "게임잼에서 출발한 것으로 확인 (Outlook 기사 제목 'from game jam to 10 million units'). '한 달 게임잼, 서울 에어비앤비 7명'은 이번에 확인 못함",
+    "price": "$7.99 (정가), $4.95 (할인가). 할인은 Mesa 업데이트와 함께 1,000만 장 돌파 직전 주에 진행되어 판매를 끌어올렸다고 보도됨",
+    "sales": "출시 1주 내 100만 장 이상 (KitGuru 기사 제목). 한 달 미만에 약 450만 장 (출처 1건, 제출본의 '26일 500만'과 다름). 2025-08 중순 1,000만 장 이상: Alinea Analytics 데이터를 Rhys Elliott가 뉴스레터에서 보도했고, Geoff Keighley가 Gamescom Opening Night Live 무대에서 확인. 참고: Gamereactor는 출시 1년 후 플레이어 2,000만 명으로 서술 (판매량이 아닌 플레이어 수).",
+    "genre": "협동 등반 서바이벌",
+    "art_dependence": "low",
+    "why_it_sold": "저가($8 전후), 친구끼리 함께 떨어지고 구하는 코미디, 스트리머 클립 확산. (해석은 리서처 판단이며 검증 대상이 아님)",
+    "source": "https://respawn.outlookindia.com/gaming/gaming-news/from-game-jam-to-10-million-units-indie-hit-peak-success ; https://www.aol.com/peak-sells-10-million-copies-155741375.html ; https://en.wikipedia.org/wiki/Peak_(video_game) ; https://www.kitguru.net/gaming/joao-silva/peak-has-sold-1-million-copies-in-one-week/ (WebSearch 요약만 확인)",
+    "verdict": "corrected",
+    "correction_note": "1,000만 장(2025-08, Alinea 추정을 Keighley가 확인), $7.99와 $4.95 할인, 게임잼 출신은 확인했다. 제출본의 '6일 100만 / 9일 200만 / 26일 500만'은 확인하지 못했고, 검색에서는 '1주 내 100만'과 '한 달 미만 약 450만(출처 1건)'만 나왔다. 개발 인원(7명 vs 12명)과 개발 기간(1개월 vs 4개월)은 제출본 자체가 불일치하며 이번에도 해소하지 못했다."
+   }
+  ],
+  "rejected": [
+   {
+    "title": "Megabonk",
+    "reason": "[검증 못함, 틀렸다는 뜻은 아님] 검색 한도(턴당 200회, 에이전트 공유)가 소진되어 이 작품은 한 번도 검색하지 못했다. 2주 100만 장(개발자 X 발표), 가격 $5.49 vs $9.99 불일치, 추정치 270만~420만 장이 모두 미검증이다. 재실행 때 재검증하면 된다."
+   },
+   {
+    "title": "Meccha Chameleon",
+    "reason": "[검증 못함, 틀렸다는 뜻은 아님] 검색 한도 소진으로 미검색. '2명 / 약 2개월 / 25일 1,500만 장 / 2026-06 출시'는 영향이 큰 주장이라 우선순위 높게 재검증해야 한다. 출시일(06-09 vs 06-10), 가격($4.79~$5.99), 동시접속(24.5만~34만) 불일치도 남아 있다. 8월 2,000만 장은 제출본에서도 미확인이었다."
+   },
+   {
+    "title": "Blue Prince",
+    "reason": "[검증 못함, 틀렸다는 뜻은 아님] 검색 한도 소진으로 미검색. 판매량 공식 수치가 없다는 제출본 서술과 플레이어 200만 명 이상(Game Pass 포함), 팀 규모는 모두 미검증이다. 제출본이 스스로 '돈을 벌었다는 근거가 약하다'고 인정한 항목이다."
+   },
+   {
+    "title": "Hades II (대비용: 아트 의존 높음)",
+    "reason": "[검증 못함, 틀렸다는 뜻은 아님] 검색 한도 소진으로 미검색. Alinea 추정(얼리액세스 16개월 약 200만 장, 매출 약 $5,450만~$5,500만), 스튜디오 약 25명, 2026년 350만 장 / $8,000만 주장이 모두 미검증이다. WHEELFIRE의 직접 경쟁작이므로 재검증 가치가 크다."
+   },
+   {
+    "title": "Dispatch",
+    "reason": "[검증 못함, 틀렸다는 뜻은 아님] 검색 한도 소진으로 미검색. 10일 100만, 2026-01 300만, 2026-07 400만 장 주장과 내부 약 30명(이탈리아어 매체 1건 근거)이 미검증이다."
+   },
+   {
+    "title": "Mewgenics",
+    "reason": "[검증 못함, 틀렸다는 뜻은 아님] 검색 한도 소진으로 미검색. 7일 100만 장, 매출 $2,300만~$2,500만 추정, '개발비 3시간 회수' 발언(단일 보도)이 미검증이다."
+   },
+   {
+    "title": "Ball x Pit",
+    "reason": "[검증 못함, 틀렸다는 뜻은 아님] 검색 한도 소진으로 미검색. 약 6주 100만 장, 10개월 이내 200만 장, Devolver의 첫 해 30만 장 예상, Gamalytic 매출 약 $1,200만 추정이 미검증이다."
+   },
+   {
+    "title": "Another Crab's Treasure (WHEELFIRE와 가장 가까운 장르: 3D 소울라이크)",
+    "reason": "[검증 못함, 틀렸다는 뜻은 아님] 검색 한도 소진으로 미검색. 2024-08-06 기준 50만 장, 플랫폼 비중 Steam 약 60%, Game Pass 포함 약 100만 플레이어가 미검증이다. WHEELFIRE와 장르가 가장 가까운 사례라 다음 재검증 때 1순위로 다뤄야 한다."
+   },
+   {
+    "title": "Clair Obscur: Expedition 33 (대비용: 3D 아트 의존 높음)",
+    "reason": "[검증 못함, 틀렸다는 뜻은 아님] 검색 한도 소진으로 미검색. 2025-10 기준 500만 장 이상, 제작비 $1,000만 미만 주장, 오픈월드 포기 서술이 미검증이다."
+   }
+  ],
+  "market_notes": [
+   "[검증 범위의 한계] 이번 검증에서 WebFetch는 전부 DNS 오류(ENOTFOUND)로 실패했고, Bash curl도 프록시 정책으로 403 거부되어 원문 페이지를 한 건도 열지 못했다. WebSearch는 6회만 성공했고 이후 '턴당 200회, 에이전트 공유' 한도가 소진되어 더 검색하지 못했다. 그 결과 15개 중 6개(Balatro, Lethal Company, Palworld, Schedule I, R.E.P.O., PEAK)만 검색 요약 수준에서 부분 검증했고, 나머지 9개는 미검증이라 rejected에 넣었다. 이는 '틀렸다'는 뜻이 아니다. 재검증하려면 후속 실행에서 검색 한도를 늘려야 한다(CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION).",
+   "[검증됨: 공식 수치와 추정치의 구분] 공식 발표로 확인된 것은 Balatro 500만 장 이상(2025-01-21, 개발사·퍼블리셔 발표), Balatro 350만 장(2024-12), Palworld 얼리액세스 첫 며칠 500만 장 이상(2024-01)이다. 반면 Lethal Company(약 940만~1,000만 장), Schedule I(약 200만~650만 장), R.E.P.O.(3주 시점 150만~310만 장, 이후 1,440만~1,680만 장), PEAK 1,000만 장(Alinea 추정을 Keighley가 확인), Palworld 3,050만 장 / $7억(Alinea)은 모두 제3자 추정이다. 같은 시점에도 R.E.P.O.는 Gamalytic과 VG Insights가 2배 갈렸다. 판매량은 단일 숫자가 아니라 범위로 써야 한다.",
+   "[검증됨: 소규모·저가 사례] 이번에 확인된 범위에서 개발자 1인으로 보도된 대형 히트는 Balatro(Playstack CEO가 솔로 개발자 작품이라 언급)와 Schedule I(솔로 개발자로서 Steam 사상 최고 동시접속 459,075명)이다. PEAK는 $7.99(할인 시 $4.95)에 게임잼에서 출발해 약 2개월 만에 1,000만 장 추정에 이르렀다. 다만 인원수, 개발 기간, 가격 등 세부 수치가 미검증인 항목이 많아 '대형 히트는 전부 저가·소수 인원'이라는 일반화까지는 이번 검증으로 뒷받침되지 않는다.",
+   "[검증됨: Palworld 주의] Palworld의 누적 약 3,050만 장 / $7억(1.0 정식 출시 2026-07-10 이후)은 Alinea Analytics 추정이고 Pocketpair가 확인하지 않았다. 한 매체는 이를 '루머'로 표기했다. 팀 규모(제출본의 약 55명)는 이번에 확인하지 못했으므로, 현재로서는 '소규모 팀의 3D 오픈월드 성공 사례'로 인용할 근거가 부족하다.",
+   "[WHEELFIRE 시사점은 미확정] 이번에 검증된 6개 작품 중 소울라이크는 없고, 3D 오픈월드는 Palworld뿐이며 그마저 팀 규모가 미확인이다. 제출본의 '소규모 팀의 3D 오픈월드 소울라이크 밀리언셀러 선례 부재'라는 결론은 부재(不在)를 주장하는 것이라 이번 검증으로 확인되지 않았다. 가장 가까운 비교 대상인 Another Crab's Treasure, Hades II, Clair Obscur 수치도 미검증이다. 제출본의 소울라이크 포화 통계(VG Insights, Steam 상위 1% 매출 집중), AI 공개 표기 통계, RV There Yet?, Big Walk, Silksong, Lies of P 수치도 이번에 검증하지 못해 market_notes에서 뺐다."
+  ]
+ },
+ "soulslike-arpg": {
+  "verified": [],
+  "rejected": [
+   {
+    "title": "Lies of P (+Overture DLC)",
+    "reason": "[검증 불가 - 반박된 것은 아님] WebSearch 예산이 소진돼 검색이 한 번도 실행되지 않았고, 원문 URL(Gematsu 등)은 WebFetch가 DNS 오류(ENOTFOUND)로 열리지 않았다. 100만(2023.10)/300만(2025.6)/400만(2026.3) 수치와 가격 $59.99, 개발 기간은 확인하지 못했다. 사용할 때 주의할 점: (1) 300만은 본편+DLC 합산, 400만은 'franchise' 합산이라고 제출자가 직접 적었으므로 본편 단독 판매량으로 인용하면 안 된다. (2) 700만은 구독 포함 플레이어 수이고 판매량이 아니다. (3) 팀 규모 약 300명은 합병 후 수치라 출시 당시 규모가 아니다. 100만/한 달 이내는 내 기억과 방향이 같지만, 기억은 검증이 아니다."
+   },
+   {
+    "title": "Stellar Blade",
+    "reason": "[검증 불가 - 반박된 것은 아님] 검색 예산 소진과 WebFetch DNS 오류로 어떤 수치도 확인하지 못했다. 제출 내용 자체의 약점: (1) '2025년 연매출 2,942억원 중 스텔라 블레이드 1,158억원'은 제출자가 '검색 요약 기준'이라고 인정한 미검증 수치다. (2) '로열티 $15.8M(158억원)'는 Gameworld Observer의 추산이지 회사 공시가 아니다. (3) 'PC 3일 100만'과 '전체 300만'이 서로 다른 기준이라 한 문장으로 읽으면 혼동된다. (4) 인원수는 제출자도 못 찾았다. (5) 'PC는 자체/Sony 병행'이라는 퍼블리싱 구조가 불명확하다. 재검증 전에는 판매량을 인용하지 말 것."
+   },
+   {
+    "title": "The First Berserker: Khazan",
+    "reason": "[판매량 근거 없음] 제출자 본인이 공식 판매량 미공개라고 밝혔고, 비공식 수치 둘(약 55만 장/$26M vs 100만 장+/$50M+)이 서로 충돌하며 어느 쪽도 공식 확인이 없다. 이번 실행에서도 검색 예산 소진으로 교차 확인하지 못했다. 'Nexon이 기대에 못 미쳤다고 인정'했다는 점과 '개발팀 해체 vs 계획된 재배치' 보도는 모두 2차 출처 기반이라 미검증이다. 판매 데이터로 쓸 수 없고, 필요하면 'Nexon이 실적 부진을 인정했다는 보도가 있음' 수준의 정성 사례로만 쓰되 원문(PushSquare, Nexon IR) 확인이 먼저다."
+   },
+   {
+    "title": "Nine Sols",
+    "reason": "[검증 불가 - 반박된 것은 아님] 80만 장(2025.5) 공식 발표, 100만 미달, 크라우드펀딩 NT$1,360만(목표 NT$300만의 약 4.5배) 등을 확인하지 못했다. 크라우드펀딩 환산액 약 $445K는 산술상 무리가 없지만 적용 환율을 알 수 없다. Raijin의 89.4만 장/$16.1M은 제3자 추정이라 공식 수치와 섞어 쓰면 안 된다. 팀 규모(창립 6명, 이후 10명 이상)도 미검증. 재검증 시 GoNintendo/PushSquare 원문과 Red Candle 공식 SNS를 먼저 볼 것."
+   },
+   {
+    "title": "Hades II (그리스 신화)",
+    "reason": "[검증 불가 - 반박된 것은 아님] 얼리 액세스 2024.5, 1.0 2025.9.25, 얼리 액세스 $29.99는 내 기억과 같은 방향이지만 이번 실행에서 확인하지 못했다. 스팀 200만 장/$50~55M(Alinea 추정)과 1.0 동시접속 112,947명은 제3자 수치를 확인하지 못했다. 이 항목은 소울라이크가 아니라 로그라이크이며, 판매 원동력이 Supergiant의 손그림 아트·서사·전작 브랜드라는 제출자의 분석은 '소재(그리스 신화)만으로는 안 팔린다'는 취지로 쓰기에 타당해 보이나 수치 근거는 재검증 필요. 재검증 1순위 후보."
+   },
+   {
+    "title": "Hades (초대)",
+    "reason": "[검증 불가 - 반박된 것은 아님] 2020.9 누적 약 100만 장, 얼리 액세스 약 70만 + 1.0 직후 약 30만이라는 구성은 GameSpot 기사 제목('거의 3분의 1이 마지막 며칠에 판매')과 일관되고 내 기억과도 같은 방향이다. 그러나 이번 실행에서 원문(GameSpot, Prima Games)을 열지 못해 confirmed 처리하지 않았다. 재검증 1순위 후보. 플랫폼별 비율은 비공개라는 제출 내용은 그대로 유지할 것."
+   },
+   {
+    "title": "Lords of the Fallen (2023)",
+    "reason": "[검증 불가 - 반박된 것은 아님] 100만(2023.10)/약 130만(2023말)/200만(2025.8)/250만 및 손익분기(2026.3) 발표와 예산 2.98억 즈워티(약 $80.45M)를 확인하지 못했다. 제출 내용 자체의 주의점: (1) 예산이 2023 보도($66M 이상)와 2026 발표 사이에 다르다고 제출자도 인정했다. 어느 쪽이 맞는지는 원문 대조가 필요하다. (2) 2023 회계연도 매출 2.45억 즈워티, 순이익 1,450만 즈워티, 이 게임 85% 비중은 연차보고서 PDF를 열지 못해 미검증이다. (3) 'Lords of the Fallen II는 2026 출시 예정, 일자 미확인'은 오늘이 2026.10이므로 이미 출시됐을 수 있다. 낡았을 가능성이 있는 문장이다."
+   },
+   {
+    "title": "Thymesia",
+    "reason": "[판매량 근거 없음] 공식 판매량이 없고 제3자 추정이 크게 엇갈린다(SteamPulse/VG Insights 최대 약 28.7만 장 vs SteamSpy 50만~100만 보유자). SteamSpy 자체가 신작은 오차가 크다고 경고한다고 제출자도 적었다. 이번 실행에서 교차 확인도 못했다. 성공/실패 판단을 보류한다고 제출자가 이미 밝혔으므로 판매 사례로 쓸 수 없다. 팀 7명과 Team17 지원 인력 설명은 정성 정보로만 참고하고 원문(Wikipedia, CGMagazine) 확인 후 사용할 것."
+   },
+   {
+    "title": "Mortal Shell / Mortal Shell II",
+    "reason": "[검증 불가] 초대 50만(Enhanced Edition 시점) → 약 100만 장은 확인하지 못했다. 속편(2026.8.20 출시) 수치는 내 지식 시점(2026.6) 이후라 독립적으로 반박하거나 확인할 방법이 없다. 속편의 두 수치(Raijin 스팀 약 96.2만 장/$28.9M vs 3DNews 전 플랫폼 51만 장+)가 서로 충돌하고, 동시접속 최고치도 출처별로 37.8K~44.3K로 다르다. 개발사 국가도 제출자가 미확인이라고 적었다. 팀 규모 약 15명+프리랜서/외주 설명은 Unreal Engine 인터뷰 원문을 확인한 뒤 사용할 것."
+   },
+   {
+    "title": "Another Crab's Treasure",
+    "reason": "[검증 불가 - 반박된 것은 아님] 첫날 3만/4일 10만/1주 15만/1개월 25만/2024.8 50만 장, 플랫폼 비율(스팀 약 60%), 가격 $29.99, Game Pass 동시 출시는 내 기억과 같은 방향이지만 이번 실행에서 Game World Observer/WN Hub/Xbox 스토어 원문을 열지 못해 confirmed 처리하지 않았다. 'Game Pass 포함 전체 이용자 100만 근처'는 GameDiscoverCo 추정이라 판매량과 구분해야 한다. 2024.8 이후 갱신치가 없으므로 오늘(2026.10) 기준 누적은 알 수 없다. 재검증 1순위 후보(소규모 팀 참고 사례로 가치 큼)."
+   },
+   {
+    "title": "Achilles: Legends Untold (그리스 신화)",
+    "reason": "[판매량 근거 없음] 공식 판매량이 없고 수치는 전부 Raijin의 제3자 추정(스팀 약 6.05만 장/$907K, 평가 78%)이다. 개발사의 '1년 10만 장' 목표 달성 여부도 확인 불가다. 제작비 400만 즈워티 초과는 개발사 블로그 원문을 열지 못해 미검증이다. '후속작 Achilles: Survivor가 판매를 끌어올렸다'는 폴란드 보도도 2차 출처다. 그리스 신화 소울라이크의 소규모 팀 사례라는 점은 가치가 있으나, 수치는 '추정치이며 신뢰도 낮음'으로 표기하지 않는 한 사용하지 말 것."
+   },
+   {
+    "title": "Titan Quest II (그리스 신화)",
+    "reason": "[검증 불가 - 반박된 것은 아님] 얼리 액세스 72시간 내 30만 장 이상(RPGSite)과 제3자 추정(PlayTracker 46만, Raijin 48.9만/$10.3M, SteamPulse 50.4만)을 확인하지 못했다. 1.0 출시 2027.1.19 연기는 2026.9 프랑스 매체 보도로 내 지식 시점 이후라 확인 불가. 동시접속 889명(2026.8.24)은 특정 시점 관측치라 판매 부진의 증거로 쓰려면 원문 확인이 필요하다. 개발사 Grimlore(독일)/퍼블리셔 THQ Nordic(오스트리아) 국가 표기는 제출자가 '일반 지식 기반'이라고 밝힌 부분이다. 소울라이크가 아닌 핵앤슬래시라는 구분은 제출자 표기 그대로 유지할 것."
+   },
+   {
+    "title": "Wuchang: Fallen Feathers",
+    "reason": "[검증 불가 - 반박된 것은 아님] Digital Bros 발표(2026.3.31까지 100만 장+, 매출 €3,000만+), 가격 $49.99, Raijin 스팀 130만/$38.9M, GameDiscoverCo 2025.7 스팀 매출 $19.1M, Alinea의 위시리스트 60%·사전 주문 $2M 등을 하나도 확인하지 못했다. 출시 1주년 구독 포함 500만 플레이어는 판매량이 아니다. Digital Bros가 약 €400만에 IP를 인수했다는 내용과 Leenzee 폐업 보도는 제출자도 미확인이라고 적었으므로 인용하지 말 것. 재검증 시 Digital Bros IR 문서를 최우선으로 볼 것."
+   },
+   {
+    "title": "Black Myth: Wukong",
+    "reason": "[검증 불가 - 반박된 것은 아님] 출시 3일 1,000만 장(2024.8)은 내 기억과 같은 방향이지만 이번 실행에서 원문을 확인하지 못했다. Yicai의 '약 1개월 후 스팀 2,000만 장+/68억 위안($9.61억)'도 미확인이다. 2,500만(Niko)/2,700만(Alinea)/3,000만+(공청단 보고서, 시점 불명, 약 절반이 중국 내)은 제출자도 비공식·2차 출처라고 인정했다. 공식 수치(1,000만, 3일)만 쓰고 나머지는 추정으로 구분해야 한다. 소울라이크 스팀 태그 1위는 태그 기준이지 장르 판정이 아니다. 1인/소규모 팀의 목표가 아니라 상한선 참고용이라는 제출자 해석은 타당해 보인다."
+   },
+   {
+    "title": "Enotria: The Last Song",
+    "reason": "[판매량 근거 없음] 공식 판매량이 없고 근거는 SteamSpy 보유자 범위(5만~10만 명)뿐이며, SteamSpy가 신작은 과소추정할 수 있다고 제출자가 직접 경고했다. 다른 플랫폼 수치도 없다. 제출자가 '성공 요인 판단 불가'라고 적었으므로 판매 사례로서 가치가 없고, 이번 실행에서도 교차 확인하지 못했다. 가격 $39.99도 SteamSpy 표기라 스토어 페이지 확인이 필요하다."
+   }
+  ],
+  "market_notes": [
+   "이번 팩트체크는 완료되지 못했다. WebSearch는 턴당 호출 한도(200회, 여러 에이전트 공유)가 이미 소진돼 한 번도 실행되지 않았고, WebFetch는 gematsu.com, gonintendo.com, gamespot.com, gameworldobserver.com, cigames.com, yicaiglobal.com 6곳 모두 DNS 오류(getaddrinfo ENOTFOUND)로 실패했다. 검색 한도나 DNS 오류를 curl 등으로 우회하지 않았다. 따라서 제출된 15개 항목의 수치 중 이번 실행에서 확인된 것은 0개이고, 'rejected'는 '틀렸다'가 아니라 '확인하지 못했다'는 뜻이다.",
+   "제출된 market_notes(소울라이크 시장 구조, 중앙값 매출, 한국 사례 비교, 소규모 팀 공통점, 그리스 신화 소재 분석, 신작 Phantom Blade Zero, 후속작 효과와 IP 리스크, Steam AI 공개 정책)는 검증된 것만 남기라는 지시에 따라 이번 결과에서 모두 제외했다. 틀렸다고 확인된 것이 아니라 확인하지 못한 것이다. 특히 2026.7~9월 보도(Mortal Shell II, Titan Quest II 연기, Phantom Blade Zero 2026.10.29 출시 예정, Steam AI 정책 2026.1 개정)는 내 지식 시점(2026.6) 이후라 독립적으로 확인할 수 없다.",
+   "재검증이 필요하면 사용자가 후속 메시지로 검색을 이어가거나 CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION을 올려야 한다. 우선순위는 (1) 공식 발표 기반이라 가장 가치가 큰 Hades 100만, Another Crab's Treasure 50만, Nine Sols 80만, Lies of P 100만/300만(본편+DLC), Lords of the Fallen 250만/손익분기, Wuchang 100만/€3,000만, Black Myth 1,000만/3일. (2) Mortal Shell 1편 100만과 Hades II 1.0 날짜. (3) 제3자 추정치 항목(Thymesia, Enotria, Achilles, Titan Quest II 스팀 추정)은 신뢰도가 낮아 우선순위가 낮다.",
+   "제출 내용 자체에서 읽히는 구조적 주의점(검색 없이 판단 가능한 논리 점검): (1) 제출자는 'Lies of P 400만'을 franchise 합산이라고 적었으므로 본편 판매량으로 쓰면 안 된다. (2) 구독 포함 플레이어 수(Lies of P 700만, Wuchang 500만)는 판매량이 아니다. (3) 제출 15개 중 Hades, Hades II는 로그라이크, Titan Quest II는 핵앤슬래시로 소울라이크가 아니다. (4) 이 목록에는 사람 아티스트 없이 만든 상업적 성공작이 없다고 제출자도 인정했으므로, 'AI 생성 에셋만으로 상업적 성공이 가능하다'는 근거는 이 조사에서 나오지 않는다. 이 항목들은 검색 결과가 아니라 제출 텍스트의 논리 점검이다."
+  ]
+ },
+ "feasible-genres": {
+  "verified": [],
+  "rejected": [
+   {
+    "title": "Vampire Survivors",
+    "reason": "[검증 불가: 도구 제한] 새 근거를 얻지 못해 확인도 정정도 하지 못했다. 제출 수치가 틀렸다는 뜻이 아니다. 재검증 때 볼 점: (a) '출시 후 2~3개월 100만 장'은 The Game Business 인터뷰 원문을 열지 못했다. (b) 플레이어 2,700만 명은 판매량이 아니다. (c) Steam 600만 장은 서드파티 추정이다. (d) Vampire Crawlers 1주 100만 장은 원문 발표 미확인이다. (e) 'Steam 얼리액세스 시작일'은 itch.io 2021-12와 별개로 확인해야 한다. 내 기억으로는 2022-03경이지만 미검증이다."
+   },
+   {
+    "title": "Balatro",
+    "reason": "[검증 불가: 도구 제한] 제출 수치(전 플랫폼 500만 장 이상, 2025-01-21 발표, $14.99, 1인)가 제출본 안에서는 일관되지만 PocketGamer.biz 원문 열람에 실패해 직접 확인하지 못했다. 2026년 갱신치도 확인하지 못했다. 재검증 필요."
+   },
+   {
+    "title": "Slay the Spire 2",
+    "reason": "[검증 불가: 도구 제한] 확인하지 못했다. 재검증 때 볼 점: (a) 공식 330만 장(1주)과 Alinea 500만 장 이상/약 1.08억 달러(2026-03)는 기간이 같은지 불분명하다. (b) 가격이 '미확인'이다. (c) Godot 전환은 보도 수준이고 1차 출처가 없다. (d) 핵심 인원 약 10명의 출처가 없다."
+   },
+   {
+    "title": "Megabonk",
+    "reason": "[검증 불가: 도구 제한] 확인하지 못했다. 제출본 안의 불일치도 풀지 못했다. 가격이 $5.49/$9.99/€9.75로 갈리고, 동시접속이 약 10.2만 명과 117,336명으로 갈린다. 엔진도 미확인이다. 공식 '2주 100만 장'은 개발자 발표 원문을 열어 확인해야 한다."
+   },
+   {
+    "title": "Brotato",
+    "reason": "[검증 불가: 도구 제한] 확인하지 못했다. '2025년 1,000만 장 이상(위키백과)'은 제출자도 1차 출처를 못 찾은 수치라 근거가 약하다. 얼리액세스 중 100만 장, 1.0 시점 Steam 200만 장 이상은 gamedeveloper.com 보도자료로 재확인해야 한다. 가격도 미확인이다."
+   },
+   {
+    "title": "Lethal Company",
+    "reason": "[검증 불가: 도구 제한] 확인하지 못했다. 공식 수치가 없고 추정치가 540만~1,000만 장으로 크게 갈린다. 재검증하더라도 추정치로만 표기해야 하며, 가격과 연도(얼리액세스 2023-10)도 원문 확인이 필요하다."
+   },
+   {
+    "title": "R.E.P.O.",
+    "reason": "[검증 불가: 도구 제한] 확인하지 못했다. 공식 수치가 없고 추정치가 150만~310만 장(리뷰 계산기 1,350만 장은 판매 보고가 아닌 계산값)으로 갈린다. 개발사 정보와 규모도 미확인이다. 근거가 약해 재검증 없이는 쓰기 어렵다."
+   },
+   {
+    "title": "PEAK",
+    "reason": "[검증 불가: 도구 제한] 확인하지 못했다. 재검증 때 볼 점: (a) 450만 장(4주 이내)과 500만 장(26일)은 서로 다른 시점일 수 있다. (b) 1,000만 장은 Alinea 추정이며 단일 매체 인용이다. (c) 위시리스트 29,384개와 인원 7명, 서울 게임잼은 GameDiscoverCo 원문으로 확인해야 한다."
+   },
+   {
+    "title": "Schedule I",
+    "reason": "[검증 불가: 도구 제한] 확인하지 못했다. 판매량 추정치가 200만~520만 장(주장 800만 장)으로 갈리고 공식 수치가 없다. 개발 인원이 1명과 3명으로 갈리는 불일치와 가격 미확인도 풀지 못했다. 근거가 약하다."
+   },
+   {
+    "title": "Buckshot Roulette",
+    "reason": "[검증 불가: 도구 제한] 확인하지 못했다. PC 800만 장 이상은 Steam 이벤트 피드 발표 원문을 보지 못했고, 발표 날짜 표기(2025-12-23)도 출처마다 다를 수 있다. Godot 사용은 2차 출처 기준이다. 가격은 미확인이다."
+   },
+   {
+    "title": "The Ball x Pit",
+    "reason": "[검증 불가: 도구 제한] 확인하지 못했다. 재검증 때 볼 점: (a) Devolver 2026-08-06 보도자료의 200만 장 이상이라는 수치와 날짜는 원문을 열지 못했다. (b) 가격이 $14.99와 $11.99(2026-06)로 갈린다. (c) 아트 의존도 'low'는 제출자 추정이다. (d) 팀 규모는 미확인이다."
+   },
+   {
+    "title": "Dyson Sphere Program",
+    "reason": "[검증 불가: 도구 제한] 확인하지 못했다. 4일 만에 20만 장 이상과 2021-09 기준 170만 장 이상은 WN Hub와 TechRaptor 원문 재확인이 필요하다. 2026년 350만 장은 팬 위키 주장이라 미확인이다. 5인 팀, 충칭 소재, 가격도 원문 확인이 필요하다."
+   },
+   {
+    "title": "Valheim",
+    "reason": "[검증 불가: 도구 제한] 확인하지 못했다. 1주 100만, 약 1개월 500만, 약 14개월 1,000만 장 이상(2022-04 발표)은 PC Gamer, Inven Global, WN Hub 원문으로 재확인해야 한다. 출시 시 5인 팀 수치도 마찬가지다. 아트 의존도 'medium'은 제출자의 보수적 판단이다."
+   },
+   {
+    "title": "WEBFISHING",
+    "reason": "[검증 불가: 도구 제한] 확인하지 못했다. 공식 수치가 없고 추정치가 약 130만~506만 장으로 크게 갈리며 Vaporlens 값은 제출자도 이상치로 봤다. Godot 사용은 정황일 뿐이고, 2022 게임잼 기원과 약 $5 가격도 원문 확인이 필요하다."
+   },
+   {
+    "title": "Blue Prince",
+    "reason": "[검증 불가: 도구 제한] 확인하지 못했다. 제출본에도 판매량이 없고 누적 '플레이어' 200만 명 이상은 Game Pass와 PS Plus 제공분이 섞여 판매량이 아니다. 개발 규모와 가격도 미확인이다. 판매 근거로는 약하며 재검증 후에도 상업 성과 사례로 쓰기 어렵다."
+   }
+  ],
+  "market_notes": [
+   "[검증 불가 안내] 이번 세션에서는 제출 목록을 새로 검증하지 못했다. 그래서 검증 통과로 남길 수치와 market_notes가 없다. 원인은 세 가지다. (1) WebSearch가 첫 호출부터 '턴당 200회 한도 소진(에이전트 공유)'으로 거부됐다. (2) WebFetch가 pocketgamer.biz, thegamebusiness.com, gosugamers.net, gamedeveloper.com 모두 getaddrinfo ENOTFOUND로 실패했다. (3) Bash curl은 프록시가 CONNECT 403(정책 차단)으로 막았고, 한도 우회를 금지하는 지시에 따라 검색 엔진이나 제3자 프록시, 아카이브로 돌려 시도하지 않았다. rejected에 있는 항목은 틀렸다고 판정된 것이 아니라 확인하지 못한 것이다. 재검증하려면 사용자가 후속 메시지로 검색을 이어가게 하거나 CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION 값을 올려야 한다. 새 근거가 없으므로 제출본의 시장 통계, Steam AI 공시 규정, Godot 현황, WHEELFIRE 시사점 항목은 모두 이번 검증을 거치지 않았다."
+  ]
+ }
+}
